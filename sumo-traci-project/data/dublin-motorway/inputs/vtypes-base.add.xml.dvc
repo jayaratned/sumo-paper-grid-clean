@@ -1,0 +1,5 @@
+outs:
+- md5: af5b4589c934e8cfca1109a4e758434b
+  size: 1003
+  hash: md5
+  path: vtypes-base.add.xml

@@ -1,0 +1,13 @@
+1. To dos for 06th Monday meeting
+    - Edge detection based on connectivity and upstream distance feature instead of current geometric base
+        - Investigate if detectors can be set at downstream points to collect data?
+    - Check edge to lane identifiction methodology
+    - Define all metrics used in with additional metrics TTG TTR in meeting notes (and also paper?)
+    - Extend to dublin national road and city centre (fix compatibility issues)
+    - Have at least crude impact rating system
+
+2. Current work
+    - Check edge to lane identifiction methodology
+
+3. Done
+    - Integrate network vis to main dublin line

@@ -1,0 +1,5 @@
+outs:
+- md5: 1b66ca76598ae8f61d5ae516a34429a3
+  size: 338450
+  hash: md5
+  path: test_base.xml

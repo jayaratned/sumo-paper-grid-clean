@@ -1,0 +1,63 @@
+<mxfile host="app.diagrams.net" modified="2023-12-14T05:00:20.686Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="W5cwe3B3y0DHU81AsLQl" version="22.1.8" type="device">
+  <diagram name="Page-1" id="iUmxCyDw3pdFKHmy87Ro">
+    <mxGraphModel dx="980" dy="1799" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="DJTYQQl0nQ3fAe4MnEVs-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gA4oFaZIVoCv_p_rKOeT-2" target="gA4oFaZIVoCv_p_rKOeT-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gA4oFaZIVoCv_p_rKOeT-2" value="Road and Traffic &lt;br style=&quot;font-size: 15px;&quot;&gt;layer" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" parent="1" vertex="1">
+          <mxGeometry x="383" y="30" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gA4oFaZIVoCv_p_rKOeT-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" parent="1" source="gA4oFaZIVoCv_p_rKOeT-3" target="gA4oFaZIVoCv_p_rKOeT-17" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gA4oFaZIVoCv_p_rKOeT-3" value="Microscopic simulation model" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" parent="1" vertex="1">
+          <mxGeometry x="170" y="130" width="410" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gA4oFaZIVoCv_p_rKOeT-4" value="Adversary model" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" parent="1" vertex="1">
+          <mxGeometry x="610" y="120" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gA4oFaZIVoCv_p_rKOeT-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=15;" parent="1" source="gA4oFaZIVoCv_p_rKOeT-5" target="gA4oFaZIVoCv_p_rKOeT-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gA4oFaZIVoCv_p_rKOeT-5" value="Cyber threat &lt;br style=&quot;font-size: 15px;&quot;&gt;scenario" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;fontSize=15;" parent="1" vertex="1">
+          <mxGeometry x="610" y="30" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gA4oFaZIVoCv_p_rKOeT-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=15;" parent="1" target="gA4oFaZIVoCv_p_rKOeT-3" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="610" y="160" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gA4oFaZIVoCv_p_rKOeT-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=15;" parent="1" source="gA4oFaZIVoCv_p_rKOeT-17" target="gA4oFaZIVoCv_p_rKOeT-18" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gA4oFaZIVoCv_p_rKOeT-17" value="Resultant Incident" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" parent="1" vertex="1">
+          <mxGeometry x="172" y="220" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gA4oFaZIVoCv_p_rKOeT-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=15;" parent="1" source="gA4oFaZIVoCv_p_rKOeT-18" target="gA4oFaZIVoCv_p_rKOeT-23" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gA4oFaZIVoCv_p_rKOeT-18" value="Operational impact&lt;br style=&quot;font-size: 15px;&quot;&gt;metrics" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" parent="1" vertex="1">
+          <mxGeometry x="410" y="220" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gA4oFaZIVoCv_p_rKOeT-23" value="&amp;nbsp;Cyber-attack Operational&lt;br style=&quot;font-size: 15px;&quot;&gt;Impact rating" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=3;fontSize=15;" parent="1" vertex="1">
+          <mxGeometry x="610" y="220" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DJTYQQl0nQ3fAe4MnEVs-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="oSPrztgjsk36Mk6NhCu0-1" target="gA4oFaZIVoCv_p_rKOeT-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oSPrztgjsk36Mk6NhCu0-1" value="Network communications &lt;br style=&quot;font-size: 15px;&quot;&gt;layer" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" parent="1" vertex="1">
+          <mxGeometry x="170" y="30" width="204" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DJTYQQl0nQ3fAe4MnEVs-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=15;" edge="1" parent="1" source="DJTYQQl0nQ3fAe4MnEVs-1" target="gA4oFaZIVoCv_p_rKOeT-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DJTYQQl0nQ3fAe4MnEVs-1" value="Potential cyber threats" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=3;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="172" y="-60" width="388" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

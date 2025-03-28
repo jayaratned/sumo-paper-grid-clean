@@ -1,0 +1,5 @@
+outs:
+- md5: 2fbbf5a1e8e06c07aaa25f64e2942a75
+  size: 20592
+  hash: md5
+  path: base_mean_lane_metrics_all.csv

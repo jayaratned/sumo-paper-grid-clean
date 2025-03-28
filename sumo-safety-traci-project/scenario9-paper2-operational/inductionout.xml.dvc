@@ -1,0 +1,5 @@
+outs:
+- md5: 46d7bb611201f5bf858bc8ac45909c9f
+  size: 83106731
+  hash: md5
+  path: inductionout.xml

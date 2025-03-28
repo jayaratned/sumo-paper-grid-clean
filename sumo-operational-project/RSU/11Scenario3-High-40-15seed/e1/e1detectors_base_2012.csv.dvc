@@ -1,0 +1,5 @@
+outs:
+- md5: 0abcdeff8174b5a6522fa0295b1c08bf
+  size: 172374
+  hash: md5
+  path: e1detectors_base_2012.csv

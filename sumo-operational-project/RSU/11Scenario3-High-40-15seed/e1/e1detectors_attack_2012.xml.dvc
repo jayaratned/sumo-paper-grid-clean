@@ -1,0 +1,5 @@
+outs:
+- md5: 59542614d95b89a2e8c188c33651dfc1
+  size: 487701
+  hash: md5
+  path: e1detectors_attack_2012.xml

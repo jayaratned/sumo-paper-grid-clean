@@ -1,0 +1,5 @@
+outs:
+- md5: 882c0b1b3cbcc3eaf8d0c3a69bcd8096
+  size: 1472
+  hash: md5
+  path: statistic.xml

@@ -1,0 +1,5 @@
+outs:
+- md5: 8a896fb1429849a9c4e8e1b07191b652
+  size: 666
+  hash: md5
+  path: detectors.xml

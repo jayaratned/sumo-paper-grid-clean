@@ -1,0 +1,5 @@
+outs:
+- md5: 5fd1dca32e9a91b52dbccaf3071c916d
+  size: 38337
+  hash: md5
+  path: mean_density_intervals.csv

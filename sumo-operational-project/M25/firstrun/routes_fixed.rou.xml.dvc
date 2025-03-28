@@ -1,0 +1,5 @@
+outs:
+- md5: f636738367e200e7b2f37027343bf2ef
+  size: 61168
+  hash: md5
+  path: routes_fixed.rou.xml

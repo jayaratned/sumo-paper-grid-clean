@@ -1,0 +1,12 @@
+/base_lane_metrics_all_step.csv
+/gridlocked_edges.csv
+/attack_detector_data.csv
+/base_detector_data.csv
+/base_vehicle_counts.csv
+/stopped_vehicles.csv
+/base_lane_metrics_in_radius_step.csv
+/base_mean_speeds.csv
+/detectors.xml
+/upstream_edges.xml
+/radius_edges.xml
+/upstream_edge_tags.xml

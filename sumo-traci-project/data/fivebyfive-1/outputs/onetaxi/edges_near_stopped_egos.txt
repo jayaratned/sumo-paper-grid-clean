@@ -1,0 +1,15 @@
+edge:D3D4
+edge:C3D3
+edge:C2D2
+edge:D3D2
+edge:D3C3
+edge:D1D2
+edge:D3E3
+edge:D2D3
+edge:D2D1
+edge:E2D2
+edge:D4D3
+edge:D2E2
+edge:E2E3
+edge:D2C2
+edge:E3D3

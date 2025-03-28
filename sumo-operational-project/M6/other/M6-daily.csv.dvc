@@ -1,0 +1,5 @@
+outs:
+- md5: 58f1dc8763f3397ed2f1987155cb9df6
+  size: 3804
+  hash: md5
+  path: M6-daily.csv

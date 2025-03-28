@@ -1,0 +1,5 @@
+outs:
+- md5: 1e22b156cbaeb8c09b778ec53cc2e59d
+  size: 56329
+  hash: md5
+  path: test.xml

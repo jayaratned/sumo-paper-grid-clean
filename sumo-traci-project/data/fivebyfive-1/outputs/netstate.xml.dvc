@@ -1,0 +1,5 @@
+outs:
+- md5: c66b8eaa86140f42d02773eeb8b1d8f8
+  size: 13214314
+  hash: md5
+  path: netstate.xml

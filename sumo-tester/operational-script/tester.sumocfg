@@ -1,0 +1,27 @@
+<configuration>
+    <input>
+        <net-file value="tester.net.xml"/>
+        <route-files value="tester.rou.xml"/>
+        <additional-files value="detectors1.add.xml"/>
+        <gui-settings-file value="gui-settings.xml"/>
+    </input>
+
+    <seed value="23423"/>
+
+    <time>
+        <begin value="0"/>
+        <end value="3600"/>
+        <time-to-teleport value="99999999"/> <!-- vehicles will wait for xxx seconds before being teleported -->
+        <step-length value="0.05"/>
+    </time>
+
+
+    <processing>
+        <extrapolate-departpos value="true"/>
+        <no-internal-links value="false"/> <!-- this can be set true to ensure no teleportation. Drawback: the vehicles will jump across intersection, result not realistic-->
+    </processing>
+
+    <report>
+        <no-step-log value="true"/>
+    </report>
+</configuration>

@@ -1,0 +1,10 @@
+tau; normal(1,0.1)
+sigma; normal(0.5,0.2) [0,1]
+decel; normal(4.25,0.25); [4.0,4.5]
+accel; normal(2.5,0.1); [2.4,2.6]
+speedFactor; normal(1.1,0.2); [0.8,1.2]
+emergencyDecel; 4.5
+apparentDecel; normal(4.0, 0.5);
+vClass; passenger
+carFollowModel; Krauss
+probability; 0.01

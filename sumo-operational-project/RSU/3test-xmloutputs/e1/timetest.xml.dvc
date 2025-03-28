@@ -1,0 +1,5 @@
+outs:
+- md5: 3fe231bd3ad1395fa0c0508c75120b85
+  size: 338402
+  hash: md5
+  path: timetest.xml

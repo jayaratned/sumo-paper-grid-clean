@@ -1,0 +1,4 @@
+#!/bin/bash
+cd "$(dirname "$0")" # Set working directory to the directory of the script
+SUMO_TOOLS_PATH=$(cat sumo_tools_path.conf)
+python3 $SUMO_TOOLS_PATH/visualization/plot_net_selection.py "$@"

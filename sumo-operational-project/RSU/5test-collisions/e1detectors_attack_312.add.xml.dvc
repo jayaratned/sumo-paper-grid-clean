@@ -1,0 +1,5 @@
+outs:
+- md5: f96609c284df75e7d9c17277ed7f9df1
+  size: 10994
+  hash: md5
+  path: e1detectors_attack_312.add.xml

@@ -1,0 +1,5 @@
+outs:
+- md5: 2f1b867b2a286feae0a685c3cff45b2c
+  size: 77762
+  hash: md5
+  path: aggregatedv3.csv

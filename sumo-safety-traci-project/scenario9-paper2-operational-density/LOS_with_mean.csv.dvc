@@ -1,0 +1,5 @@
+outs:
+- md5: 3eb304cb080c308e7397a520539936da
+  size: 762
+  hash: md5
+  path: LOS_with_mean.csv

@@ -1,0 +1,5 @@
+outs:
+- md5: e6c2aee3982d13e484238736eeee0c11
+  size: 107
+  hash: md5
+  path: lanedetectors.add.xml

@@ -1,0 +1,6 @@
+added runtime to sumo_utils.py
+changed input folder to ITSC2020, changed config 
+updated vis.py plot titles
+updated slowdown time from 5 to 10s
+changed plot range 900-1800 in vis.py
+updating Readme.md file

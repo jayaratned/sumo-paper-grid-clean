@@ -1,0 +1,5 @@
+outs:
+- md5: 9bc017e35c8a93a47e3f0958047a36ed
+  size: 76630
+  hash: md5
+  path: detector_results.csv

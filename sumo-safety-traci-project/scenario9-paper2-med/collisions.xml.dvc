@@ -1,0 +1,5 @@
+outs:
+- md5: c4edd5d6dfe8c0fff6da8cfacab17a4e
+  size: 1856
+  hash: md5
+  path: collisions.xml

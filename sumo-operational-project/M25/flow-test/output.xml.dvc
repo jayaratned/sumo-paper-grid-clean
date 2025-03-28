@@ -1,0 +1,5 @@
+outs:
+- md5: 5c6af1c5d919444f60bc4dc9826347ba
+  size: 2841
+  hash: md5
+  path: output.xml

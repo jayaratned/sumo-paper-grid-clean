@@ -1,0 +1,5 @@
+outs:
+- md5: 2ff4cecf5036428bc9ddccfa792946dd
+  size: 598
+  hash: md5
+  path: stopped_vehicles1.csv

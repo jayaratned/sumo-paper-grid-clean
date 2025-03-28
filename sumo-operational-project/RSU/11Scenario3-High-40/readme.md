@@ -1,0 +1,1 @@
+Tested emergency braking when max speed limit enforcement. The CAVs will go into emegency braking unless smooth deceleration is enforced. This is solved by adding a deceleration function to the VSL control. Now seperate scenarios for both types of decelerations can be run.

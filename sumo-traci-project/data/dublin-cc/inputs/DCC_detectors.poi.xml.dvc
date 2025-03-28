@@ -1,0 +1,5 @@
+outs:
+- md5: 7476eb1b8155d2a6f33559efec64e813
+  size: 49141
+  hash: md5
+  path: DCC_detectors.poi.xml

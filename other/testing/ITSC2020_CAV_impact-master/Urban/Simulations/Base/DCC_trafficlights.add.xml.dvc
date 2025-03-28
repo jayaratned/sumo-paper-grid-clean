@@ -1,0 +1,5 @@
+outs:
+- md5: 1bd00c921e5e0af153f6c19f077eda56
+  size: 164901
+  hash: md5
+  path: DCC_trafficlights.add.xml

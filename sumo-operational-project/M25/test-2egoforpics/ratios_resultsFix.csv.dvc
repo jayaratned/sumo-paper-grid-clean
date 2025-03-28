@@ -1,0 +1,5 @@
+outs:
+- md5: fd8a6e615b134567ad896092b3c0af75
+  size: 168639
+  hash: md5
+  path: ratios_resultsFix.csv

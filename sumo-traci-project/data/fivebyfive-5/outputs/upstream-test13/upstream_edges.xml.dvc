@@ -1,0 +1,5 @@
+outs:
+- md5: 25eb1c7204d3ddaa20c9b72cbc2344fb
+  size: 2848
+  hash: md5
+  path: upstream_edges.xml

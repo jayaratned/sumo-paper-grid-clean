@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<configuration>
+    <input>
+        <net-file value="safety.net.xml"/>
+        <route-files value="safety.rou.xml"/>
+        <!-- <additional-files value="safety.add.xml"/> -->
+        <additional-files value="lanedetectors.add.xml"/>
+    </input>
+
+    <gui_only>
+        <gui-settings-file value="gui-settings.xml"/>
+    </gui_only>
+
+    <random_number>
+        <seed value="23423"/>
+    </random_number>
+
+    <time>
+        <begin value="0"/>
+        <end value="7200"/>
+        <!-- <step-method.ballistic value="True"/> -->
+        <step-length value="0.1"/>
+        <default.action-step-length value="1"/>
+    </time>
+
+    <processing>
+        <collision.mingap-factor value="0"/>
+        <collision.action value="remove"/>
+        <collision.stoptime value="7200"/>
+        <!-- <time-to-teleport value="7200"/> -->
+    </processing>
+
+    <output>
+        <!-- <collision-output value="collisions.xml"/> -->
+        <!-- <full-output value="outputs.xml"/> -->
+    </output>
+</configuration>

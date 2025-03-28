@@ -1,0 +1,5 @@
+outs:
+- md5: c28d44707fdddde7ae365195c654afb2
+  size: 796
+  hash: md5
+  path: tester.rou.xml

@@ -1,0 +1,17 @@
+/attack_vehicle_counts.csv
+/base_lane_metrics_all_step.csv
+/gridlocked_edges.csv
+/attack_mean_edge_delays_all.csv
+/base_mean_lane_metrics_radius.csv
+/attack_mean_speeds.csv
+/base_mean_edge_delays_all.csv
+/attack_mean_lane_metrics_all.csv
+/attack_lane_metrics_all_step.csv
+/base_vehicle_counts.csv
+/attack_mean_lane_metrics_radius.csv
+/base_mean_edge_delays_radius.csv
+/base_mean_lane_metrics_all.csv
+/base_lane_metrics_in_radius_step.csv
+/base_mean_speeds.csv
+/attack_lane_metrics_in_radius_step.csv
+/attack_mean_edge_delays_radius.csv

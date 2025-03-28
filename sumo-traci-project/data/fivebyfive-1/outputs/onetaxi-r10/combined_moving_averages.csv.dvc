@@ -1,0 +1,5 @@
+outs:
+- md5: e32c736a619952657505519dacd5b943
+  size: 313314
+  hash: md5
+  path: combined_moving_averages.csv

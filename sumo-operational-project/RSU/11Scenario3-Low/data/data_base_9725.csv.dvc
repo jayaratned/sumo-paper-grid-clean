@@ -1,0 +1,5 @@
+outs:
+- md5: a0f57408eb3feb4026d94b0be7be9b1d
+  size: 26529264
+  hash: md5
+  path: data_base_9725.csv

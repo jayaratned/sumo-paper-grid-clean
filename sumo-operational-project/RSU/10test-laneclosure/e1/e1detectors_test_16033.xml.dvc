@@ -1,0 +1,5 @@
+outs:
+- md5: 43378d832e2d55dd1431f29437e71dd1
+  size: 37392
+  hash: md5
+  path: e1detectors_test_16033.xml

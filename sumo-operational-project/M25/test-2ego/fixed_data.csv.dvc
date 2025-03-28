@@ -1,0 +1,5 @@
+outs:
+- md5: d194f25ef985558d6c527c4d50363ec6
+  size: 316147
+  hash: md5
+  path: fixed_data.csv

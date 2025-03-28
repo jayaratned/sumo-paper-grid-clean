@@ -1,0 +1,5 @@
+outs:
+- md5: 467f027bb1737f7a7ccab70dbf2cdcbb
+  size: 181
+  hash: md5
+  path: upstream_edge_tags.xml

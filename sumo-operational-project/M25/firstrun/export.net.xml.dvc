@@ -1,0 +1,5 @@
+outs:
+- md5: 7db0e77486021d5a4796a109976ed697
+  size: 537122
+  hash: md5
+  path: export.net.xml

@@ -1,0 +1,5 @@
+outs:
+- md5: eb3d35c8f3d028ad755497fc82e2cba4
+  size: 1381
+  hash: md5
+  path: changes_log.csv

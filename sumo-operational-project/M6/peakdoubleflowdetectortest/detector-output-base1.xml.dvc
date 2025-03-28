@@ -1,0 +1,5 @@
+outs:
+- md5: 2fd1d11b17396ea412c2d7079f6f26e7
+  size: 4651
+  hash: md5
+  path: detector-output-base1.xml

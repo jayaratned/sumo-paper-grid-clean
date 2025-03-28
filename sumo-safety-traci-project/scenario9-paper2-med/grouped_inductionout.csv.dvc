@@ -1,0 +1,5 @@
+outs:
+- md5: 78531034b86224d6b39d9f3188be77ff
+  size: 4580
+  hash: md5
+  path: grouped_inductionout.csv

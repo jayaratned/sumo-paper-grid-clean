@@ -1,0 +1,5 @@
+outs:
+- md5: 80fc636fa55b3982eda9702304e2878a
+  size: 489056
+  hash: md5
+  path: e1detectors_base_14113.xml

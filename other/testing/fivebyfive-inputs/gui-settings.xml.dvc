@@ -1,0 +1,5 @@
+outs:
+- md5: 2bfa5f23f5b6068ffc6ac1c5396594a5
+  size: 61801
+  hash: md5
+  path: gui-settings.xml

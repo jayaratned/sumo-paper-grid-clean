@@ -1,0 +1,1459 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='false' generator='JOSM'>
+  <node id='-25355' lat='52.4060082' lon='-1.2108783' />
+  <node id='-25356' lat='52.406524' lon='-1.2225044' />
+  <node id='-25357' lat='52.4067687' lon='-1.2280501' />
+  <node id='-25358' lat='52.4068979' lon='-1.2308776' />
+  <node id='-25359' lat='52.4069879' lon='-1.2326925' />
+  <node id='-25360' lat='52.4071918' lon='-1.236202' />
+  <node id='-25361' lat='52.4072776' lon='-1.2375404' />
+  <node id='-25362' lat='52.4009285' lon='-1.1754835' />
+  <node id='-25363' lat='52.4013361' lon='-1.1757216' />
+  <node id='-25364' lat='52.4017896' lon='-1.1760424' />
+  <node id='-25365' lat='52.402057' lon='-1.1762744' />
+  <node id='-25366' lat='52.4024219' lon='-1.1766101' />
+  <node id='-25367' lat='52.4027022' lon='-1.1769246' />
+  <node id='-25368' lat='52.4030409' lon='-1.1773751' />
+  <node id='-25369' lat='52.4032747' lon='-1.1777569' />
+  <node id='-25370' lat='52.4034293' lon='-1.1780484' />
+  <node id='-25371' lat='52.4037385' lon='-1.1786451' />
+  <node id='-25372' lat='52.4039501' lon='-1.1790989' />
+  <node id='-25373' lat='52.4041587' lon='-1.179651' />
+  <node id='-25374' lat='52.4043207' lon='-1.1801888' />
+  <node id='-25375' lat='52.4044531' lon='-1.1806703' />
+  <node id='-25376' lat='52.404583' lon='-1.1812778' />
+  <node id='-25377' lat='52.4054048' lon='-1.1943139' />
+  <node id='-25378' lat='52.4053402' lon='-1.193078' />
+  <node id='-25379' lat='52.410095' lon='-1.2604644' />
+  <node id='-25380' lat='52.4098558' lon='-1.259014' />
+  <node id='-25381' lat='52.4095233' lon='-1.2568238' />
+  <node id='-25382' lat='52.4092959' lon='-1.2552312' />
+  <node id='-25383' lat='52.4089202' lon='-1.2525095' />
+  <node id='-25384' lat='52.4086327' lon='-1.2501681' />
+  <node id='-25385' lat='52.4084534' lon='-1.2485255' />
+  <node id='-25386' lat='52.408194' lon='-1.2462778' />
+  <node id='-25387' lat='52.4080265' lon='-1.244642' />
+  <node id='-25388' lat='52.4076928' lon='-1.24116' />
+  <node id='-25389' lat='52.4074584' lon='-1.2379772' />
+  <node id='-25390' lat='52.4052726' lon='-1.1944636' />
+  <node id='-25391' lat='52.4052929' lon='-1.1949024' />
+  <node id='-25392' lat='52.4090644' lon='-1.2524795' />
+  <node id='-25393' lat='52.4088744' lon='-1.2503017' />
+  <node id='-25394' lat='52.4088075' lon='-1.2492876' />
+  <node id='-25395' lat='52.4087599' lon='-1.2482666' />
+  <node id='-25396' lat='52.4081527' lon='-1.2492445' />
+  <node id='-25397' lat='52.4083572' lon='-1.2505465' />
+  <node id='-25398' lat='52.4087712' lon='-1.2531537' />
+  <node id='-25399' lat='52.408963' lon='-1.2543755' />
+  <node id='-25400' lat='52.4090092' lon='-1.1791156' />
+  <node id='-25401' lat='52.4085525' lon='-1.1787082' />
+  <node id='-25402' lat='52.4081654' lon='-1.1783959' />
+  <node id='-25403' lat='52.4078272' lon='-1.1781352' />
+  <node id='-25404' lat='52.4075935' lon='-1.1779555' />
+  <node id='-25405' lat='52.4073243' lon='-1.1777549' />
+  <node id='-25406' lat='52.4070151' lon='-1.177502' />
+  <node id='-25407' lat='52.406795' lon='-1.1773316' />
+  <node id='-25408' lat='52.4064239' lon='-1.1770224' />
+  <node id='-25409' lat='52.4060505' lon='-1.176675' />
+  <node id='-25410' lat='52.4074379' lon='-1.2462022' />
+  <node id='-25411' lat='52.4076026' lon='-1.2464803' />
+  <node id='-25412' lat='52.4077115' lon='-1.2466801' />
+  <node id='-25413' lat='52.4077699' lon='-1.2468679' />
+  <node id='-25414' lat='52.4078078' lon='-1.2470502' />
+  <node id='-25415' lat='52.4078869' lon='-1.2475522' />
+  <node id='-25416' lat='52.4086989' lon='-1.2470508' />
+  <node id='-25417' lat='52.4087353' lon='-1.2468812' />
+  <node id='-25418' lat='52.4087808' lon='-1.2467802' />
+  <node id='-25419' lat='52.4088331' lon='-1.2466977' />
+  <node id='-25420' lat='52.4089021' lon='-1.2466123' />
+  <node id='-25421' lat='52.4027547' lon='-1.1755638' />
+  <node id='-25422' lat='52.4023987' lon='-1.1751931' />
+  <node id='-25423' lat='52.4020857' lon='-1.174927' />
+  <node id='-25424' lat='52.4018425' lon='-1.1747473' />
+  <node id='-25425' lat='52.4016653' lon='-1.1746473' />
+  <node id='-25426' lat='52.4014162' lon='-1.1745193' />
+  <node id='-25427' lat='52.4011324' lon='-1.1743887' />
+  <node id='-25428' lat='52.4008074' lon='-1.1742581' />
+  <node id='-25429' lat='52.400461' lon='-1.1741454' />
+  <node id='-25430' lat='52.3999802' lon='-1.1740022' />
+  <node id='-25431' lat='52.3991578' lon='-1.1738477' />
+  <node id='-25432' lat='52.4072887' lon='-1.2385734' />
+  <node id='-25433' lat='52.4073898' lon='-1.2410721' />
+  <node id='-25434' lat='52.4074451' lon='-1.2425209' />
+  <node id='-25435' lat='52.407467' lon='-1.2431334' />
+  <node id='-25436' lat='52.4074796' lon='-1.2437367' />
+  <node id='-25437' lat='52.4074994' lon='-1.2442491' />
+  <node id='-25438' lat='52.4075024' lon='-1.2444957' />
+  <node id='-25439' lat='52.4074989' lon='-1.2446012' />
+  <node id='-25440' lat='52.4074834' lon='-1.2447124' />
+  <node id='-25441' lat='52.4074623' lon='-1.2448038' />
+  <node id='-25442' lat='52.4074033' lon='-1.2449887' />
+  <node id='-25443' lat='52.4083036' lon='-1.2441336' />
+  <node id='-25444' lat='52.408181' lon='-1.2433879' />
+  <node id='-25445' lat='52.4080208' lon='-1.2424462' />
+  <node id='-25446' lat='52.4078429' lon='-1.2412717' />
+  <node id='-25447' lat='52.4077557' lon='-1.2406304' />
+  <node id='-25448' lat='52.4076379' lon='-1.2394721' />
+  <node id='-25449' lat='52.4053063' lon='-1.195306' />
+  <node id='-25450' lat='52.4054809' lon='-1.1991902' />
+  <node id='-25451' lat='52.4058028' lon='-1.206592' />
+  <node id='-25452' lat='52.4058203' lon='-1.206989' />
+  <node id='-25453' lat='52.4054348' lon='-1.1950419' />
+  <node id='-25454' lat='52.4054537' lon='-1.195397' />
+  <node id='-25455' lat='52.4059854' lon='-1.2103786' />
+  <node id='-25456' lat='52.4061321' lon='-1.2104985' />
+  <node id='-25457' lat='52.4059879' lon='-1.2069841' />
+  <node id='-25458' lat='52.4061526' lon='-1.2110053' />
+  <node id='-25459' lat='52.4055121' lon='-1.1822616' />
+  <node id='-25460' lat='52.4054333' lon='-1.1814446' />
+  <node id='-25461' lat='52.405304' lon='-1.1806813' />
+  <node id='-25462' lat='52.4051237' lon='-1.1799377' />
+  <node id='-25463' lat='52.4049686' lon='-1.1794538' />
+  <node id='-25464' lat='52.4047777' lon='-1.1789463' />
+  <node id='-25465' lat='52.4045729' lon='-1.1784931' />
+  <node id='-25466' lat='52.401342' lon='-1.1675817' />
+  <node id='-25467' lat='52.4020523' lon='-1.1696658' />
+  <node id='-25468' lat='52.4022634' lon='-1.1703175' />
+  <node id='-25469' lat='52.4025219' lon='-1.1711892' />
+  <node id='-25470' lat='52.4027331' lon='-1.1720234' />
+  <node id='-25471' lat='52.4028869' lon='-1.1726618' />
+  <node id='-25472' lat='52.4031334' lon='-1.1737403' />
+  <node id='-25473' lat='52.4032869' lon='-1.1744801' />
+  <node id='-25474' lat='52.4034537' lon='-1.1751381' />
+  <node id='-25475' lat='52.4036472' lon='-1.1757057' />
+  <node id='-25476' lat='52.4038369' lon='-1.1761267' />
+  <node id='-25477' lat='52.4039862' lon='-1.1764173' />
+  <node id='-25478' lat='52.4041748' lon='-1.1767205' />
+  <node id='-25479' lat='52.4043192' lon='-1.1769219' />
+  <node id='-25480' lat='52.4044413' lon='-1.1770703' />
+  <node id='-25481' lat='52.4046152' lon='-1.1772463' />
+  <node id='-25482' lat='52.4048069' lon='-1.1774432' />
+  <node id='-25483' lat='52.4050605' lon='-1.1776326' />
+  <node id='-25484' lat='52.4059952' lon='-1.1781175' />
+  <node id='-25485' lat='52.4067701' lon='-1.1783734' />
+  <node id='-25486' lat='52.4070614' lon='-1.1785046' />
+  <node id='-25487' lat='52.4073008' lon='-1.1786022' />
+  <node id='-25488' lat='52.4075297' lon='-1.1787086' />
+  <node id='-25489' lat='52.407819' lon='-1.1788613' />
+  <node id='-25490' lat='52.408327' lon='-1.1791131' />
+  <node id='-25491' lat='52.4087609' lon='-1.1793138' />
+  <node id='-25492' lat='52.4094211' lon='-1.1796458' />
+  <node id='-25493' lat='52.3959484' lon='-1.1730105' />
+  <node id='-25494' lat='52.3942392' lon='-1.1724311' />
+  <node id='-25495' lat='52.4036313' lon='-1.1767598' />
+  <node id='-25496' lat='52.4033194' lon='-1.1762765' />
+  <node id='-25497' lat='52.4030698' lon='-1.1759535' />
+  <node id='-25498' lat='52.4059654' lon='-1.2064396' />
+  <node id='-25499' lat='52.4056249' lon='-1.199301' />
+  <node id='-25500' lat='52.405485' lon='-1.1961551' />
+  <node id='-25501' lat='52.3979613' lon='-1.1735621' />
+  <node id='-25502' lat='52.3970646' lon='-1.1733791' />
+  <node id='-25503' lat='52.3965124' lon='-1.1732033' />
+  <node id='-25504' lat='52.4078608' lon='-1.2446438' />
+  <node id='-25505' lat='52.4080453' lon='-1.2462061' />
+  <node id='-25506' lat='52.4082046' lon='-1.2476349' />
+  <node id='-25507' lat='52.4083404' lon='-1.2489284' />
+  <node id='-25508' lat='52.4085033' lon='-1.2502199' />
+  <node id='-25509' lat='52.4087994' lon='-1.2526295' />
+  <node id='-25510' lat='52.4091701' lon='-1.2553742' />
+  <node id='-25511' lat='52.4093864' lon='-1.2568728' />
+  <node id='-25512' lat='52.4097283' lon='-1.2590644' />
+  <node id='-25513' lat='52.4099708' lon='-1.2605789' />
+  <node id='-25514' lat='52.4073639' lon='-1.2367032' />
+  <node id='-25515' lat='52.407236' lon='-1.2347043' />
+  <node id='-25516' lat='52.4071245' lon='-1.2326571' />
+  <node id='-25517' lat='52.4070322' lon='-1.2308518' />
+  <node id='-25518' lat='52.4069056' lon='-1.228005' />
+  <node id='-25519' lat='52.4066543' lon='-1.2223733' />
+  <node id='-25520' lat='52.4008688' lon='-1.166215' />
+  <node id='-25521' lat='52.4014976' lon='-1.1677694' />
+  <node id='-25522' lat='52.4019459' lon='-1.1687994' />
+  <node id='-25523' lat='52.4022454' lon='-1.1694727' />
+  <node id='-25524' lat='52.4027478' lon='-1.1705965' />
+  <node id='-25525' lat='52.4032341' lon='-1.171781' />
+  <node id='-25526' lat='52.4036005' lon='-1.1728166' />
+  <node id='-25527' lat='52.4038571' lon='-1.1736543' />
+  <node id='-25528' lat='52.4040739' lon='-1.1744628' />
+  <node id='-25529' lat='52.4042932' lon='-1.1753054' />
+  <node id='-25530' lat='52.4043986' lon='-1.1757661' />
+  <node id='-25531' lat='52.4045169' lon='-1.1763096' />
+  <node id='-25532' lat='52.4046918' lon='-1.1771974' />
+  <node id='-25533' lat='52.4048388' lon='-1.1782321' />
+  <node id='-25534' lat='52.4049807' lon='-1.1798543' />
+  <node id='-25535' lat='52.4050193' lon='-1.1812445' />
+  <node id='-25536' lat='52.4043124' lon='-1.1779598' />
+  <node id='-25537' lat='52.4040833' lon='-1.1775494' />
+  <node id='-25538' lat='52.4038286' lon='-1.1771208' />
+  <node id='-25539' lat='52.4057983' lon='-1.1764093' />
+  <node id='-25540' lat='52.4052948' lon='-1.1757676' />
+  <node id='-25541' lat='52.4050014' lon='-1.1752599' />
+  <node id='-25542' lat='52.4046707' lon='-1.1745582' />
+  <node id='-25543' lat='52.4044245' lon='-1.1739335' />
+  <node id='-25544' lat='52.4040875' lon='-1.1730616' />
+  <node id='-25545' lat='52.4037919' lon='-1.1723335' />
+  <node id='-25546' lat='52.4033668' lon='-1.1714204' />
+  <node id='-25547' lat='52.4028034' lon='-1.1702558' />
+  <node id='-25548' lat='52.402505' lon='-1.1697064' />
+  <node id='-25549' lat='52.4051122' lon='-1.1835582' />
+  <node id='-25550' lat='52.4051289' lon='-1.1820315' />
+  <node id='-25551' lat='52.4050159' lon='-1.1819822' />
+  <node id='-25552' lat='52.4050074' lon='-1.1830304' />
+  <node id='-25553' lat='52.4049946' lon='-1.1850053' />
+  <node id='-25554' lat='52.4050142' lon='-1.1867166' />
+  <node id='-25555' lat='52.4050587' lon='-1.1889492' />
+  <node id='-25556' lat='52.4051322' lon='-1.1811308' />
+  <node id='-25557' lat='52.4051027' lon='-1.18003' />
+  <node id='-25558' lat='52.405051' lon='-1.1791111' />
+  <node id='-25559' lat='52.4049533' lon='-1.1780953' />
+  <node id='-25560' lat='52.4048112' lon='-1.1771818' />
+  <node id='-25561' lat='52.4046685' lon='-1.1762822' />
+  <node id='-25562' lat='52.4045128' lon='-1.1755113' />
+  <node id='-25563' lat='52.4044017' lon='-1.1750095' />
+  <node id='-25564' lat='52.4042245' lon='-1.1742982' />
+  <node id='-25565' lat='52.4038729' lon='-1.1730473' />
+  <node id='-25566' lat='52.4033235' lon='-1.1715901' />
+  <node id='-25567' lat='52.4028149' lon='-1.1704114' />
+  <node id='-25568' lat='52.4051819' lon='-1.1894232' />
+  <node id='-25569' lat='52.4051124' lon='-1.186856' />
+  <node id='-25570' lat='52.4052839' lon='-1.1882961' />
+  <node id='-25571' lat='52.4053288' lon='-1.1862121' />
+  <node id='-25572' lat='52.4053988' lon='-1.1852711' />
+  <node id='-25573' lat='52.4054904' lon='-1.1843616' />
+  <node id='-25574' lat='52.4055328' lon='-1.1835667' />
+  <node id='-25575' lat='52.4055449' lon='-1.1828865' />
+  <node id='-25576' lat='52.4046939' lon='-1.1820793' />
+  <node id='-25577' lat='52.4047714' lon='-1.1829662' />
+  <node id='-25578' lat='52.4048111' lon='-1.1839568' />
+  <node id='-25579' lat='52.4049423' lon='-1.1874597' />
+  <node id='-25580' lat='52.4046417' lon='-1.1816598' />
+  <node id='-25581' lat='52.4086928' lon='-1.2469061' />
+  <node id='-25582' lat='52.4086955' lon='-1.2467464' />
+  <node id='-25583' lat='52.4087069' lon='-1.2466379' />
+  <node id='-25584' lat='52.4054686' lon='-1.1778939' />
+  <node id='-25585' lat='52.4058275' lon='-1.1780596' />
+  <node id='-25586' lat='52.3959104' lon='-1.1734557' />
+  <node id='-25587' lat='52.3974727' lon='-1.1741043' />
+  <node id='-25588' lat='52.3992769' lon='-1.174842' />
+  <node id='-25589' lat='52.4086455' lon='-1.2451593' />
+  <node id='-25590' lat='52.408555' lon='-1.2449875' />
+  <node id='-25591' lat='52.4085025' lon='-1.2448746' />
+  <node id='-25592' lat='52.4084288' lon='-1.2446929' />
+  <node id='-25593' lat='52.4083614' lon='-1.244482' />
+  <node id='-25594' lat='52.4091933' lon='-1.2539574' />
+  <node id='-25595' lat='52.4087144' lon='-1.2474364' />
+  <way id='-579'>
+    <nd ref='-25355' />
+    <nd ref='-25356' />
+    <nd ref='-25357' />
+    <nd ref='-25358' />
+    <nd ref='-25359' />
+    <nd ref='-25360' />
+    <nd ref='-25361' />
+    <tag k='@id' v='way/3092050' />
+    <tag k='carriageway_ref' v='A' />
+    <tag k='highway' v='motorway' />
+    <tag k='int_ref' v='E 24' />
+    <tag k='lanes' v='3' />
+    <tag k='lit' v='no' />
+    <tag k='maxheight:signed' v='no' />
+    <tag k='maxspeed' v='70 mph' />
+    <tag k='maxspeed:type' v='GB:motorway' />
+    <tag k='national_highways:area' v='7' />
+    <tag k='oneway' v='yes' />
+    <tag k='operator' v='National Highways' />
+    <tag k='operator:wikidata' v='Q5760006' />
+    <tag k='ref' v='M6' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='-580'>
+    <nd ref='-25362' />
+    <nd ref='-25363' />
+    <nd ref='-25364' />
+    <nd ref='-25365' />
+    <nd ref='-25366' />
+    <nd ref='-25367' />
+    <nd ref='-25368' />
+    <nd ref='-25369' />
+    <nd ref='-25370' />
+    <nd ref='-25371' />
+    <nd ref='-25372' />
+    <nd ref='-25373' />
+    <nd ref='-25374' />
+    <nd ref='-25375' />
+    <nd ref='-25376' />
+    <tag k='@id' v='way/3239896' />
+    <tag k='bicycle' v='no' />
+    <tag k='destination' v='The N. WEST;Birmingham;Coventry' />
+    <tag k='destination:ref' v='M6' />
+    <tag k='foot' v='no' />
+    <tag k='highway' v='motorway_link' />
+    <tag k='horse' v='no' />
+    <tag k='lanes' v='2' />
+    <tag k='lit' v='yes' />
+    <tag k='maxspeed' v='70 mph' />
+    <tag k='motor_vehicle' v='yes' />
+    <tag k='national_highways:area' v='7' />
+    <tag k='oneway' v='yes' />
+    <tag k='operator' v='National Highways' />
+    <tag k='operator:wikidata' v='Q5760006' />
+    <tag k='parking:both' v='no' />
+    <tag k='parking:both:restriction' v='no_stopping' />
+    <tag k='ref' v='M6' />
+    <tag k='source:maxspeed' v='survey' />
+    <tag k='surface' v='asphalt' />
+    <tag k='wikidata' v='Q1881041' />
+    <tag k='wikipedia' v='en:M6 motorway' />
+  </way>
+  <way id='-581'>
+    <nd ref='-25377' />
+    <nd ref='-25378' />
+    <tag k='@id' v='way/3239920' />
+    <tag k='highway' v='motorway' />
+    <tag k='historic:highway' v='motorway_link' />
+    <tag k='int_ref' v='E 24' />
+    <tag k='lanes' v='3' />
+    <tag k='lit' v='yes' />
+    <tag k='maxspeed' v='70 mph' />
+    <tag k='maxspeed:type' v='GB:motorway' />
+    <tag k='national_highways:area' v='7' />
+    <tag k='oneway' v='yes' />
+    <tag k='operator' v='National Highways' />
+    <tag k='operator:wikidata' v='Q5760006' />
+    <tag k='ref' v='M6' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='-582'>
+    <nd ref='-25379' />
+    <nd ref='-25380' />
+    <nd ref='-25381' />
+    <nd ref='-25382' />
+    <nd ref='-25383' />
+    <nd ref='-25384' />
+    <nd ref='-25385' />
+    <nd ref='-25386' />
+    <nd ref='-25387' />
+    <nd ref='-25388' />
+    <nd ref='-25389' />
+    <tag k='@id' v='way/3239957' />
+    <tag k='carriageway_ref' v='B' />
+    <tag k='highway' v='motorway' />
+    <tag k='int_ref' v='E 24' />
+    <tag k='lanes' v='3' />
+    <tag k='lit' v='no' />
+    <tag k='maxheight' v='default' />
+    <tag k='maxspeed' v='70 mph' />
+    <tag k='maxspeed:type' v='GB:motorway' />
+    <tag k='national_highways:area' v='9' />
+    <tag k='oneway' v='yes' />
+    <tag k='operator' v='National Highways' />
+    <tag k='operator:wikidata' v='Q5760006' />
+    <tag k='ref' v='M6' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='-583'>
+    <nd ref='-25390' />
+    <nd ref='-25391' />
+    <tag k='@id' v='way/3239960' />
+    <tag k='carriageway_ref' v='A' />
+    <tag k='highway' v='motorway' />
+    <tag k='int_ref' v='E 24' />
+    <tag k='lanes' v='3' />
+    <tag k='lit' v='yes' />
+    <tag k='maxspeed' v='70 mph' />
+    <tag k='maxspeed:type' v='GB:motorway' />
+    <tag k='national_highways:area' v='7' />
+    <tag k='oneway' v='yes' />
+    <tag k='operator' v='National Highways' />
+    <tag k='operator:wikidata' v='Q5760006' />
+    <tag k='ref' v='M6' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='-584'>
+    <nd ref='-25392' />
+    <nd ref='-25393' />
+    <nd ref='-25394' />
+    <nd ref='-25395' />
+    <tag k='@id' v='way/3239964' />
+    <tag k='bicycle' v='no' />
+    <tag k='foot' v='no' />
+    <tag k='highway' v='motorway_link' />
+    <tag k='lanes' v='2' />
+    <tag k='lit' v='no' />
+    <tag k='national_highways:area' v='9' />
+    <tag k='oneway' v='yes' />
+    <tag k='operator' v='National Highways' />
+    <tag k='operator:wikidata' v='Q5760006' />
+  </way>
+  <way id='-585'>
+    <nd ref='-25396' />
+    <nd ref='-25397' />
+    <nd ref='-25398' />
+    <nd ref='-25399' />
+    <tag k='@id' v='way/3239965' />
+    <tag k='bicycle' v='no' />
+    <tag k='foot' v='no' />
+    <tag k='highway' v='motorway_link' />
+    <tag k='lanes' v='1' />
+    <tag k='lit' v='no' />
+    <tag k='national_highways:area' v='9' />
+    <tag k='oneway' v='yes' />
+    <tag k='operator' v='National Highways' />
+    <tag k='operator:wikidata' v='Q5760006' />
+  </way>
+  <way id='-586'>
+    <nd ref='-25400' />
+    <nd ref='-25401' />
+    <nd ref='-25402' />
+    <nd ref='-25403' />
+    <nd ref='-25404' />
+    <nd ref='-25405' />
+    <nd ref='-25406' />
+    <nd ref='-25407' />
+    <nd ref='-25408' />
+    <nd ref='-25409' />
+    <tag k='@id' v='way/4187380' />
+    <tag k='bicycle' v='no' />
+    <tag k='destination' v='Felixstowe;Corby;Kettering' />
+    <tag k='destination:ref' v='A14' />
+    <tag k='foot' v='no' />
+    <tag k='highway' v='motorway_link' />
+    <tag k='horse' v='no' />
+    <tag k='lanes' v='1' />
+    <tag k='lit' v='yes' />
+    <tag k='maxspeed' v='70 mph' />
+    <tag k='maxspeed:type' v='GB:motorway' />
+    <tag k='national_highways:area' v='7' />
+    <tag k='oneway' v='yes' />
+    <tag k='operator' v='National Highways' />
+    <tag k='operator:wikidata' v='Q5760006' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='-587'>
+    <nd ref='-25410' />
+    <nd ref='-25411' />
+    <nd ref='-25412' />
+    <nd ref='-25413' />
+    <nd ref='-25414' />
+    <nd ref='-25415' />
+    <tag k='@id' v='way/4289762' />
+    <tag k='bicycle' v='no' />
+    <tag k='foot' v='no' />
+    <tag k='highway' v='motorway_link' />
+    <tag k='lit' v='no' />
+    <tag k='national_highways:area' v='9' />
+    <tag k='oneway' v='yes' />
+    <tag k='operator' v='National Highways' />
+    <tag k='operator:wikidata' v='Q5760006' />
+  </way>
+  <way id='-588'>
+    <nd ref='-25416' />
+    <nd ref='-25417' />
+    <nd ref='-25418' />
+    <nd ref='-25419' />
+    <nd ref='-25420' />
+    <tag k='@id' v='way/4289763' />
+    <tag k='bicycle' v='no' />
+    <tag k='destination:ref:lanes' v='A426 North;Services|A426 North' />
+    <tag k='foot' v='no' />
+    <tag k='highway' v='motorway_link' />
+    <tag k='lanes' v='2' />
+    <tag k='lit' v='no' />
+    <tag k='national_highways:area' v='9' />
+    <tag k='oneway' v='yes' />
+    <tag k='operator' v='National Highways' />
+    <tag k='operator:wikidata' v='Q5760006' />
+  </way>
+  <way id='-589'>
+    <nd ref='-25421' />
+    <nd ref='-25422' />
+    <nd ref='-25423' />
+    <nd ref='-25424' />
+    <nd ref='-25425' />
+    <nd ref='-25426' />
+    <nd ref='-25427' />
+    <nd ref='-25428' />
+    <nd ref='-25429' />
+    <nd ref='-25430' />
+    <nd ref='-25431' />
+    <tag k='@id' v='way/8127371' />
+    <tag k='bicycle' v='no' />
+    <tag k='destination' v='The SOUTH;London;N&apos;hampton' />
+    <tag k='destination:ref' v='M1' />
+    <tag k='foot' v='no' />
+    <tag k='highway' v='motorway_link' />
+    <tag k='lanes' v='2' />
+    <tag k='lit' v='yes' />
+    <tag k='maxspeed' v='50 mph' />
+    <tag k='national_highways:area' v='7' />
+    <tag k='oneway' v='yes' />
+    <tag k='operator' v='National Highways' />
+    <tag k='operator:wikidata' v='Q5760006' />
+    <tag k='parking:both' v='no' />
+    <tag k='parking:both:restriction' v='no_stopping' />
+    <tag k='proposed:maxspeed' v='70 mph' />
+    <tag k='ref' v='M6' />
+    <tag k='source:maxspeed' v='survey' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='-590'>
+    <nd ref='-25361' />
+    <nd ref='-25432' />
+    <nd ref='-25433' />
+    <nd ref='-25434' />
+    <nd ref='-25435' />
+    <nd ref='-25436' />
+    <nd ref='-25437' />
+    <nd ref='-25438' />
+    <nd ref='-25439' />
+    <nd ref='-25440' />
+    <nd ref='-25441' />
+    <nd ref='-25442' />
+    <tag k='@id' v='way/25409482' />
+    <tag k='bicycle' v='no' />
+    <tag k='foot' v='no' />
+    <tag k='highway' v='motorway_link' />
+    <tag k='lit' v='no' />
+    <tag k='national_highways:area' v='9' />
+    <tag k='oneway' v='yes' />
+    <tag k='operator' v='National Highways' />
+    <tag k='operator:wikidata' v='Q5760006' />
+  </way>
+  <way id='-591'>
+    <nd ref='-25443' />
+    <nd ref='-25444' />
+    <nd ref='-25445' />
+    <nd ref='-25446' />
+    <nd ref='-25447' />
+    <nd ref='-25448' />
+    <tag k='@id' v='way/25409515' />
+    <tag k='bicycle' v='no' />
+    <tag k='foot' v='no' />
+    <tag k='highway' v='motorway_link' />
+    <tag k='lanes' v='1' />
+    <tag k='lit' v='no' />
+    <tag k='national_highways:area' v='9' />
+    <tag k='oneway' v='yes' />
+    <tag k='operator' v='National Highways' />
+    <tag k='operator:wikidata' v='Q5760006' />
+  </way>
+  <way id='-592'>
+    <nd ref='-25449' />
+    <nd ref='-25450' />
+    <nd ref='-25451' />
+    <nd ref='-25452' />
+    <tag k='@id' v='way/28976050' />
+    <tag k='carriageway_ref' v='A' />
+    <tag k='highway' v='motorway' />
+    <tag k='int_ref' v='E 24' />
+    <tag k='lanes' v='3' />
+    <tag k='lit' v='yes' />
+    <tag k='maxspeed' v='70 mph' />
+    <tag k='maxspeed:type' v='GB:motorway' />
+    <tag k='national_highways:area' v='7' />
+    <tag k='oneway' v='yes' />
+    <tag k='operator' v='National Highways' />
+    <tag k='operator:wikidata' v='Q5760006' />
+    <tag k='ref' v='M6' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='-593'>
+    <nd ref='-25453' />
+    <nd ref='-25377' />
+    <tag k='@id' v='way/28976051' />
+    <tag k='carriageway_ref' v='B' />
+    <tag k='highway' v='motorway' />
+    <tag k='int_ref' v='E 24' />
+    <tag k='lanes' v='3' />
+    <tag k='lit' v='yes' />
+    <tag k='maxspeed' v='70 mph' />
+    <tag k='maxspeed:type' v='GB:motorway' />
+    <tag k='national_highways:area' v='7' />
+    <tag k='oneway' v='yes' />
+    <tag k='operator' v='National Highways' />
+    <tag k='operator:wikidata' v='Q5760006' />
+    <tag k='ref' v='M6' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='-594'>
+    <nd ref='-25454' />
+    <nd ref='-25453' />
+    <tag k='@id' v='way/28976052' />
+    <tag k='bridge' v='yes' />
+    <tag k='carriageway_ref' v='B' />
+    <tag k='highway' v='motorway' />
+    <tag k='int_ref' v='E 24' />
+    <tag k='lanes' v='3' />
+    <tag k='layer' v='1' />
+    <tag k='lit' v='yes' />
+    <tag k='maxspeed' v='70 mph' />
+    <tag k='maxspeed:type' v='GB:motorway' />
+    <tag k='national_highways:area' v='7' />
+    <tag k='oneway' v='yes' />
+    <tag k='operator' v='National Highways' />
+    <tag k='operator:wikidata' v='Q5760006' />
+    <tag k='ref' v='M6' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='-595'>
+    <nd ref='-25391' />
+    <nd ref='-25449' />
+    <tag k='@id' v='way/28976053' />
+    <tag k='bridge' v='yes' />
+    <tag k='carriageway_ref' v='A' />
+    <tag k='highway' v='motorway' />
+    <tag k='int_ref' v='E 24' />
+    <tag k='lanes' v='3' />
+    <tag k='layer' v='1' />
+    <tag k='lit' v='yes' />
+    <tag k='maxspeed' v='70 mph' />
+    <tag k='maxspeed:type' v='GB:motorway' />
+    <tag k='national_highways:area' v='7' />
+    <tag k='oneway' v='yes' />
+    <tag k='operator' v='National Highways' />
+    <tag k='operator:wikidata' v='Q5760006' />
+    <tag k='ref' v='M6' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='-596'>
+    <nd ref='-25455' />
+    <nd ref='-25355' />
+    <tag k='@id' v='way/108508520' />
+    <tag k='bridge' v='yes' />
+    <tag k='carriageway_ref' v='A' />
+    <tag k='highway' v='motorway' />
+    <tag k='int_ref' v='E 24' />
+    <tag k='lanes' v='3' />
+    <tag k='layer' v='1' />
+    <tag k='lit' v='no' />
+    <tag k='maxspeed' v='70 mph' />
+    <tag k='maxspeed:type' v='GB:motorway' />
+    <tag k='national_highways:area' v='7' />
+    <tag k='oneway' v='yes' />
+    <tag k='operator' v='National Highways' />
+    <tag k='operator:wikidata' v='Q5760006' />
+    <tag k='ref' v='M6' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='-597'>
+    <nd ref='-25456' />
+    <nd ref='-25457' />
+    <tag k='@id' v='way/108508523' />
+    <tag k='carriageway_ref' v='B' />
+    <tag k='highway' v='motorway' />
+    <tag k='int_ref' v='E 24' />
+    <tag k='lanes' v='3' />
+    <tag k='lit' v='no' />
+    <tag k='maxspeed' v='70 mph' />
+    <tag k='maxspeed:type' v='GB:motorway' />
+    <tag k='national_highways:area' v='7' />
+    <tag k='oneway' v='yes' />
+    <tag k='operator' v='National Highways' />
+    <tag k='operator:wikidata' v='Q5760006' />
+    <tag k='ref' v='M6' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='-598'>
+    <nd ref='-25458' />
+    <nd ref='-25456' />
+    <tag k='@id' v='way/108508525' />
+    <tag k='bridge' v='yes' />
+    <tag k='carriageway_ref' v='B' />
+    <tag k='highway' v='motorway' />
+    <tag k='int_ref' v='E 24' />
+    <tag k='lanes' v='3' />
+    <tag k='layer' v='1' />
+    <tag k='lit' v='no' />
+    <tag k='maxspeed' v='70 mph' />
+    <tag k='maxspeed:type' v='GB:motorway' />
+    <tag k='national_highways:area' v='7' />
+    <tag k='oneway' v='yes' />
+    <tag k='operator' v='National Highways' />
+    <tag k='operator:wikidata' v='Q5760006' />
+    <tag k='ref' v='M6' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='-599'>
+    <nd ref='-25459' />
+    <nd ref='-25460' />
+    <nd ref='-25461' />
+    <nd ref='-25462' />
+    <nd ref='-25463' />
+    <nd ref='-25464' />
+    <nd ref='-25465' />
+    <tag k='@id' v='way/111657117' />
+    <tag k='bicycle' v='no' />
+    <tag k='bridge' v='yes' />
+    <tag k='destination' v='The SOUTH;London;N&apos;hampton' />
+    <tag k='destination:ref' v='M1' />
+    <tag k='highway' v='motorway_link' />
+    <tag k='lanes' v='2' />
+    <tag k='layer' v='1' />
+    <tag k='lit' v='yes' />
+    <tag k='oneway' v='yes' />
+    <tag k='operator' v='National Highways' />
+    <tag k='operator:wikidata' v='Q5760006' />
+    <tag k='parking:both' v='no' />
+    <tag k='parking:both:restriction' v='no_stopping' />
+    <tag k='ref' v='M6' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='-600'>
+    <nd ref='-25466' />
+    <nd ref='-25467' />
+    <nd ref='-25468' />
+    <nd ref='-25469' />
+    <nd ref='-25470' />
+    <nd ref='-25471' />
+    <nd ref='-25472' />
+    <nd ref='-25473' />
+    <nd ref='-25474' />
+    <nd ref='-25475' />
+    <tag k='@id' v='way/111657118' />
+    <tag k='bicycle' v='no' />
+    <tag k='destination' v='The North' />
+    <tag k='destination:ref' v='M1' />
+    <tag k='highway' v='motorway_link' />
+    <tag k='lanes' v='2' />
+    <tag k='lit' v='yes' />
+    <tag k='maxspeed' v='70 mph' />
+    <tag k='oneway' v='yes' />
+    <tag k='operator' v='National Highways' />
+    <tag k='operator:wikidata' v='Q5760006' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='-601'>
+    <nd ref='-25475' />
+    <nd ref='-25476' />
+    <nd ref='-25477' />
+    <nd ref='-25478' />
+    <nd ref='-25479' />
+    <nd ref='-25480' />
+    <nd ref='-25481' />
+    <nd ref='-25482' />
+    <nd ref='-25483' />
+    <tag k='@id' v='way/126756892' />
+    <tag k='bicycle' v='no' />
+    <tag k='bridge' v='yes' />
+    <tag k='destination' v='Leicester' />
+    <tag k='destination:ref' v='M1' />
+    <tag k='highway' v='motorway_link' />
+    <tag k='lanes' v='2' />
+    <tag k='layer' v='1' />
+    <tag k='lit' v='yes' />
+    <tag k='maxspeed' v='70 mph' />
+    <tag k='oneway' v='yes' />
+    <tag k='operator' v='National Highways' />
+    <tag k='operator:wikidata' v='Q5760006' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='-602'>
+    <nd ref='-25484' />
+    <nd ref='-25485' />
+    <nd ref='-25486' />
+    <nd ref='-25487' />
+    <nd ref='-25488' />
+    <nd ref='-25489' />
+    <nd ref='-25490' />
+    <nd ref='-25491' />
+    <nd ref='-25492' />
+    <tag k='@id' v='way/126757437' />
+    <tag k='bicycle' v='no' />
+    <tag k='destination' v='Leicester' />
+    <tag k='destination:ref' v='M1' />
+    <tag k='foot' v='no' />
+    <tag k='highway' v='motorway_link' />
+    <tag k='lanes' v='1' />
+    <tag k='lit' v='yes' />
+    <tag k='maxspeed' v='70 mph' />
+    <tag k='maxspeed:type' v='GB:motorway' />
+    <tag k='national_highways:area' v='7' />
+    <tag k='oneway' v='yes' />
+    <tag k='operator' v='National Highways' />
+    <tag k='operator:wikidata' v='Q5760006' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='-603'>
+    <nd ref='-25493' />
+    <nd ref='-25494' />
+    <tag k='@id' v='way/136622173' />
+    <tag k='bicycle' v='no' />
+    <tag k='bridge' v='yes' />
+    <tag k='destination:ref' v='M1' />
+    <tag k='foot' v='no' />
+    <tag k='highway' v='motorway_link' />
+    <tag k='lanes' v='2' />
+    <tag k='layer' v='1' />
+    <tag k='lit' v='yes' />
+    <tag k='maxspeed' v='70 mph' />
+    <tag k='national_highways:area' v='7' />
+    <tag k='oneway' v='yes' />
+    <tag k='operator' v='National Highways' />
+    <tag k='operator:wikidata' v='Q5760006' />
+    <tag k='parking:both' v='no' />
+    <tag k='parking:both:restriction' v='no_stopping' />
+    <tag k='ref' v='M6' />
+    <tag k='source:maxspeed' v='survey' />
+  </way>
+  <way id='-604'>
+    <nd ref='-25495' />
+    <nd ref='-25496' />
+    <nd ref='-25497' />
+    <nd ref='-25421' />
+    <tag k='@id' v='way/141136216' />
+    <tag k='bicycle' v='no' />
+    <tag k='bridge' v='yes' />
+    <tag k='destination' v='The SOUTH;London;N&apos;hampton' />
+    <tag k='destination:ref' v='M1' />
+    <tag k='foot' v='no' />
+    <tag k='highway' v='motorway_link' />
+    <tag k='lanes' v='2' />
+    <tag k='layer' v='1' />
+    <tag k='lit' v='yes' />
+    <tag k='maxspeed' v='50 mph' />
+    <tag k='national_highways:area' v='7' />
+    <tag k='oneway' v='yes' />
+    <tag k='opened' v='2011' />
+    <tag k='operator' v='National Highways' />
+    <tag k='operator:wikidata' v='Q5760006' />
+    <tag k='parking:both' v='no' />
+    <tag k='parking:both:restriction' v='no_stopping' />
+    <tag k='proposed:maxspeed' v='70 mph' />
+    <tag k='ref' v='M6' />
+    <tag k='source:maxspeed' v='survey' />
+    <tag k='surface' v='asphalt' />
+    <tag k='wikidata' v='Q1881041' />
+    <tag k='wikipedia' v='en:M6 motorway' />
+  </way>
+  <way id='-605'>
+    <nd ref='-25457' />
+    <nd ref='-25498' />
+    <nd ref='-25499' />
+    <nd ref='-25500' />
+    <nd ref='-25454' />
+    <tag k='@id' v='way/142579631' />
+    <tag k='carriageway_ref' v='B' />
+    <tag k='highway' v='motorway' />
+    <tag k='int_ref' v='E 24' />
+    <tag k='lanes' v='3' />
+    <tag k='lit' v='yes' />
+    <tag k='maxspeed' v='70 mph' />
+    <tag k='maxspeed:type' v='GB:motorway' />
+    <tag k='national_highways:area' v='7' />
+    <tag k='oneway' v='yes' />
+    <tag k='operator' v='National Highways' />
+    <tag k='operator:wikidata' v='Q5760006' />
+    <tag k='ref' v='M6' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='-606'>
+    <nd ref='-25452' />
+    <nd ref='-25455' />
+    <tag k='@id' v='way/142579632' />
+    <tag k='carriageway_ref' v='A' />
+    <tag k='highway' v='motorway' />
+    <tag k='int_ref' v='E 24' />
+    <tag k='lanes' v='3' />
+    <tag k='lit' v='no' />
+    <tag k='maxspeed' v='70 mph' />
+    <tag k='maxspeed:type' v='GB:motorway' />
+    <tag k='national_highways:area' v='7' />
+    <tag k='oneway' v='yes' />
+    <tag k='operator' v='National Highways' />
+    <tag k='operator:wikidata' v='Q5760006' />
+    <tag k='ref' v='M6' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='-607'>
+    <nd ref='-25431' />
+    <nd ref='-25501' />
+    <nd ref='-25502' />
+    <nd ref='-25503' />
+    <nd ref='-25493' />
+    <tag k='@id' v='way/164700019' />
+    <tag k='bicycle' v='no' />
+    <tag k='destination' v='The SOUTH;London;N&apos;hampton' />
+    <tag k='destination:ref' v='M1' />
+    <tag k='foot' v='no' />
+    <tag k='highway' v='motorway_link' />
+    <tag k='lanes' v='2' />
+    <tag k='lit' v='yes' />
+    <tag k='maxspeed' v='70 mph' />
+    <tag k='national_highways:area' v='7' />
+    <tag k='oneway' v='yes' />
+    <tag k='operator' v='National Highways' />
+    <tag k='operator:wikidata' v='Q5760006' />
+    <tag k='parking:both' v='no' />
+    <tag k='parking:both:restriction' v='no_stopping' />
+    <tag k='ref' v='M6' />
+    <tag k='source:maxspeed' v='survey' />
+  </way>
+  <way id='-608'>
+    <nd ref='-25361' />
+    <nd ref='-25504' />
+    <nd ref='-25505' />
+    <nd ref='-25506' />
+    <nd ref='-25507' />
+    <nd ref='-25508' />
+    <nd ref='-25509' />
+    <nd ref='-25510' />
+    <nd ref='-25511' />
+    <nd ref='-25512' />
+    <nd ref='-25513' />
+    <tag k='@id' v='way/204901082' />
+    <tag k='carriageway_ref' v='A' />
+    <tag k='highway' v='motorway' />
+    <tag k='int_ref' v='E 24' />
+    <tag k='lanes' v='3' />
+    <tag k='lit' v='no' />
+    <tag k='maxheight' v='default' />
+    <tag k='maxspeed' v='70 mph' />
+    <tag k='maxspeed:type' v='GB:motorway' />
+    <tag k='national_highways:area' v='9' />
+    <tag k='oneway' v='yes' />
+    <tag k='operator' v='National Highways' />
+    <tag k='operator:wikidata' v='Q5760006' />
+    <tag k='ref' v='M6' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='-609'>
+    <nd ref='-25389' />
+    <nd ref='-25514' />
+    <nd ref='-25515' />
+    <nd ref='-25516' />
+    <nd ref='-25517' />
+    <nd ref='-25518' />
+    <nd ref='-25519' />
+    <nd ref='-25458' />
+    <tag k='@id' v='way/204901083' />
+    <tag k='carriageway_ref' v='B' />
+    <tag k='highway' v='motorway' />
+    <tag k='int_ref' v='E 24' />
+    <tag k='lanes' v='3' />
+    <tag k='lit' v='no' />
+    <tag k='maxheight' v='default' />
+    <tag k='maxspeed' v='70 mph' />
+    <tag k='maxspeed:type' v='GB:motorway' />
+    <tag k='national_highways:area' v='7' />
+    <tag k='oneway' v='yes' />
+    <tag k='operator' v='National Highways' />
+    <tag k='operator:wikidata' v='Q5760006' />
+    <tag k='ref' v='M6' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='-610'>
+    <nd ref='-25520' />
+    <nd ref='-25521' />
+    <nd ref='-25522' />
+    <nd ref='-25523' />
+    <nd ref='-25524' />
+    <nd ref='-25525' />
+    <nd ref='-25526' />
+    <nd ref='-25527' />
+    <nd ref='-25528' />
+    <nd ref='-25529' />
+    <nd ref='-25530' />
+    <nd ref='-25531' />
+    <nd ref='-25532' />
+    <nd ref='-25533' />
+    <nd ref='-25534' />
+    <nd ref='-25535' />
+    <tag k='@id' v='way/337681190' />
+    <tag k='carriageway_ref' v='A' />
+    <tag k='highway' v='motorway' />
+    <tag k='int_ref' v='E 24' />
+    <tag k='lanes' v='2' />
+    <tag k='lit' v='yes' />
+    <tag k='maxspeed' v='70 mph' />
+    <tag k='maxspeed:type' v='GB:motorway' />
+    <tag k='national_highways:area' v='7' />
+    <tag k='oneway' v='yes' />
+    <tag k='operator' v='National Highways' />
+    <tag k='operator:wikidata' v='Q5760006' />
+    <tag k='ref' v='M6' />
+    <tag k='surface' v='asphalt' />
+    <tag k='wikidata' v='Q4648884' />
+    <tag k='wikipedia' v='en:A14 road (England)' />
+  </way>
+  <way id='-611'>
+    <nd ref='-25465' />
+    <nd ref='-25536' />
+    <nd ref='-25537' />
+    <nd ref='-25538' />
+    <nd ref='-25495' />
+    <tag k='@id' v='way/353962898' />
+    <tag k='bicycle' v='no' />
+    <tag k='destination' v='The SOUTH;London;N&apos;hampton' />
+    <tag k='destination:ref' v='M1' />
+    <tag k='foot' v='no' />
+    <tag k='highway' v='motorway_link' />
+    <tag k='lanes' v='2' />
+    <tag k='lit' v='yes' />
+    <tag k='maxspeed' v='70 mph' />
+    <tag k='maxspeed:type' v='GB:motorway' />
+    <tag k='national_highways:area' v='7' />
+    <tag k='oneway' v='yes' />
+    <tag k='operator' v='National Highways' />
+    <tag k='operator:wikidata' v='Q5760006' />
+    <tag k='parking:both' v='no' />
+    <tag k='parking:both:restriction' v='no_stopping' />
+    <tag k='ref' v='M6' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='-612'>
+    <nd ref='-25409' />
+    <nd ref='-25539' />
+    <tag k='@id' v='way/374882320' />
+    <tag k='bicycle' v='no' />
+    <tag k='bridge' v='yes' />
+    <tag k='destination:ref' v='A14' />
+    <tag k='foot' v='no' />
+    <tag k='highway' v='motorway_link' />
+    <tag k='horse' v='no' />
+    <tag k='lanes' v='1' />
+    <tag k='layer' v='1' />
+    <tag k='lit' v='yes' />
+    <tag k='maxspeed' v='70 mph' />
+    <tag k='maxspeed:type' v='GB:motorway' />
+    <tag k='national_highways:area' v='7' />
+    <tag k='oneway' v='yes' />
+    <tag k='operator' v='National Highways' />
+    <tag k='operator:wikidata' v='Q5760006' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='-613'>
+    <nd ref='-25539' />
+    <nd ref='-25540' />
+    <nd ref='-25541' />
+    <nd ref='-25542' />
+    <nd ref='-25543' />
+    <nd ref='-25544' />
+    <nd ref='-25545' />
+    <nd ref='-25546' />
+    <nd ref='-25547' />
+    <nd ref='-25548' />
+    <tag k='@id' v='way/374882322' />
+    <tag k='bicycle' v='no' />
+    <tag k='destination:ref' v='A14' />
+    <tag k='foot' v='no' />
+    <tag k='highway' v='motorway_link' />
+    <tag k='horse' v='no' />
+    <tag k='lanes' v='1' />
+    <tag k='lit' v='yes' />
+    <tag k='maxspeed' v='70 mph' />
+    <tag k='maxspeed:type' v='GB:motorway' />
+    <tag k='national_highways:area' v='7' />
+    <tag k='oneway' v='yes' />
+    <tag k='operator' v='National Highways' />
+    <tag k='operator:wikidata' v='Q5760006' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='-614'>
+    <nd ref='-25549' />
+    <nd ref='-25550' />
+    <tag k='@id' v='way/379809301' />
+    <tag k='destination:ref' v='A14' />
+    <tag k='highway' v='motorway' />
+    <tag k='int_ref' v='E 24' />
+    <tag k='lanes' v='2' />
+    <tag k='lit' v='yes' />
+    <tag k='maxspeed' v='70 mph' />
+    <tag k='maxspeed:type' v='GB:motorway' />
+    <tag k='national_highways:area' v='7' />
+    <tag k='oneway' v='yes' />
+    <tag k='operator' v='National Highways' />
+    <tag k='operator:wikidata' v='Q5760006' />
+    <tag k='proposed:lanes' v='2' />
+    <tag k='proposed:maxspeed' v='70 mph' />
+    <tag k='ref' v='M6' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='-615'>
+    <nd ref='-25535' />
+    <nd ref='-25551' />
+    <tag k='@id' v='way/379810275' />
+    <tag k='bridge' v='yes' />
+    <tag k='carriageway_ref' v='A' />
+    <tag k='highway' v='motorway' />
+    <tag k='int_ref' v='E 24' />
+    <tag k='lanes' v='2' />
+    <tag k='layer' v='1' />
+    <tag k='lit' v='yes' />
+    <tag k='maxspeed' v='70 mph' />
+    <tag k='maxspeed:type' v='GB:motorway' />
+    <tag k='national_highways:area' v='7' />
+    <tag k='oneway' v='yes' />
+    <tag k='operator' v='National Highways' />
+    <tag k='operator:wikidata' v='Q5760006' />
+    <tag k='ref' v='M6' />
+    <tag k='surface' v='asphalt' />
+    <tag k='wikipedia' v='en:M6' />
+  </way>
+  <way id='-616'>
+    <nd ref='-25551' />
+    <nd ref='-25552' />
+    <nd ref='-25553' />
+    <nd ref='-25554' />
+    <nd ref='-25555' />
+    <tag k='@id' v='way/379810276' />
+    <tag k='carriageway_ref' v='A' />
+    <tag k='highway' v='motorway' />
+    <tag k='int_ref' v='E 24' />
+    <tag k='lanes' v='2' />
+    <tag k='lit' v='yes' />
+    <tag k='maxspeed' v='70 mph' />
+    <tag k='maxspeed:type' v='GB:motorway' />
+    <tag k='national_highways:area' v='7' />
+    <tag k='oneway' v='yes' />
+    <tag k='operator' v='National Highways' />
+    <tag k='operator:wikidata' v='Q5760006' />
+    <tag k='ref' v='M6' />
+    <tag k='surface' v='asphalt' />
+    <tag k='wikidata' v='Q4648884' />
+    <tag k='wikipedia' v='en:A14 road (England)' />
+  </way>
+  <way id='-617'>
+    <nd ref='-25556' />
+    <nd ref='-25557' />
+    <nd ref='-25558' />
+    <nd ref='-25559' />
+    <nd ref='-25560' />
+    <nd ref='-25561' />
+    <nd ref='-25562' />
+    <nd ref='-25563' />
+    <nd ref='-25564' />
+    <nd ref='-25565' />
+    <nd ref='-25566' />
+    <nd ref='-25567' />
+    <nd ref='-25548' />
+    <tag k='@id' v='way/385618477' />
+    <tag k='destination:ref' v='A14' />
+    <tag k='highway' v='motorway' />
+    <tag k='int_ref' v='E 24' />
+    <tag k='lanes' v='2' />
+    <tag k='lit' v='yes' />
+    <tag k='maxspeed' v='70 mph' />
+    <tag k='maxspeed:type' v='GB:motorway' />
+    <tag k='national_highways:area' v='7' />
+    <tag k='oneway' v='yes' />
+    <tag k='operator' v='National Highways' />
+    <tag k='operator:wikidata' v='Q5760006' />
+    <tag k='proposed:maxspeed' v='70 mph' />
+    <tag k='ref' v='M6' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='-618'>
+    <nd ref='-25378' />
+    <nd ref='-25568' />
+    <nd ref='-25569' />
+    <nd ref='-25549' />
+    <tag k='@id' v='way/398171716' />
+    <tag k='destination:ref' v='A14' />
+    <tag k='highway' v='motorway' />
+    <tag k='int_ref' v='E 24' />
+    <tag k='lanes' v='2' />
+    <tag k='lit' v='yes' />
+    <tag k='maxspeed' v='70 mph' />
+    <tag k='maxspeed:type' v='GB:motorway' />
+    <tag k='oneway' v='yes' />
+    <tag k='ref' v='M6' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='-619'>
+    <nd ref='-25550' />
+    <nd ref='-25556' />
+    <tag k='@id' v='way/432179994' />
+    <tag k='bridge' v='yes' />
+    <tag k='destination:ref' v='A14' />
+    <tag k='highway' v='motorway' />
+    <tag k='int_ref' v='E 24' />
+    <tag k='lanes' v='2' />
+    <tag k='layer' v='1' />
+    <tag k='lit' v='yes' />
+    <tag k='maxspeed' v='70 mph' />
+    <tag k='maxspeed:type' v='GB:motorway' />
+    <tag k='national_highways:area' v='7' />
+    <tag k='oneway' v='yes' />
+    <tag k='operator' v='National Highways' />
+    <tag k='operator:wikidata' v='Q5760006' />
+    <tag k='proposed:lanes' v='2' />
+    <tag k='proposed:maxspeed' v='70 mph' />
+    <tag k='ref' v='M6' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='-620'>
+    <nd ref='-25378' />
+    <nd ref='-25570' />
+    <nd ref='-25571' />
+    <nd ref='-25572' />
+    <nd ref='-25573' />
+    <nd ref='-25574' />
+    <nd ref='-25575' />
+    <nd ref='-25459' />
+    <tag k='@id' v='way/432503827' />
+    <tag k='bicycle' v='no' />
+    <tag k='destination' v='The SOUTH;London;N&apos;hampton' />
+    <tag k='destination:ref' v='M1' />
+    <tag k='foot' v='no' />
+    <tag k='highway' v='motorway_link' />
+    <tag k='historic:highway' v='motorway_link' />
+    <tag k='lanes' v='2' />
+    <tag k='lit' v='yes' />
+    <tag k='maxspeed' v='70 mph' />
+    <tag k='maxspeed:type' v='GB:motorway' />
+    <tag k='national_highways:area' v='7' />
+    <tag k='oneway' v='yes' />
+    <tag k='operator' v='National Highways' />
+    <tag k='operator:wikidata' v='Q5760006' />
+    <tag k='parking:both' v='no' />
+    <tag k='parking:both:restriction' v='no_stopping' />
+    <tag k='ref' v='M6' />
+  </way>
+  <way id='-621'>
+    <nd ref='-25555' />
+    <nd ref='-25390' />
+    <tag k='@id' v='way/432503832' />
+    <tag k='carriageway_ref' v='A' />
+    <tag k='highway' v='motorway' />
+    <tag k='int_ref' v='E 24' />
+    <tag k='lanes' v='3' />
+    <tag k='lit' v='yes' />
+    <tag k='maxspeed' v='70 mph' />
+    <tag k='maxspeed:type' v='GB:motorway' />
+    <tag k='national_highways:area' v='7' />
+    <tag k='oneway' v='yes' />
+    <tag k='operator' v='National Highways' />
+    <tag k='operator:wikidata' v='Q5760006' />
+    <tag k='ref' v='M6' />
+    <tag k='source:maxspeed' v='survey' />
+    <tag k='surface' v='asphalt' />
+    <tag k='wikidata' v='Q1881041' />
+    <tag k='wikipedia' v='en:M6 motorway' />
+  </way>
+  <way id='-622'>
+    <nd ref='-25576' />
+    <nd ref='-25577' />
+    <nd ref='-25578' />
+    <nd ref='-25579' />
+    <nd ref='-25555' />
+    <tag k='@id' v='way/435012415' />
+    <tag k='bicycle' v='no' />
+    <tag k='destination' v='The N. WEST;Birmingham;Coventry' />
+    <tag k='destination:ref' v='M6' />
+    <tag k='foot' v='no' />
+    <tag k='highway' v='motorway_link' />
+    <tag k='horse' v='no' />
+    <tag k='lanes' v='2' />
+    <tag k='lit' v='yes' />
+    <tag k='maxspeed' v='70 mph' />
+    <tag k='motor_vehicle' v='yes' />
+    <tag k='national_highways:area' v='7' />
+    <tag k='oneway' v='yes' />
+    <tag k='operator' v='National Highways' />
+    <tag k='operator:wikidata' v='Q5760006' />
+    <tag k='parking:both' v='no' />
+    <tag k='parking:both:restriction' v='no_stopping' />
+    <tag k='ref' v='M6' />
+    <tag k='source:maxspeed' v='survey' />
+    <tag k='surface' v='asphalt' />
+    <tag k='wikidata' v='Q1881041' />
+    <tag k='wikipedia' v='en:M6 motorway' />
+  </way>
+  <way id='-623'>
+    <nd ref='-25376' />
+    <nd ref='-25580' />
+    <nd ref='-25576' />
+    <tag k='@id' v='way/435012416' />
+    <tag k='bicycle' v='no' />
+    <tag k='bridge' v='yes' />
+    <tag k='destination' v='The N. WEST;Birmingham;Coventry' />
+    <tag k='destination:ref' v='M6' />
+    <tag k='foot' v='no' />
+    <tag k='highway' v='motorway_link' />
+    <tag k='horse' v='no' />
+    <tag k='lanes' v='2' />
+    <tag k='layer' v='1' />
+    <tag k='lit' v='yes' />
+    <tag k='maxspeed' v='70 mph' />
+    <tag k='motor_vehicle' v='yes' />
+    <tag k='national_highways:area' v='7' />
+    <tag k='oneway' v='yes' />
+    <tag k='operator' v='National Highways' />
+    <tag k='operator:wikidata' v='Q5760006' />
+    <tag k='parking:both' v='no' />
+    <tag k='parking:both:restriction' v='no_stopping' />
+    <tag k='ref' v='M6' />
+    <tag k='source:maxspeed' v='survey' />
+    <tag k='surface' v='asphalt' />
+    <tag k='wikidata' v='Q1881041' />
+    <tag k='wikipedia' v='en:M6 motorway' />
+  </way>
+  <way id='-624'>
+    <nd ref='-25416' />
+    <nd ref='-25581' />
+    <nd ref='-25582' />
+    <nd ref='-25583' />
+    <tag k='@id' v='way/934683483' />
+    <tag k='destination:ref:lanes' v='A426 South|A426 South' />
+    <tag k='highway' v='motorway_link' />
+    <tag k='lanes' v='2' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='-625'>
+    <nd ref='-25483' />
+    <nd ref='-25584' />
+    <nd ref='-25585' />
+    <nd ref='-25484' />
+    <tag k='@id' v='way/1053017679' />
+    <tag k='bicycle' v='no' />
+    <tag k='bridge' v='yes' />
+    <tag k='destination' v='Leicester' />
+    <tag k='destination:ref' v='M1' />
+    <tag k='highway' v='motorway_link' />
+    <tag k='lanes' v='2' />
+    <tag k='layer' v='1' />
+    <tag k='lit' v='yes' />
+    <tag k='maxspeed' v='70 mph' />
+    <tag k='oneway' v='yes' />
+    <tag k='operator' v='National Highways' />
+    <tag k='operator:wikidata' v='Q5760006' />
+    <tag k='surface' v='asphalt' />
+    <tag k='turn:lanes' v='|merge_to_left' />
+  </way>
+  <way id='-626'>
+    <nd ref='-25586' />
+    <nd ref='-25587' />
+    <nd ref='-25588' />
+    <nd ref='-25362' />
+    <tag k='@id' v='way/1053058667' />
+    <tag k='bicycle' v='no' />
+    <tag k='destination' v='The N. WEST;Birmingham;Coventry' />
+    <tag k='destination:ref' v='M6' />
+    <tag k='foot' v='no' />
+    <tag k='highway' v='motorway_link' />
+    <tag k='horse' v='no' />
+    <tag k='lanes' v='1' />
+    <tag k='lit' v='yes' />
+    <tag k='maxspeed' v='70 mph' />
+    <tag k='motor_vehicle' v='yes' />
+    <tag k='national_highways:area' v='7' />
+    <tag k='oneway' v='yes' />
+    <tag k='operator' v='National Highways' />
+    <tag k='operator:wikidata' v='Q5760006' />
+    <tag k='parking:both' v='no' />
+    <tag k='parking:both:restriction' v='no_stopping' />
+    <tag k='ref' v='M6' />
+    <tag k='source:maxspeed' v='survey' />
+    <tag k='surface' v='asphalt' />
+    <tag k='wikidata' v='Q1881041' />
+    <tag k='wikipedia' v='en:M6 motorway' />
+  </way>
+  <way id='-627'>
+    <nd ref='-25589' />
+    <nd ref='-25590' />
+    <nd ref='-25591' />
+    <nd ref='-25592' />
+    <nd ref='-25593' />
+    <nd ref='-25443' />
+    <tag k='@id' v='way/1252381911' />
+    <tag k='bicycle' v='no' />
+    <tag k='foot' v='no' />
+    <tag k='highway' v='motorway_link' />
+    <tag k='lanes' v='2' />
+    <tag k='lit' v='no' />
+    <tag k='national_highways:area' v='9' />
+    <tag k='oneway' v='yes' />
+    <tag k='operator' v='National Highways' />
+    <tag k='operator:wikidata' v='Q5760006' />
+    <tag k='turn:lanes' v='|merge_to_left' />
+  </way>
+  <way id='-628'>
+    <nd ref='-25448' />
+    <nd ref='-25389' />
+    <tag k='@id' v='way/1252381912' />
+    <tag k='bicycle' v='no' />
+    <tag k='foot' v='no' />
+    <tag k='highway' v='motorway_link' />
+    <tag k='lanes' v='1' />
+    <tag k='lit' v='no' />
+    <tag k='national_highways:area' v='9' />
+    <tag k='oneway' v='yes' />
+    <tag k='operator' v='National Highways' />
+    <tag k='operator:wikidata' v='Q5760006' />
+    <tag k='turn' v='merge_to_right' />
+  </way>
+  <way id='-629'>
+    <nd ref='-25415' />
+    <nd ref='-25396' />
+    <tag k='@id' v='way/1252381913' />
+    <tag k='bicycle' v='no' />
+    <tag k='foot' v='no' />
+    <tag k='highway' v='motorway_link' />
+    <tag k='lanes' v='2' />
+    <tag k='lit' v='no' />
+    <tag k='national_highways:area' v='9' />
+    <tag k='oneway' v='yes' />
+    <tag k='operator' v='National Highways' />
+    <tag k='operator:wikidata' v='Q5760006' />
+    <tag k='turn:lanes' v='||merge_to_left' />
+  </way>
+  <way id='-630'>
+    <nd ref='-25399' />
+    <nd ref='-25510' />
+    <tag k='@id' v='way/1252381914' />
+    <tag k='bicycle' v='no' />
+    <tag k='foot' v='no' />
+    <tag k='highway' v='motorway_link' />
+    <tag k='lanes' v='1' />
+    <tag k='lit' v='no' />
+    <tag k='national_highways:area' v='9' />
+    <tag k='oneway' v='yes' />
+    <tag k='operator' v='National Highways' />
+    <tag k='operator:wikidata' v='Q5760006' />
+    <tag k='turn:lanes' v='merge_to_right' />
+  </way>
+  <way id='-631'>
+    <nd ref='-25382' />
+    <nd ref='-25594' />
+    <nd ref='-25392' />
+    <tag k='@id' v='way/1252381915' />
+    <tag k='bicycle' v='no' />
+    <tag k='foot' v='no' />
+    <tag k='highway' v='motorway_link' />
+    <tag k='lanes' v='1' />
+    <tag k='lit' v='no' />
+    <tag k='national_highways:area' v='9' />
+    <tag k='oneway' v='yes' />
+    <tag k='operator' v='National Highways' />
+    <tag k='operator:wikidata' v='Q5760006' />
+  </way>
+  <way id='-632'>
+    <nd ref='-25395' />
+    <nd ref='-25595' />
+    <tag k='@id' v='way/1252381916' />
+    <tag k='bicycle' v='no' />
+    <tag k='destination:ref:lanes' v='A426 North;Services|A426 South|A426 South' />
+    <tag k='foot' v='no' />
+    <tag k='highway' v='motorway_link' />
+    <tag k='lanes' v='3' />
+    <tag k='lit' v='no' />
+    <tag k='national_highways:area' v='9' />
+    <tag k='oneway' v='yes' />
+    <tag k='operator' v='National Highways' />
+    <tag k='operator:wikidata' v='Q5760006' />
+  </way>
+  <way id='-633'>
+    <nd ref='-25595' />
+    <nd ref='-25416' />
+    <tag k='@id' v='way/1252381917' />
+    <tag k='bicycle' v='no' />
+    <tag k='destination:ref:lanes' v='A426 North;Services|A426 North|A426 South|A426 South' />
+    <tag k='foot' v='no' />
+    <tag k='highway' v='motorway_link' />
+    <tag k='lanes' v='4' />
+    <tag k='lit' v='no' />
+    <tag k='national_highways:area' v='9' />
+    <tag k='oneway' v='yes' />
+    <tag k='operator' v='National Highways' />
+    <tag k='operator:wikidata' v='Q5760006' />
+  </way>
+</osm>

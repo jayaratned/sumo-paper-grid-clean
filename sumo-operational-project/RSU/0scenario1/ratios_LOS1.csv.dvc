@@ -1,0 +1,5 @@
+outs:
+- md5: 85e6b443e9e9c2bae01f43fff3a7bb5c
+  size: 29288
+  hash: md5
+  path: ratios_LOS1.csv

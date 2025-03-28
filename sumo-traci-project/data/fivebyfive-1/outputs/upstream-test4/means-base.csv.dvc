@@ -1,0 +1,5 @@
+outs:
+- md5: 4a58813105f07c6cedd428b3e292ef73
+  size: 1324
+  hash: md5
+  path: means-base.csv

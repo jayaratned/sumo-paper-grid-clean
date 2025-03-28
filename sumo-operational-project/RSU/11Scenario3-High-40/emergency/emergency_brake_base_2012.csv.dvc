@@ -1,0 +1,5 @@
+outs:
+- md5: 8183dc7a080728b0b4a26c028fada474
+  size: 5987
+  hash: md5
+  path: emergency_brake_base_2012.csv

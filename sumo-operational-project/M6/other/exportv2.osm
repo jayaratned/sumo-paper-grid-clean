@@ -1,0 +1,2194 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='Level0 v1.3'>
+  <node id='203156' version='2' lat='52.4086327' lon='-1.2501681' user='brianboru' uid='9065' changeset='18242549' timestamp='2013-10-08T08:10:20Z'>
+  </node>
+  <node id='203157' version='4' lat='52.4073639' lon='-1.2367032' user='Cebderby' uid='705850' changeset='119034211' timestamp='2022-03-28T18:16:21Z'>
+  </node>
+  <node id='203158' version='4' lat='52.4059654' lon='-1.2064396' user='Cebderby' uid='705850' changeset='71227569' timestamp='2019-06-13T17:51:44Z'>
+  </node>
+  <node id='203165' version='11' lat='52.4045729' lon='-1.1784931' user='Cebderby' uid='705850' changeset='119905594' timestamp='2022-04-19T12:38:34Z'>
+  </node>
+  <node id='203167' version='3' lat='52.4008074' lon='-1.1742581' user='Cebderby' uid='705850' changeset='63753461' timestamp='2018-10-22T10:15:30Z'>
+  </node>
+  <node id='203168' version='2' lat='52.3979613' lon='-1.1735621' user='c2r' uid='5926' changeset='9797896' timestamp='2011-11-11T16:50:09Z'>
+  </node>
+  <node id='208590' version='12' lat='52.3959104' lon='-1.1734557' user='Cebderby' uid='705850' changeset='119912046' timestamp='2022-04-19T15:02:26Z'>
+    <tag k='highway' v='motorway_junction' />
+    <tag k='layer' v='3' />
+    <tag k='name' v='Catthorpe' />
+    <tag k='ref' v='19' />
+  </node>
+  <node id='208600' version='2' lat='52.4054809' lon='-1.1991902' user='duncaninnes' uid='131236' changeset='12499577' timestamp='2012-07-26T13:47:45Z'>
+  </node>
+  <node id='208601' version='2' lat='52.4052726' lon='-1.1944636' user='brianboru' uid='9065' changeset='8882126' timestamp='2011-07-31T15:37:14Z'>
+  </node>
+  <node id='208606' version='1' lat='52.4058028' lon='-1.2065920' user='blackadder' uid='735' changeset='113868' timestamp='2006-09-18T09:13:05Z'>
+  </node>
+  <node id='208607' version='2' lat='52.4071918' lon='-1.2362020' user='Cebderby' uid='705850' changeset='119034211' timestamp='2022-03-28T18:16:21Z'>
+  </node>
+  <node id='208608' version='2' lat='52.4085033' lon='-1.2502199' user='brianboru' uid='9065' changeset='18242549' timestamp='2013-10-08T08:10:20Z'>
+  </node>
+  <node id='572575' version='9' lat='52.4054048' lon='-1.1943139' user='robw' uid='384887' changeset='41080406' timestamp='2016-07-28T08:31:16Z'>
+  </node>
+  <node id='572576' version='4' lat='52.4056249' lon='-1.1993010' user='duncaninnes' uid='131236' changeset='12499577' timestamp='2012-07-26T13:47:45Z'>
+  </node>
+  <node id='572579' version='11' lat='52.4036313' lon='-1.1767598' user='Cebderby' uid='705850' changeset='63753461' timestamp='2018-10-22T10:15:30Z'>
+  </node>
+  <node id='572580' version='9' lat='52.4033194' lon='-1.1762765' user='Cebderby' uid='705850' changeset='63753461' timestamp='2018-10-22T10:15:30Z'>
+  </node>
+  <node id='572583' version='8' lat='52.4023987' lon='-1.1751931' user='Cebderby' uid='705850' changeset='63753461' timestamp='2018-10-22T10:15:30Z'>
+  </node>
+  <node id='572584' version='5' lat='52.4018425' lon='-1.1747473' user='Cebderby' uid='705850' changeset='63753461' timestamp='2018-10-22T10:15:30Z'>
+  </node>
+  <node id='572585' version='6' lat='52.4014162' lon='-1.1745193' user='Cebderby' uid='705850' changeset='63753461' timestamp='2018-10-22T10:15:30Z'>
+  </node>
+  <node id='572587' version='8' lat='52.4053402' lon='-1.1930780' user='Dandy_84dger' uid='125133' changeset='57826648' timestamp='2018-04-05T08:41:25Z'>
+    <tag k='highway' v='motorway_junction' />
+    <tag k='name' v='Catthorpe' />
+  </node>
+  <node id='572588' version='8' lat='52.4055121' lon='-1.1822616' user='Cebderby' uid='705850' changeset='119905594' timestamp='2022-04-19T12:38:34Z'>
+  </node>
+  <node id='572613' version='2' lat='52.4030409' lon='-1.1773751' user='brianboru' uid='9065' changeset='8882126' timestamp='2011-07-31T15:37:15Z'>
+  </node>
+  <node id='572614' version='2' lat='52.4024219' lon='-1.1766101' user='brianboru' uid='9065' changeset='8882126' timestamp='2011-07-31T15:37:15Z'>
+  </node>
+  <node id='572615' version='3' lat='52.4017896' lon='-1.1760424' user='Cebderby' uid='705850' changeset='71227569' timestamp='2019-06-13T17:51:44Z'>
+  </node>
+  <node id='572617' version='8' lat='52.4045830' lon='-1.1812778' user='Cebderby' uid='705850' changeset='71227569' timestamp='2019-06-13T17:51:44Z'>
+  </node>
+  <node id='572626' version='6' lat='52.4073008' lon='-1.1786022' user='Cebderby' uid='705850' changeset='119905594' timestamp='2022-04-19T12:38:34Z'>
+  </node>
+  <node id='572627' version='6' lat='52.4059952' lon='-1.1781175' user='Cebderby' uid='705850' changeset='119905594' timestamp='2022-04-19T12:38:34Z'>
+  </node>
+  <node id='572631' version='10' lat='52.4090092' lon='-1.1791156' user='Cebderby' uid='705850' changeset='119905594' timestamp='2022-04-19T12:38:34Z'>
+    <tag k='highway' v='motorway_junction' />
+    <tag k='layer' v='3' />
+    <tag k='name' v='Catthorpe' />
+    <tag k='ref' v='19' />
+  </node>
+  <node id='574086' version='4' lat='52.4038571' lon='-1.1736543' user='Cebderby' uid='705850' changeset='63753461' timestamp='2018-10-22T10:15:30Z'>
+  </node>
+  <node id='574088' version='3' lat='52.4036005' lon='-1.1728166' user='Dandy_84dger' uid='125133' changeset='57826648' timestamp='2018-04-05T08:41:25Z'>
+  </node>
+  <node id='574113' version='6' lat='52.4074584' lon='-1.2379772' user='Cebderby' uid='705850' changeset='119034211' timestamp='2022-03-28T18:16:21Z'>
+  </node>
+  <node id='574115' version='2' lat='52.4081940' lon='-1.2462778' user='brianboru' uid='9065' changeset='18242549' timestamp='2013-10-08T08:10:25Z'>
+  </node>
+  <node id='574116' version='3' lat='52.4080453' lon='-1.2462061' user='brianboru' uid='9065' changeset='18242549' timestamp='2013-10-08T08:10:25Z'>
+  </node>
+  <node id='574117' version='8' lat='52.4092959' lon='-1.2552312' user='Nathan_A_RF' uid='5229644' changeset='125564839' timestamp='2022-08-30T11:36:03Z'>
+    <tag k='exit_to' v='A426 Rugby, Lutterworth' />
+    <tag k='highway' v='motorway_junction' />
+    <tag k='name' v='Rugby' />
+    <tag k='ref' v='1' />
+  </node>
+  <node id='574118' version='3' lat='52.4091701' lon='-1.2553742' user='Cebderby' uid='705850' changeset='119034211' timestamp='2022-03-28T18:16:21Z'>
+  </node>
+  <node id='574119' version='4' lat='52.4098558' lon='-1.2590140' user='brianboru' uid='9065' changeset='18242549' timestamp='2013-10-08T08:10:25Z'>
+  </node>
+  <node id='574120' version='2' lat='52.4097283' lon='-1.2590644' user='brianboru' uid='9065' changeset='18242549' timestamp='2013-10-08T08:10:25Z'>
+  </node>
+  <node id='13890244' version='7' lat='52.4064239' lon='-1.1770224' user='Cebderby' uid='705850' changeset='119905594' timestamp='2022-04-19T12:38:34Z'>
+  </node>
+  <node id='15820400' version='3' lat='52.4088744' lon='-1.2503017' user='Cebderby' uid='705850' changeset='119034211' timestamp='2022-03-28T18:16:21Z'>
+  </node>
+  <node id='15820402' version='2' lat='52.4087599' lon='-1.2482666' user='Cebderby' uid='705850' changeset='119034211' timestamp='2022-03-28T18:16:21Z'>
+  </node>
+  <node id='15820404' version='2' lat='52.4087144' lon='-1.2474364' user='Cebderby' uid='705850' changeset='119034211' timestamp='2022-03-28T18:16:21Z'>
+  </node>
+  <node id='15820405' version='3' lat='52.4087353' lon='-1.2468812' user='Cebderby' uid='705850' changeset='119034211' timestamp='2022-03-28T18:16:21Z'>
+  </node>
+  <node id='15820406' version='6' lat='52.4089021' lon='-1.2466123' user='Cebderby' uid='705850' changeset='119034211' timestamp='2022-03-28T18:16:21Z'>
+  </node>
+  <node id='15820408' version='7' lat='52.4090925' lon='-1.2463301' user='Loshu' uid='198183' changeset='147650723' timestamp='2024-02-19T13:34:51Z'>
+  </node>
+  <node id='15820409' version='7' lat='52.4091471' lon='-1.2461264' user='Falsernet' uid='13341565' changeset='152142242' timestamp='2024-06-02T00:47:33Z'>
+  </node>
+  <node id='15820410' version='7' lat='52.4090506' lon='-1.2456346' user='Loshu' uid='198183' changeset='147650723' timestamp='2024-02-19T13:34:51Z'>
+  </node>
+  <node id='15820412' version='7' lat='52.4089836' lon='-1.2455277' user='Loshu' uid='198183' changeset='147650723' timestamp='2024-02-19T13:34:51Z'>
+  </node>
+  <node id='15820415' version='6' lat='52.4088173' lon='-1.2453255' user='Loshu' uid='198183' changeset='147650723' timestamp='2024-02-19T13:34:51Z'>
+  </node>
+  <node id='15820416' version='7' lat='52.4085058' lon='-1.2450933' user='Loshu' uid='198183' changeset='147650723' timestamp='2024-02-19T13:34:51Z'>
+  </node>
+  <node id='15820417' version='6' lat='52.4076660' lon='-1.2448500' user='Cebderby' uid='705850' changeset='119034211' timestamp='2022-03-28T18:16:21Z'>
+  </node>
+  <node id='15820418' version='7' lat='52.4075680' lon='-1.2448756' user='Falsernet' uid='13341565' changeset='152142242' timestamp='2024-06-02T00:47:33Z'>
+    <tag k='highway' v='traffic_signals' />
+    <tag k='traffic_signals' v='signal' />
+  </node>
+  <node id='15820420' version='4' lat='52.4074750' lon='-1.2449249' user='nickbooker' uid='70265' changeset='103538562' timestamp='2021-04-24T14:02:21Z'>
+  </node>
+  <node id='15820421' version='6' lat='52.4073636' lon='-1.2450515' user='Cebderby' uid='705850' changeset='119034211' timestamp='2022-03-28T18:16:21Z'>
+  </node>
+  <node id='15820422' version='6' lat='52.4073022' lon='-1.2451781' user='Cebderby' uid='705850' changeset='119034211' timestamp='2022-03-28T18:16:21Z'>
+  </node>
+  <node id='15820423' version='6' lat='52.4072322' lon='-1.2454960' user='Cebderby' uid='705850' changeset='119034211' timestamp='2022-03-28T18:16:21Z'>
+  </node>
+  <node id='15820424' version='7' lat='52.4072406' lon='-1.2457576' user='Falsernet' uid='13341565' changeset='152142242' timestamp='2024-06-02T00:47:33Z'>
+    <tag k='highway' v='traffic_signals' />
+    <tag k='traffic_signals' v='signal' />
+  </node>
+  <node id='15820426' version='5' lat='52.4073407' lon='-1.2460682' user='Cebderby' uid='705850' changeset='119034602' timestamp='2022-03-28T18:26:07Z'>
+  </node>
+  <node id='15820427' version='7' lat='52.4074379' lon='-1.2462022' user='cjbarnes18' uid='75413' changeset='702364' timestamp='2008-11-06T22:24:28Z'>
+  </node>
+  <node id='15820428' version='4' lat='52.4075788' lon='-1.2463134' user='Cebderby' uid='705850' changeset='119034211' timestamp='2022-03-28T18:16:21Z'>
+  </node>
+  <node id='15820429' version='6' lat='52.4084373' lon='-1.2465667' user='Cebderby' uid='705850' changeset='119034211' timestamp='2022-03-28T18:16:21Z'>
+  </node>
+  <node id='15820431' version='6' lat='52.4085519' lon='-1.2465974' user='Cebderby' uid='705850' changeset='119034211' timestamp='2022-03-28T18:16:21Z'>
+  </node>
+  <node id='15820432' version='6' lat='52.4087069' lon='-1.2466379' user='Cebderby' uid='705850' changeset='119034211' timestamp='2022-03-28T18:16:21Z'>
+  </node>
+  <node id='15820433' version='2' lat='52.4083572' lon='-1.2505465' user='Cebderby' uid='705850' changeset='119034211' timestamp='2022-03-28T18:16:21Z'>
+  </node>
+  <node id='15820434' version='2' lat='52.4078869' lon='-1.2475522' user='Cebderby' uid='705850' changeset='119034211' timestamp='2022-03-28T18:16:21Z'>
+  </node>
+  <node id='15820435' version='2' lat='52.4078078' lon='-1.2470502' user='Cebderby' uid='705850' changeset='119034211' timestamp='2022-03-28T18:16:21Z'>
+  </node>
+  <node id='15820438' version='2' lat='52.4077115' lon='-1.2466801' user='Cebderby' uid='705850' changeset='119034211' timestamp='2022-03-28T18:16:21Z'>
+  </node>
+  <node id='15820439' version='2' lat='52.4076026' lon='-1.2464803' user='Cebderby' uid='705850' changeset='119034211' timestamp='2022-03-28T18:16:21Z'>
+  </node>
+  <node id='15820441' version='4' lat='52.4093324' lon='-1.2457583' user='Falsernet' uid='13341565' changeset='152142242' timestamp='2024-06-02T00:47:33Z'>
+  </node>
+  <node id='15820442' version='4' lat='52.4095639' lon='-1.2455591' user='Falsernet' uid='13341565' changeset='152142242' timestamp='2024-06-02T00:47:33Z'>
+  </node>
+  <node id='15820443' version='3' lat='52.4099547' lon='-1.2451702' user='Cebderby' uid='705850' changeset='119034211' timestamp='2022-03-28T18:16:21Z'>
+  </node>
+  <node id='15820444' version='3' lat='52.4095566' lon='-1.2453894' user='Cebderby' uid='705850' changeset='119034211' timestamp='2022-03-28T18:16:21Z'>
+  </node>
+  <node id='15820445' version='4' lat='52.4092948' lon='-1.2455947' user='Loshu' uid='198183' changeset='147650723' timestamp='2024-02-19T13:34:51Z'>
+  </node>
+  <node id='15820446' version='4' lat='52.4092046' lon='-1.2456163' user='Loshu' uid='198183' changeset='147650723' timestamp='2024-02-19T13:34:51Z'>
+  </node>
+  <node id='15820447' version='4' lat='52.4090973' lon='-1.2456022' user='Loshu' uid='198183' changeset='147650723' timestamp='2024-02-19T13:34:51Z'>
+    <tag k='highway' v='give_way' />
+  </node>
+  <node id='15820449' version='3' lat='52.4069944' lon='-1.2457483' user='Cebderby' uid='705850' changeset='119034211' timestamp='2022-03-28T18:16:21Z'>
+  </node>
+  <node id='15820450' version='3' lat='52.4071579' lon='-1.2458581' user='Falsernet' uid='13341565' changeset='152142242' timestamp='2024-06-02T00:47:33Z'>
+    <tag k='highway' v='traffic_signals' />
+    <tag k='traffic_signals' v='signal' />
+  </node>
+  <node id='15825532' version='3' lat='52.4071275' lon='-1.2453810' user='gnesss' uid='6274199' changeset='90087710' timestamp='2020-08-28T14:43:34Z'>
+  </node>
+  <node id='15825533' version='4' lat='52.4070255' lon='-1.2454506' user='Cebderby' uid='705850' changeset='119034211' timestamp='2022-03-28T18:16:21Z'>
+  </node>
+  <node id='15825534' version='3' lat='52.4069177' lon='-1.2455051' user='Cebderby' uid='705850' changeset='119034211' timestamp='2022-03-28T18:16:21Z'>
+  </node>
+  <node id='15825535' version='3' lat='52.4067787' lon='-1.2455204' user='Cebderby' uid='705850' changeset='119034211' timestamp='2022-03-28T18:16:21Z'>
+  </node>
+  <node id='15825536' version='3' lat='52.4063657' lon='-1.2454426' user='Cebderby' uid='705850' changeset='119034211' timestamp='2022-03-28T18:16:21Z'>
+  </node>
+  <node id='15825537' version='3' lat='52.4058259' lon='-1.2453252' user='Cebderby' uid='705850' changeset='119034211' timestamp='2022-03-28T18:16:21Z'>
+  </node>
+  <node id='15825539' version='1' lat='52.4053740' lon='-1.2452903' user='blackadder' uid='735' changeset='113015' timestamp='2006-09-17T10:55:18Z'>
+    <tag k='created_by' v='JOSM' />
+  </node>
+  <node id='15825541' version='2' lat='52.4048667' lon='-1.2453560' user='Cebderby' uid='705850' changeset='119034211' timestamp='2022-03-28T18:16:21Z'>
+  </node>
+  <node id='15825543' version='2' lat='52.4044010' lon='-1.2454941' user='Cebderby' uid='705850' changeset='119034211' timestamp='2022-03-28T18:16:21Z'>
+  </node>
+  <node id='15825547' version='2' lat='52.4035570' lon='-1.2459288' user='brianboru' uid='9065' changeset='18218419' timestamp='2013-10-06T19:04:19Z'>
+  </node>
+  <node id='15825558' version='3' lat='52.4032934' lon='-1.2461178' user='gnesss' uid='6274199' changeset='90087710' timestamp='2020-08-28T14:43:34Z'>
+  </node>
+  <node id='15888633' version='9' lat='52.4030698' lon='-1.1759535' user='Cebderby' uid='705850' changeset='63753461' timestamp='2018-10-22T10:15:30Z'>
+  </node>
+  <node id='15888635' version='8' lat='52.4027547' lon='-1.1755638' user='Cebderby' uid='705850' changeset='63753461' timestamp='2018-10-22T10:15:30Z'>
+  </node>
+  <node id='15888636' version='6' lat='52.4020857' lon='-1.1749270' user='Cebderby' uid='705850' changeset='63753461' timestamp='2018-10-22T10:15:30Z'>
+  </node>
+  <node id='15888637' version='6' lat='52.4016653' lon='-1.1746473' user='Cebderby' uid='705850' changeset='63753461' timestamp='2018-10-22T10:15:30Z'>
+  </node>
+  <node id='15888638' version='4' lat='52.4011324' lon='-1.1743887' user='Cebderby' uid='705850' changeset='63753461' timestamp='2018-10-22T10:15:30Z'>
+    <tag k='distance' v='132.3' />
+    <tag k='highway' v='milestone' />
+  </node>
+  <node id='15888724' version='2' lat='52.3974727' lon='-1.1741043' user='Cebderby' uid='705850' changeset='119912507' timestamp='2022-04-19T15:13:02Z'>
+  </node>
+  <node id='15888725' version='2' lat='52.4009285' lon='-1.1754835' user='brianboru' uid='9065' changeset='8882126' timestamp='2011-07-31T15:37:13Z'>
+  </node>
+  <node id='15889073' version='2' lat='52.4032747' lon='-1.1777569' user='brianboru' uid='9065' changeset='8882126' timestamp='2011-07-31T15:37:14Z'>
+  </node>
+  <node id='15889074' version='2' lat='52.4027022' lon='-1.1769246' user='brianboru' uid='9065' changeset='8882126' timestamp='2011-07-31T15:37:14Z'>
+  </node>
+  <node id='15889075' version='3' lat='52.4020570' lon='-1.1762744' user='Cebderby' uid='705850' changeset='71227569' timestamp='2019-06-13T17:51:44Z'>
+  </node>
+  <node id='15889076' version='3' lat='52.4013361' lon='-1.1757216' user='Cebderby' uid='705850' changeset='71227569' timestamp='2019-06-13T17:51:44Z'>
+  </node>
+  <node id='15889647' version='5' lat='52.4071245' lon='-1.2326571' user='Falsernet' uid='13341565' changeset='152142242' timestamp='2024-06-02T00:47:33Z'>
+  </node>
+  <node id='15889648' version='2' lat='52.4069879' lon='-1.2326925' user='Falsernet' uid='13341565' changeset='152142242' timestamp='2024-06-02T00:47:33Z'>
+  </node>
+  <node id='15889649' version='4' lat='52.4069056' lon='-1.2280050' user='Falsernet' uid='13341565' changeset='152142242' timestamp='2024-06-02T00:47:33Z'>
+  </node>
+  <node id='15889650' version='2' lat='52.4067687' lon='-1.2280501' user='Falsernet' uid='13341565' changeset='152142242' timestamp='2024-06-02T00:47:33Z'>
+  </node>
+  <node id='15889651' version='4' lat='52.4066543' lon='-1.2223733' user='Falsernet' uid='13341565' changeset='152142242' timestamp='2024-06-02T00:47:33Z'>
+  </node>
+  <node id='15889652' version='2' lat='52.4065240' lon='-1.2225044' user='Falsernet' uid='13341565' changeset='152142242' timestamp='2024-06-02T00:47:33Z'>
+  </node>
+  <node id='15889655' version='1' lat='52.4084534' lon='-1.2485255' user='blackadder' uid='735' changeset='113868' timestamp='2006-09-18T09:13:03Z'>
+    <tag k='created_by' v='JOSM' />
+  </node>
+  <node id='15889656' version='2' lat='52.4082046' lon='-1.2476349' user='brianboru' uid='9065' changeset='18242549' timestamp='2013-10-08T08:10:20Z'>
+  </node>
+  <node id='15889657' version='2' lat='52.4080265' lon='-1.2446420' user='alexkemp' uid='3735896' changeset='86604803' timestamp='2020-06-13T17:09:00Z'>
+  </node>
+  <node id='15889658' version='1' lat='52.4078608' lon='-1.2446438' user='blackadder' uid='735' changeset='113868' timestamp='2006-09-18T09:13:03Z'>
+    <tag k='created_by' v='JOSM' />
+  </node>
+  <node id='15889659' version='2' lat='52.4089202' lon='-1.2525095' user='brianboru' uid='9065' changeset='18242549' timestamp='2013-10-08T08:10:20Z'>
+  </node>
+  <node id='15889660' version='1' lat='52.4087994' lon='-1.2526295' user='blackadder' uid='735' changeset='113868' timestamp='2006-09-18T09:13:04Z'>
+    <tag k='created_by' v='JOSM' />
+  </node>
+  <node id='15889890' version='2' lat='52.4086989' lon='-1.2470508' user='Cebderby' uid='705850' changeset='119034211' timestamp='2022-03-28T18:16:21Z'>
+  </node>
+  <node id='24495441' version='8' lat='52.4057983' lon='-1.1764093' user='Cebderby' uid='705850' changeset='71227569' timestamp='2019-06-13T17:51:44Z'>
+  </node>
+  <node id='25881327' version='3' lat='52.4034074' lon='-1.2460578' user='gnesss' uid='6274199' changeset='90087710' timestamp='2020-08-28T14:43:34Z'>
+  </node>
+  <node id='25881334' version='6' lat='52.4072302' lon='-1.2456482' user='Cebderby' uid='705850' changeset='119034211' timestamp='2022-03-28T18:16:21Z'>
+  </node>
+  <node id='25881335' version='6' lat='52.4072558' lon='-1.2453601' user='Cebderby' uid='705850' changeset='119034211' timestamp='2022-03-28T18:16:21Z'>
+  </node>
+  <node id='25881336' version='6' lat='52.4073311' lon='-1.2451129' user='Cebderby' uid='705850' changeset='119034211' timestamp='2022-03-28T18:16:21Z'>
+  </node>
+  <node id='25881337' version='8' lat='52.4074033' lon='-1.2449887' user='nickbooker' uid='70265' changeset='103538562' timestamp='2021-04-24T14:02:21Z'>
+  </node>
+  <node id='25881338' version='5' lat='52.4078001' lon='-1.2448660' user='nickbooker' uid='70265' changeset='103538562' timestamp='2021-04-24T14:02:21Z'>
+  </node>
+  <node id='25881340' version='7' lat='52.4090719' lon='-1.2456853' user='Loshu' uid='198183' changeset='147650723' timestamp='2024-02-19T13:34:51Z'>
+  </node>
+  <node id='25881532' version='7' lat='52.4070614' lon='-1.1785046' user='Cebderby' uid='705850' changeset='119905594' timestamp='2022-04-19T12:38:34Z'>
+  </node>
+  <node id='25881555' version='7' lat='52.4060505' lon='-1.1766750' user='Cebderby' uid='705850' changeset='119905594' timestamp='2022-04-19T12:38:34Z'>
+  </node>
+  <node id='25881587' version='5' lat='52.4075935' lon='-1.1779555' user='Cebderby' uid='705850' changeset='63753461' timestamp='2018-10-22T10:15:30Z'>
+  </node>
+  <node id='25894045' version='3' lat='52.4067491' lon='-1.2456882' user='Cebderby' uid='705850' changeset='119034211' timestamp='2022-03-28T18:16:21Z'>
+  </node>
+  <node id='25894046' version='5' lat='52.4076808' lon='-1.2463538' user='Cebderby' uid='705850' changeset='119034211' timestamp='2022-03-28T18:16:21Z'>
+  </node>
+  <node id='25894047' version='5' lat='52.4072635' lon='-1.2458861' user='Cebderby' uid='705850' changeset='119034211' timestamp='2022-03-28T18:16:21Z'>
+  </node>
+  <node id='25894048' version='3' lat='52.4070881' lon='-1.2457929' user='Cebderby' uid='705850' changeset='119034211' timestamp='2022-03-28T18:16:21Z'>
+  </node>
+  <node id='276922419' version='9' lat='52.4072776' lon='-1.2375404' user='Nathan_A_RF' uid='5229644' changeset='125564839' timestamp='2022-08-30T11:36:03Z'>
+    <tag k='exit_to' v='A426 Rugby' />
+    <tag k='highway' v='motorway_junction' />
+    <tag k='name' v='Rugby' />
+    <tag k='ref' v='1' />
+  </node>
+  <node id='276922420' version='6' lat='52.4074670' lon='-1.2431334' user='Cebderby' uid='705850' changeset='119034211' timestamp='2022-03-28T18:16:21Z'>
+  </node>
+  <node id='276922422' version='6' lat='52.4074796' lon='-1.2437367' user='Cebderby' uid='705850' changeset='119034211' timestamp='2022-03-28T18:16:21Z'>
+  </node>
+  <node id='276922424' version='6' lat='52.4074994' lon='-1.2442491' user='Cebderby' uid='705850' changeset='119034211' timestamp='2022-03-28T18:16:21Z'>
+  </node>
+  <node id='276922425' version='7' lat='52.4075024' lon='-1.2444957' user='Cebderby' uid='705850' changeset='119034211' timestamp='2022-03-28T18:16:21Z'>
+  </node>
+  <node id='276922426' version='5' lat='52.4074623' lon='-1.2448038' user='Cebderby' uid='705850' changeset='119034211' timestamp='2022-03-28T18:16:21Z'>
+  </node>
+  <node id='276922652' version='4' lat='52.4078429' lon='-1.2412717' user='Cebderby' uid='705850' changeset='119034211' timestamp='2022-03-28T18:16:21Z'>
+  </node>
+  <node id='276922653' version='4' lat='52.4080208' lon='-1.2424462' user='Cebderby' uid='705850' changeset='119034211' timestamp='2022-03-28T18:16:21Z'>
+  </node>
+  <node id='276922654' version='4' lat='52.4081810' lon='-1.2433879' user='Cebderby' uid='705850' changeset='119034211' timestamp='2022-03-28T18:16:21Z'>
+  </node>
+  <node id='276922656' version='2' lat='52.4083036' lon='-1.2441336' user='Cebderby' uid='705850' changeset='119034211' timestamp='2022-03-28T18:16:21Z'>
+  </node>
+  <node id='276922657' version='2' lat='52.4083614' lon='-1.2444820' user='Cebderby' uid='705850' changeset='119034211' timestamp='2022-03-28T18:16:21Z'>
+  </node>
+  <node id='276922658' version='2' lat='52.4084288' lon='-1.2446929' user='Cebderby' uid='705850' changeset='119034211' timestamp='2022-03-28T18:16:21Z'>
+  </node>
+  <node id='276922659' version='1' lat='52.4085025' lon='-1.2448746' user='Phil Shipley' uid='44659' changeset='424887' timestamp='2008-07-07T14:38:27Z'>
+  </node>
+  <node id='276922660' version='2' lat='52.4085550' lon='-1.2449875' user='Cebderby' uid='705850' changeset='119034211' timestamp='2022-03-28T18:16:21Z'>
+  </node>
+  <node id='276922661' version='7' lat='52.4086455' lon='-1.2451593' user='Loshu' uid='198183' changeset='147650723' timestamp='2024-02-19T13:34:51Z'>
+  </node>
+  <node id='318616587' version='3' lat='52.4054537' lon='-1.1953970' user='duncaninnes' uid='131236' changeset='12499577' timestamp='2012-07-26T13:47:45Z'>
+  </node>
+  <node id='318616588' version='3' lat='52.4054348' lon='-1.1950419' user='duncaninnes' uid='131236' changeset='12499577' timestamp='2012-07-26T13:47:45Z'>
+  </node>
+  <node id='318616590' version='2' lat='52.4054850' lon='-1.1961551' user='brianboru' uid='9065' changeset='8882126' timestamp='2011-07-31T15:37:14Z'>
+  </node>
+  <node id='318616591' version='2' lat='52.4053063' lon='-1.1953060' user='brianboru' uid='9065' changeset='8882126' timestamp='2011-07-31T15:37:14Z'>
+  </node>
+  <node id='318616593' version='2' lat='52.4052929' lon='-1.1949024' user='brianboru' uid='9065' changeset='8882126' timestamp='2011-07-31T15:37:14Z'>
+  </node>
+  <node id='391183901' version='5' lat='52.4092154' lon='-1.2459012' user='Falsernet' uid='13341565' changeset='152142242' timestamp='2024-06-02T00:47:33Z'>
+  </node>
+  <node id='1244762499' version='3' lat='52.4078156' lon='-1.2463934' user='Cebderby' uid='705850' changeset='119034211' timestamp='2022-03-28T18:16:21Z'>
+  </node>
+  <node id='1244762500' version='3' lat='52.4073898' lon='-1.2410721' user='Cebderby' uid='705850' changeset='119034211' timestamp='2022-03-28T18:16:21Z'>
+  </node>
+  <node id='1244762501' version='4' lat='52.4083098' lon='-1.2450285' user='Cebderby' uid='705850' changeset='119034211' timestamp='2022-03-28T18:16:21Z'>
+  </node>
+  <node id='1244767401' version='2' lat='52.4060082' lon='-1.2108783' user='Falsernet' uid='13341565' changeset='152142242' timestamp='2024-06-02T00:47:33Z'>
+  </node>
+  <node id='1244767413' version='2' lat='52.4059854' lon='-1.2103786' user='Falsernet' uid='13341565' changeset='152142242' timestamp='2024-06-02T00:47:33Z'>
+  </node>
+  <node id='1244767427' version='2' lat='52.4061526' lon='-1.2110053' user='Falsernet' uid='13341565' changeset='152142242' timestamp='2024-06-02T00:47:33Z'>
+  </node>
+  <node id='1244767435' version='2' lat='52.4061321' lon='-1.2104985' user='Falsernet' uid='13341565' changeset='152142242' timestamp='2024-06-02T00:47:33Z'>
+  </node>
+  <node id='1271568992' version='4' lat='52.4043192' lon='-1.1769219' user='Cebderby' uid='705850' changeset='119905594' timestamp='2022-04-19T12:38:34Z'>
+  </node>
+  <node id='1271568994' version='8' lat='52.4051122' lon='-1.1835582' user='Cebderby' uid='705850' changeset='71227569' timestamp='2019-06-13T17:51:44Z'>
+  </node>
+  <node id='1271568998' version='4' lat='52.4046685' lon='-1.1762822' user='Dandy_84dger' uid='125133' changeset='57826648' timestamp='2018-04-05T08:41:25Z'>
+  </node>
+  <node id='1271569003' version='7' lat='52.4049807' lon='-1.1798543' user='Cebderby' uid='705850' changeset='119905594' timestamp='2022-04-19T12:38:34Z'>
+  </node>
+  <node id='1271569005' version='5' lat='52.4039862' lon='-1.1764173' user='Cebderby' uid='705850' changeset='119905594' timestamp='2022-04-19T12:38:34Z'>
+  </node>
+  <node id='1271569011' version='5' lat='52.4042245' lon='-1.1742982' user='Dandy_84dger' uid='125133' changeset='57826648' timestamp='2018-04-05T08:41:25Z'>
+  </node>
+  <node id='1271569019' version='4' lat='52.4036472' lon='-1.1757057' user='Cebderby' uid='705850' changeset='63753461' timestamp='2018-10-22T10:15:32Z'>
+  </node>
+  <node id='1271569020' version='7' lat='52.4048388' lon='-1.1782321' user='Cebderby' uid='705850' changeset='119905594' timestamp='2022-04-19T12:38:34Z'>
+  </node>
+  <node id='1271569022' version='5' lat='52.4045169' lon='-1.1763096' user='Dandy_84dger' uid='125133' changeset='57826648' timestamp='2018-04-05T08:41:25Z'>
+  </node>
+  <node id='1271569023' version='3' lat='52.4031334' lon='-1.1737403' user='Dandy_84dger' uid='125133' changeset='57826648' timestamp='2018-04-05T08:41:25Z'>
+  </node>
+  <node id='1271569026' version='6' lat='52.4043986' lon='-1.1757661' user='Dandy_84dger' uid='125133' changeset='57826648' timestamp='2018-04-05T08:41:25Z'>
+  </node>
+  <node id='1271569035' version='4' lat='52.4044017' lon='-1.1750095' user='Dandy_84dger' uid='125133' changeset='57826648' timestamp='2018-04-05T08:41:25Z'>
+  </node>
+  <node id='1271569037' version='10' lat='52.4053040' lon='-1.1806813' user='Cebderby' uid='705850' changeset='119905594' timestamp='2022-04-19T12:38:34Z'>
+  </node>
+  <node id='1271569048' version='5' lat='52.4046152' lon='-1.1772463' user='Cebderby' uid='705850' changeset='119905594' timestamp='2022-04-19T12:38:34Z'>
+  </node>
+  <node id='1271569050' version='4' lat='52.4058275' lon='-1.1780596' user='Cebderby' uid='705850' changeset='119905594' timestamp='2022-04-19T12:38:34Z'>
+  </node>
+  <node id='1271569052' version='4' lat='52.4050605' lon='-1.1776326' user='Cebderby' uid='705850' changeset='119905594' timestamp='2022-04-19T12:38:34Z'>
+  </node>
+  <node id='1271569062' version='3' lat='52.4027331' lon='-1.1720234' user='mackerski' uid='6367' changeset='67655293' timestamp='2019-02-28T15:34:07Z'>
+  </node>
+  <node id='1271569064' version='2' lat='52.4032869' lon='-1.1744801' user='Dandy_84dger' uid='125133' changeset='57826648' timestamp='2018-04-05T08:41:25Z'>
+  </node>
+  <node id='1271569066' version='8' lat='52.4047777' lon='-1.1789463' user='Cebderby' uid='705850' changeset='119905594' timestamp='2022-04-19T12:38:34Z'>
+  </node>
+  <node id='1271569067' version='4' lat='52.4054686' lon='-1.1778939' user='Cebderby' uid='705850' changeset='119905594' timestamp='2022-04-19T12:38:34Z'>
+  </node>
+  <node id='1271569071' version='5' lat='52.4042932' lon='-1.1753054' user='Dandy_84dger' uid='125133' changeset='57826648' timestamp='2018-04-05T08:41:25Z'>
+  </node>
+  <node id='1271569078' version='4' lat='52.4045128' lon='-1.1755113' user='Dandy_84dger' uid='125133' changeset='57826648' timestamp='2018-04-05T08:41:25Z'>
+  </node>
+  <node id='1271569084' version='6' lat='52.4049533' lon='-1.1780953' user='Dandy_84dger' uid='125133' changeset='57826648' timestamp='2018-04-05T08:41:25Z'>
+  </node>
+  <node id='1271569085' version='4' lat='52.4048112' lon='-1.1771818' user='Dandy_84dger' uid='125133' changeset='57826648' timestamp='2018-04-05T08:41:25Z'>
+  </node>
+  <node id='1404335152' version='5' lat='52.4008688' lon='-1.1662150' user='mackerski' uid='6367' changeset='67655293' timestamp='2019-02-28T15:34:07Z'>
+    <tag k='highway' v='motorway_junction' />
+    <tag k='name' v='Catthorpe' />
+  </node>
+  <node id='1498894951' version='3' lat='52.3965124' lon='-1.1732033' user='Cebderby' uid='705850' changeset='119912046' timestamp='2022-04-19T15:02:26Z'>
+  </node>
+  <node id='1498894953' version='3' lat='52.3959484' lon='-1.1730105' user='Cebderby' uid='705850' changeset='119912046' timestamp='2022-04-19T15:02:26Z'>
+  </node>
+  <node id='1498894958' version='3' lat='52.3970646' lon='-1.1733791' user='Cebderby' uid='705850' changeset='119912046' timestamp='2022-04-19T15:02:26Z'>
+  </node>
+  <node id='1551827019' version='3' lat='52.4032341' lon='-1.1717810' user='Cebderby' uid='705850' changeset='119905594' timestamp='2022-04-19T12:38:34Z'>
+  </node>
+  <node id='1560312576' version='3' lat='52.4099708' lon='-1.2605789' user='Falsernet' uid='13341565' changeset='152142242' timestamp='2024-06-02T00:47:33Z'>
+  </node>
+  <node id='1560312577' version='3' lat='52.4100950' lon='-1.2604644' user='Falsernet' uid='13341565' changeset='152142242' timestamp='2024-06-02T00:47:33Z'>
+  </node>
+  <node id='1560326473' version='2' lat='52.4059879' lon='-1.2069841' user='Cebderby' uid='705850' changeset='71227569' timestamp='2019-06-13T17:51:44Z'>
+  </node>
+  <node id='1560326493' version='1' lat='52.4058203' lon='-1.2069890' user='c2r' uid='5926' changeset='10192499' timestamp='2011-12-24T09:37:01Z'>
+  </node>
+  <node id='1583593275' version='4' lat='52.4067950' lon='-1.1773316' user='Cebderby' uid='705850' changeset='63753461' timestamp='2018-10-22T10:15:32Z'>
+  </node>
+  <node id='1602706061' version='5' lat='52.4075297' lon='-1.1787086' user='Cebderby' uid='705850' changeset='119905594' timestamp='2022-04-19T12:38:34Z'>
+  </node>
+  <node id='1602706064' version='5' lat='52.4078190' lon='-1.1788613' user='Cebderby' uid='705850' changeset='119905594' timestamp='2022-04-19T12:38:34Z'>
+  </node>
+  <node id='1672074104' version='2' lat='52.4040446' lon='-1.2456587' user='brianboru' uid='9065' changeset='65357513' timestamp='2018-12-10T21:48:59Z'>
+  </node>
+  <node id='1763158476' version='5' lat='52.4038369' lon='-1.1761267' user='Cebderby' uid='705850' changeset='119905594' timestamp='2022-04-19T12:38:34Z'>
+  </node>
+  <node id='1763158477' version='7' lat='52.4051237' lon='-1.1799377' user='Cebderby' uid='705850' changeset='119905594' timestamp='2022-04-19T12:38:34Z'>
+  </node>
+  <node id='1763158479' version='4' lat='52.4048069' lon='-1.1774432' user='Cebderby' uid='705850' changeset='119905594' timestamp='2022-04-19T12:38:34Z'>
+  </node>
+  <node id='1763158480' version='4' lat='52.4041748' lon='-1.1767205' user='Cebderby' uid='705850' changeset='119905594' timestamp='2022-04-19T12:38:34Z'>
+  </node>
+  <node id='1763158481' version='4' lat='52.4044413' lon='-1.1770703' user='Cebderby' uid='705850' changeset='119905594' timestamp='2022-04-19T12:38:34Z'>
+  </node>
+  <node id='1763158482' version='2' lat='52.3991578' lon='-1.1738477' user='Cebderby' uid='705850' changeset='63753461' timestamp='2018-10-22T10:15:31Z'>
+  </node>
+  <node id='1838772970' version='3' lat='52.4094211' lon='-1.1796458' user='Cebderby' uid='705850' changeset='119905594' timestamp='2022-04-19T12:38:34Z'>
+  </node>
+  <node id='1838772979' version='4' lat='52.4083270' lon='-1.1791131' user='Cebderby' uid='705850' changeset='119905594' timestamp='2022-04-19T12:38:34Z'>
+  </node>
+  <node id='1838772992' version='3' lat='52.4087609' lon='-1.1793138' user='Cebderby' uid='705850' changeset='119905594' timestamp='2022-04-19T12:38:34Z'>
+  </node>
+  <node id='1838772996' version='1' lat='52.3942392' lon='-1.1724311' user='duncaninnes' uid='131236' changeset='12499577' timestamp='2012-07-26T13:47:00Z'>
+  </node>
+  <node id='1889685201' version='4' lat='52.4040739' lon='-1.1744628' user='Dandy_84dger' uid='125133' changeset='57826648' timestamp='2018-04-05T08:41:25Z'>
+  </node>
+  <node id='2389671766' version='11' lat='52.4050193' lon='-1.1812445' user='Cebderby' uid='705850' changeset='119905594' timestamp='2022-04-19T12:38:34Z'>
+  </node>
+  <node id='2487656102' version='1' lat='52.4083404' lon='-1.2489284' user='brianboru' uid='9065' changeset='18242549' timestamp='2013-10-08T08:10:06Z'>
+  </node>
+  <node id='2487656108' version='1' lat='52.4087712' lon='-1.2531537' user='brianboru' uid='9065' changeset='18242549' timestamp='2013-10-08T08:10:06Z'>
+  </node>
+  <node id='2487656109' version='2' lat='52.4089630' lon='-1.2543755' user='Cebderby' uid='705850' changeset='119034211' timestamp='2022-03-28T18:16:21Z'>
+  </node>
+  <node id='2487656110' version='1' lat='52.4093864' lon='-1.2568728' user='brianboru' uid='9065' changeset='18242549' timestamp='2013-10-08T08:10:06Z'>
+  </node>
+  <node id='2487656111' version='1' lat='52.4095233' lon='-1.2568238' user='brianboru' uid='9065' changeset='18242549' timestamp='2013-10-08T08:10:06Z'>
+  </node>
+  <node id='3122838250' version='3' lat='52.4085525' lon='-1.1787082' user='Cebderby' uid='705850' changeset='119905594' timestamp='2022-04-19T12:38:34Z'>
+  </node>
+  <node id='3122838256' version='2' lat='52.4081654' lon='-1.1783959' user='Cebderby' uid='705850' changeset='63753461' timestamp='2018-10-22T10:15:30Z'>
+  </node>
+  <node id='3122838259' version='2' lat='52.4078272' lon='-1.1781352' user='Cebderby' uid='705850' changeset='63753461' timestamp='2018-10-22T10:15:31Z'>
+  </node>
+  <node id='3122838264' version='2' lat='52.4073243' lon='-1.1777549' user='Cebderby' uid='705850' changeset='63753461' timestamp='2018-10-22T10:15:31Z'>
+  </node>
+  <node id='3122838266' version='3' lat='52.4070151' lon='-1.1775020' user='Cebderby' uid='705850' changeset='63753461' timestamp='2018-10-22T10:15:31Z'>
+  </node>
+  <node id='3122838272' version='1' lat='52.3992769' lon='-1.1748420' user='Mauls' uid='24119' changeset='25989069' timestamp='2014-10-10T19:12:20Z'>
+  </node>
+  <node id='3413950701' version='8' lat='52.4025050' lon='-1.1697064' user='Cebderby' uid='705850' changeset='119905594' timestamp='2022-04-19T12:38:34Z'>
+  </node>
+  <node id='3597527442' version='7' lat='52.4050074' lon='-1.1830304' user='Cebderby' uid='705850' changeset='119905594' timestamp='2022-04-19T12:38:34Z'>
+  </node>
+  <node id='3597527447' version='3' lat='52.4040833' lon='-1.1775494' user='Cebderby' uid='705850' changeset='63753461' timestamp='2018-10-22T10:15:30Z'>
+  </node>
+  <node id='3597527458' version='3' lat='52.4038286' lon='-1.1771208' user='Cebderby' uid='705850' changeset='63753461' timestamp='2018-10-22T10:15:31Z'>
+  </node>
+  <node id='3597527459' version='7' lat='52.4051289' lon='-1.1820315' user='Cebderby' uid='705850' changeset='71227569' timestamp='2019-06-13T17:51:44Z'>
+  </node>
+  <node id='3597527460' version='3' lat='52.4043124' lon='-1.1779598' user='Cebderby' uid='705850' changeset='63753461' timestamp='2018-10-22T10:15:31Z'>
+  </node>
+  <node id='3597527471' version='2' lat='52.4004610' lon='-1.1741454' user='Cebderby' uid='705850' changeset='63753461' timestamp='2018-10-22T10:15:31Z'>
+  </node>
+  <node id='3782612143' version='2' lat='52.4050014' lon='-1.1752599' user='Cebderby' uid='705850' changeset='63753461' timestamp='2018-10-22T10:15:32Z'>
+  </node>
+  <node id='3831529529' version='4' lat='52.4049686' lon='-1.1794538' user='Cebderby' uid='705850' changeset='119905594' timestamp='2022-04-19T12:38:34Z'>
+  </node>
+  <node id='3831529530' version='6' lat='52.4051322' lon='-1.1811308' user='Cebderby' uid='705850' changeset='119905594' timestamp='2022-04-19T12:38:34Z'>
+  </node>
+  <node id='3831529531' version='6' lat='52.4054333' lon='-1.1814446' user='Cebderby' uid='705850' changeset='119905594' timestamp='2022-04-19T12:38:34Z'>
+  </node>
+  <node id='3831543891' version='7' lat='52.4050159' lon='-1.1819822' user='Cebderby' uid='705850' changeset='119905594' timestamp='2022-04-19T12:38:34Z'>
+  </node>
+  <node id='3914052020' version='3' lat='52.4067701' lon='-1.1783734' user='Cebderby' uid='705850' changeset='119905594' timestamp='2022-04-19T12:38:34Z'>
+  </node>
+  <node id='3914052026' version='6' lat='52.4050510' lon='-1.1791111' user='Cebderby' uid='705850' changeset='119905594' timestamp='2022-04-19T12:38:34Z'>
+  </node>
+  <node id='3914052043' version='3' lat='52.4044245' lon='-1.1739335' user='Cebderby' uid='705850' changeset='119905594' timestamp='2022-04-19T12:38:34Z'>
+  </node>
+  <node id='4173538607' version='2' lat='52.4053988' lon='-1.1852711' user='Dandy_84dger' uid='125133' changeset='57826648' timestamp='2018-04-05T08:41:25Z'>
+  </node>
+  <node id='4173538608' version='3' lat='52.4055328' lon='-1.1835667' user='Cebderby' uid='705850' changeset='119905594' timestamp='2022-04-19T12:38:34Z'>
+  </node>
+  <node id='4173538609' version='3' lat='52.4055449' lon='-1.1828865' user='Cebderby' uid='705850' changeset='119905594' timestamp='2022-04-19T12:38:34Z'>
+  </node>
+  <node id='4314547480' version='6' lat='52.4050587' lon='-1.1889492' user='Cebderby' uid='705850' changeset='119905594' timestamp='2022-04-19T12:38:34Z'>
+  </node>
+  <node id='4328383195' version='1' lat='52.4034293' lon='-1.1780484' user='lotrjw' uid='4287300' changeset='41134671' timestamp='2016-07-30T21:40:42Z'>
+  </node>
+  <node id='4328383196' version='2' lat='52.4037385' lon='-1.1786451' user='lotrjw' uid='4287300' changeset='41147906' timestamp='2016-07-31T15:26:06Z'>
+  </node>
+  <node id='4328383197' version='2' lat='52.4039501' lon='-1.1790989' user='lotrjw' uid='4287300' changeset='41147906' timestamp='2016-07-31T15:26:06Z'>
+  </node>
+  <node id='4328383198' version='2' lat='52.4041587' lon='-1.1796510' user='lotrjw' uid='4287300' changeset='41147906' timestamp='2016-07-31T15:26:06Z'>
+  </node>
+  <node id='4328383199' version='3' lat='52.4043207' lon='-1.1801888' user='Cebderby' uid='705850' changeset='71227569' timestamp='2019-06-13T17:51:44Z'>
+  </node>
+  <node id='4328383200' version='2' lat='52.4044531' lon='-1.1806703' user='lotrjw' uid='4287300' changeset='41147906' timestamp='2016-07-31T15:26:06Z'>
+  </node>
+  <node id='4329455494' version='3' lat='52.4046939' lon='-1.1820793' user='Cebderby' uid='705850' changeset='71227569' timestamp='2019-06-13T17:51:44Z'>
+  </node>
+  <node id='4366423259' version='5' lat='52.4089291' lon='-1.2465852' user='Cebderby' uid='705850' changeset='119034211' timestamp='2022-03-28T18:16:21Z'>
+  </node>
+  <node id='4507224123' version='3' lat='52.4031348' lon='-1.2460487' user='ADAC Kartographie' uid='11360996' changeset='147262476' timestamp='2024-02-09T15:45:51Z'>
+  </node>
+  <node id='4507224127' version='2' lat='52.4032231' lon='-1.2461034' user='gnesss' uid='6274199' changeset='90087710' timestamp='2020-08-28T14:43:34Z'>
+  </node>
+  <node id='4526046666' version='3' lat='52.4048111' lon='-1.1839568' user='Cebderby' uid='705850' changeset='119905594' timestamp='2022-04-19T12:38:34Z'>
+  </node>
+  <node id='5530144482' version='1' lat='52.4037919' lon='-1.1723335' user='Dandy_84dger' uid='125133' changeset='57826648' timestamp='2018-04-05T08:41:25Z'>
+  </node>
+  <node id='5530144483' version='1' lat='52.4033668' lon='-1.1714204' user='Dandy_84dger' uid='125133' changeset='57826648' timestamp='2018-04-05T08:41:25Z'>
+  </node>
+  <node id='5530144485' version='2' lat='52.4033235' lon='-1.1715901' user='Cebderby' uid='705850' changeset='119905594' timestamp='2022-04-19T12:38:34Z'>
+  </node>
+  <node id='5530144486' version='1' lat='52.4038729' lon='-1.1730473' user='Dandy_84dger' uid='125133' changeset='57826648' timestamp='2018-04-05T08:41:25Z'>
+  </node>
+  <node id='5530144487' version='1' lat='52.4052839' lon='-1.1882961' user='Dandy_84dger' uid='125133' changeset='57826648' timestamp='2018-04-05T08:41:25Z'>
+  </node>
+  <node id='5530144488' version='1' lat='52.4053288' lon='-1.1862121' user='Dandy_84dger' uid='125133' changeset='57826648' timestamp='2018-04-05T08:41:25Z'>
+  </node>
+  <node id='6004610974' version='1' lat='52.4046707' lon='-1.1745582' user='Cebderby' uid='705850' changeset='63753461' timestamp='2018-10-22T10:15:30Z'>
+  </node>
+  <node id='6004610975' version='1' lat='52.3999802' lon='-1.1740022' user='Cebderby' uid='705850' changeset='63753461' timestamp='2018-10-22T10:15:30Z'>
+  </node>
+  <node id='6004610977' version='1' lat='52.4040875' lon='-1.1730616' user='Cebderby' uid='705850' changeset='63753461' timestamp='2018-10-22T10:15:30Z'>
+  </node>
+  <node id='6004610978' version='1' lat='52.4052948' lon='-1.1757676' user='Cebderby' uid='705850' changeset='63753461' timestamp='2018-10-22T10:15:30Z'>
+  </node>
+  <node id='6004610979' version='1' lat='52.4034537' lon='-1.1751381' user='Cebderby' uid='705850' changeset='63753461' timestamp='2018-10-22T10:15:30Z'>
+  </node>
+  <node id='6308442962' version='2' lat='52.4019459' lon='-1.1687994' user='Cebderby' uid='705850' changeset='119905594' timestamp='2022-04-19T12:38:34Z'>
+  </node>
+  <node id='6308442964' version='2' lat='52.4014976' lon='-1.1677694' user='Cebderby' uid='705850' changeset='119905594' timestamp='2022-04-19T12:38:34Z'>
+  </node>
+  <node id='6308442965' version='2' lat='52.4022454' lon='-1.1694727' user='Cebderby' uid='705850' changeset='119905594' timestamp='2022-04-19T12:38:34Z'>
+  </node>
+  <node id='6308442966' version='2' lat='52.4013420' lon='-1.1675817' user='Cebderby' uid='705850' changeset='119905594' timestamp='2022-04-19T12:38:34Z'>
+  </node>
+  <node id='6308442967' version='2' lat='52.4020523' lon='-1.1696658' user='Cebderby' uid='705850' changeset='119905594' timestamp='2022-04-19T12:38:34Z'>
+  </node>
+  <node id='6308442968' version='2' lat='52.4022634' lon='-1.1703175' user='Cebderby' uid='705850' changeset='119905594' timestamp='2022-04-19T12:38:34Z'>
+  </node>
+  <node id='6308442969' version='2' lat='52.4025219' lon='-1.1711892' user='Cebderby' uid='705850' changeset='119905594' timestamp='2022-04-19T12:38:34Z'>
+  </node>
+  <node id='6308442970' version='1' lat='52.4028869' lon='-1.1726618' user='mackerski' uid='6367' changeset='67655293' timestamp='2019-02-28T15:34:07Z'>
+  </node>
+  <node id='6545556280' version='2' lat='52.4047714' lon='-1.1829662' user='Cebderby' uid='705850' changeset='119905594' timestamp='2022-04-19T12:38:34Z'>
+  </node>
+  <node id='6545556283' version='1' lat='52.4051027' lon='-1.1800300' user='Cebderby' uid='705850' changeset='71227569' timestamp='2019-06-13T17:51:44Z'>
+  </node>
+  <node id='6545592286' version='2' lat='52.4049423' lon='-1.1874597' user='Cebderby' uid='705850' changeset='119905594' timestamp='2022-04-19T12:38:34Z'>
+  </node>
+  <node id='6545592290' version='2' lat='52.4051819' lon='-1.1894232' user='Cebderby' uid='705850' changeset='119905594' timestamp='2022-04-19T12:38:34Z'>
+  </node>
+  <node id='6545592291' version='1' lat='52.4046417' lon='-1.1816598' user='Cebderby' uid='705850' changeset='71227569' timestamp='2019-06-13T17:51:44Z'>
+  </node>
+  <node id='7618186052' version='1' lat='52.4076928' lon='-1.2411600' user='alexkemp' uid='3735896' changeset='86604803' timestamp='2020-06-13T17:09:00Z'>
+  </node>
+  <node id='7853811231' version='2' lat='52.4072289' lon='-1.2459440' user='Cebderby' uid='705850' changeset='119034211' timestamp='2022-03-28T18:16:21Z'>
+  </node>
+  <node id='7853811232' version='2' lat='52.4065042' lon='-1.2456392' user='Cebderby' uid='705850' changeset='119034211' timestamp='2022-03-28T18:16:21Z'>
+  </node>
+  <node id='7853811233' version='2' lat='52.4065143' lon='-1.2454692' user='Cebderby' uid='705850' changeset='119034211' timestamp='2022-03-28T18:16:21Z'>
+  </node>
+  <node id='8662214955' version='3' lat='52.4091193' lon='-1.2458644' user='Loshu' uid='198183' changeset='147650723' timestamp='2024-02-19T13:34:51Z'>
+  </node>
+  <node id='8662214959' version='2' lat='52.4085323' lon='-1.2465404' user='Cebderby' uid='705850' changeset='119034211' timestamp='2022-03-28T18:16:21Z'>
+  </node>
+  <node id='8662214960' version='3' lat='52.4074834' lon='-1.2447124' user='Falsernet' uid='13341565' changeset='152142242' timestamp='2024-06-02T00:47:33Z'>
+    <tag k='highway' v='traffic_signals' />
+    <tag k='traffic_signals' v='signal' />
+  </node>
+  <node id='8662214961' version='3' lat='52.4086346' lon='-1.2464860' user='Falsernet' uid='13341565' changeset='152142242' timestamp='2024-06-02T00:47:33Z'>
+    <tag k='highway' v='traffic_signals' />
+    <tag k='traffic_signals' v='signal' />
+  </node>
+  <node id='8662214962' version='3' lat='52.4087808' lon='-1.2467802' user='Falsernet' uid='13341565' changeset='152142242' timestamp='2024-06-02T00:47:33Z'>
+    <tag k='highway' v='traffic_signals' />
+    <tag k='traffic_signals' v='signal' />
+  </node>
+  <node id='8662214963' version='3' lat='52.4086955' lon='-1.2467464' user='Falsernet' uid='13341565' changeset='152142242' timestamp='2024-06-02T00:47:33Z'>
+    <tag k='highway' v='traffic_signals' />
+    <tag k='traffic_signals' v='signal' />
+  </node>
+  <node id='8662214964' version='3' lat='52.4086275' lon='-1.2466166' user='Falsernet' uid='13341565' changeset='152142242' timestamp='2024-06-02T00:47:33Z'>
+    <tag k='highway' v='traffic_signals' />
+    <tag k='traffic_signals' v='signal' />
+  </node>
+  <node id='8662214965' version='3' lat='52.4088579' lon='-1.2460170' user='Loshu' uid='198183' changeset='147650723' timestamp='2024-02-19T13:34:51Z'>
+  </node>
+  <node id='8662214967' version='3' lat='52.4091413' lon='-1.2461810' user='Loshu' uid='198183' changeset='147650723' timestamp='2024-02-19T13:34:51Z'>
+  </node>
+  <node id='8662214969' version='4' lat='52.4087154' lon='-1.2453011' user='Loshu' uid='198183' changeset='147650723' timestamp='2024-02-19T13:34:51Z'>
+  </node>
+  <node id='8662214970' version='4' lat='52.4087899' lon='-1.2455149' user='Loshu' uid='198183' changeset='147650723' timestamp='2024-02-19T13:34:51Z'>
+    <tag k='highway' v='traffic_signals' />
+    <tag k='traffic_signals' v='signal' />
+  </node>
+  <node id='8662214971' version='3' lat='52.4088234' lon='-1.2456299' user='Loshu' uid='198183' changeset='147650723' timestamp='2024-02-19T13:34:51Z'>
+  </node>
+  <node id='8662214972' version='3' lat='52.4088459' lon='-1.2457180' user='Loshu' uid='198183' changeset='147650723' timestamp='2024-02-19T13:34:51Z'>
+  </node>
+  <node id='8662214973' version='3' lat='52.4088526' lon='-1.2457546' user='Loshu' uid='198183' changeset='147650723' timestamp='2024-02-19T13:34:51Z'>
+  </node>
+  <node id='8662214974' version='3' lat='52.4088632' lon='-1.2458778' user='Loshu' uid='198183' changeset='147650723' timestamp='2024-02-19T13:34:51Z'>
+  </node>
+  <node id='8662214975' version='3' lat='52.4088387' lon='-1.2461403' user='Loshu' uid='198183' changeset='147650723' timestamp='2024-02-19T13:34:51Z'>
+  </node>
+  <node id='8662214976' version='2' lat='52.4088057' lon='-1.2462538' user='Cebderby' uid='705850' changeset='119034211' timestamp='2022-03-28T18:16:21Z'>
+  </node>
+  <node id='8662214977' version='2' lat='52.4087753' lon='-1.2463172' user='Cebderby' uid='705850' changeset='119034211' timestamp='2022-03-28T18:16:21Z'>
+  </node>
+  <node id='8662214978' version='2' lat='52.4085925' lon='-1.2465150' user='Cebderby' uid='705850' changeset='119034211' timestamp='2022-03-28T18:16:21Z'>
+  </node>
+  <node id='9615123034' version='1' lat='52.4074989' lon='-1.2446012' user='Cebderby' uid='705850' changeset='119034211' timestamp='2022-03-28T18:16:21Z'>
+  </node>
+  <node id='9615123035' version='1' lat='52.4077242' lon='-1.2448500' user='Cebderby' uid='705850' changeset='119034211' timestamp='2022-03-28T18:16:21Z'>
+  </node>
+  <node id='9615123036' version='1' lat='52.4075100' lon='-1.2462671' user='Cebderby' uid='705850' changeset='119034211' timestamp='2022-03-28T18:16:21Z'>
+  </node>
+  <node id='9615123037' version='1' lat='52.4073897' lon='-1.2461414' user='Cebderby' uid='705850' changeset='119034211' timestamp='2022-03-28T18:16:21Z'>
+  </node>
+  <node id='9615123038' version='1' lat='52.4072765' lon='-1.2452644' user='Cebderby' uid='705850' changeset='119034211' timestamp='2022-03-28T18:16:21Z'>
+  </node>
+  <node id='9615123039' version='1' lat='52.4072943' lon='-1.2459783' user='Cebderby' uid='705850' changeset='119034211' timestamp='2022-03-28T18:16:21Z'>
+  </node>
+  <node id='9615123042' version='1' lat='52.4076176' lon='-1.2448608' user='Cebderby' uid='705850' changeset='119034211' timestamp='2022-03-28T18:16:21Z'>
+  </node>
+  <node id='9615123043' version='1' lat='52.4074451' lon='-1.2425209' user='Cebderby' uid='705850' changeset='119034211' timestamp='2022-03-28T18:16:21Z'>
+  </node>
+  <node id='9615123044' version='1' lat='52.4086928' lon='-1.2469061' user='Cebderby' uid='705850' changeset='119034211' timestamp='2022-03-28T18:16:21Z'>
+  </node>
+  <node id='9615123045' version='2' lat='52.4087399' lon='-1.2453604' user='Loshu' uid='198183' changeset='147650723' timestamp='2024-02-19T13:34:51Z'>
+  </node>
+  <node id='9615123046' version='1' lat='52.4077699' lon='-1.2468679' user='Cebderby' uid='705850' changeset='119034211' timestamp='2022-03-28T18:16:21Z'>
+  </node>
+  <node id='9615123048' version='1' lat='52.4091933' lon='-1.2539574' user='Cebderby' uid='705850' changeset='119034211' timestamp='2022-03-28T18:16:21Z'>
+  </node>
+  <node id='9615123049' version='1' lat='52.4072887' lon='-1.2385734' user='Cebderby' uid='705850' changeset='119034211' timestamp='2022-03-28T18:16:21Z'>
+  </node>
+  <node id='9615123050' version='1' lat='52.4077557' lon='-1.2406304' user='Cebderby' uid='705850' changeset='119034211' timestamp='2022-03-28T18:16:21Z'>
+  </node>
+  <node id='9615123051' version='1' lat='52.4076379' lon='-1.2394721' user='Cebderby' uid='705850' changeset='119034211' timestamp='2022-03-28T18:16:21Z'>
+  </node>
+  <node id='9615123052' version='1' lat='52.4090552' lon='-1.2464052' user='Cebderby' uid='705850' changeset='119034211' timestamp='2022-03-28T18:16:21Z'>
+  </node>
+  <node id='9615123053' version='1' lat='52.4088364' lon='-1.2466399' user='Cebderby' uid='705850' changeset='119034211' timestamp='2022-03-28T18:16:21Z'>
+  </node>
+  <node id='9615123055' version='1' lat='52.4088331' lon='-1.2466977' user='Cebderby' uid='705850' changeset='119034211' timestamp='2022-03-28T18:16:21Z'>
+  </node>
+  <node id='9615123057' version='1' lat='52.4088075' lon='-1.2492876' user='Cebderby' uid='705850' changeset='119034211' timestamp='2022-03-28T18:16:21Z'>
+  </node>
+  <node id='9615123058' version='1' lat='52.4087720' lon='-1.2466482' user='Cebderby' uid='705850' changeset='119034211' timestamp='2022-03-28T18:16:21Z'>
+  </node>
+  <node id='9615123060' version='1' lat='52.4089943' lon='-1.2465051' user='Cebderby' uid='705850' changeset='119034211' timestamp='2022-03-28T18:16:21Z'>
+  </node>
+  <node id='9615123062' version='3' lat='52.4088784' lon='-1.2453885' user='Loshu' uid='198183' changeset='147650723' timestamp='2024-02-19T13:34:51Z'>
+    <tag k='highway' v='traffic_signals' />
+    <tag k='traffic_signals' v='signal' />
+  </node>
+  <node id='9615123063' version='2' lat='52.4089491' lon='-1.2454705' user='Loshu' uid='198183' changeset='147650723' timestamp='2024-02-19T13:34:51Z'>
+  </node>
+  <node id='9615123064' version='2' lat='52.4090606' lon='-1.2455898' user='Loshu' uid='198183' changeset='147650723' timestamp='2024-02-19T13:34:51Z'>
+  </node>
+  <node id='9615123065' version='2' lat='52.4094149' lon='-1.2455066' user='Loshu' uid='198183' changeset='147650723' timestamp='2024-02-19T13:34:51Z'>
+  </node>
+  <node id='9615123068' version='1' lat='52.4087100' lon='-1.2464169' user='Cebderby' uid='705850' changeset='119034211' timestamp='2022-03-28T18:16:21Z'>
+  </node>
+  <node id='9677166329' version='1' lat='52.4054904' lon='-1.1843616' user='Cebderby' uid='705850' changeset='119905594' timestamp='2022-04-19T12:38:34Z'>
+  </node>
+  <node id='9677166330' version='1' lat='52.4049946' lon='-1.1850053' user='Cebderby' uid='705850' changeset='119905594' timestamp='2022-04-19T12:38:34Z'>
+  </node>
+  <node id='9677166331' version='1' lat='52.4050142' lon='-1.1867166' user='Cebderby' uid='705850' changeset='119905594' timestamp='2022-04-19T12:38:34Z'>
+  </node>
+  <node id='9677166332' version='1' lat='52.4027478' lon='-1.1705965' user='Cebderby' uid='705850' changeset='119905594' timestamp='2022-04-19T12:38:34Z'>
+  </node>
+  <node id='9677166333' version='1' lat='52.4028149' lon='-1.1704114' user='Cebderby' uid='705850' changeset='119905594' timestamp='2022-04-19T12:38:34Z'>
+  </node>
+  <node id='9677166334' version='1' lat='52.4028034' lon='-1.1702558' user='Cebderby' uid='705850' changeset='119905594' timestamp='2022-04-19T12:38:34Z'>
+  </node>
+  <node id='9677166336' version='1' lat='52.4051124' lon='-1.1868560' user='Cebderby' uid='705850' changeset='119905594' timestamp='2022-04-19T12:38:34Z'>
+  </node>
+  <node id='9677166338' version='1' lat='52.4046918' lon='-1.1771974' user='Cebderby' uid='705850' changeset='119905594' timestamp='2022-04-19T12:38:34Z'>
+  </node>
+  <node id='11641024261' version='1' lat='52.4081527' lon='-1.2492445' user='Loshu' uid='198183' changeset='147650723' timestamp='2024-02-19T13:34:51Z'>
+  </node>
+  <node id='11641024262' version='1' lat='52.4090644' lon='-1.2524795' user='Loshu' uid='198183' changeset='147650723' timestamp='2024-02-19T13:34:51Z'>
+  </node>
+  <node id='11641080273' version='1' lat='52.4059821' lon='-1.2455299' user='Loshu' uid='198183' changeset='147650723' timestamp='2024-02-19T13:34:51Z'>
+  </node>
+  <node id='11951017343' version='1' lat='52.4068979' lon='-1.2308776' user='Falsernet' uid='13341565' changeset='152142242' timestamp='2024-06-02T00:47:33Z'>
+  </node>
+  <node id='11951017344' version='1' lat='52.4070322' lon='-1.2308518' user='Falsernet' uid='13341565' changeset='152142242' timestamp='2024-06-02T00:47:33Z'>
+  </node>
+  <node id='11951017345' version='1' lat='52.4072360' lon='-1.2347043' user='Falsernet' uid='13341565' changeset='152142242' timestamp='2024-06-02T00:47:33Z'>
+  </node>
+  <node id='11951017346' version='1' lat='52.4091739' lon='-1.2460111' user='Falsernet' uid='13341565' changeset='152142242' timestamp='2024-06-02T00:47:33Z'>
+  </node>
+  <node id='11951017347' version='1' lat='52.4092698' lon='-1.2458150' user='Falsernet' uid='13341565' changeset='152142242' timestamp='2024-06-02T00:47:33Z'>
+  </node>
+  <way id='3092050' version='23' user='Tallguy' uid='30636' changeset='153888304' timestamp='2024-07-13T10:49:57Z'>
+    <nd ref='1244767401' />
+    <nd ref='15889652' />
+    <nd ref='15889650' />
+    <nd ref='11951017343' />
+    <nd ref='15889648' />
+    <nd ref='208607' />
+    <nd ref='276922419' />
+    <tag k='carriageway_ref' v='A' />
+    <tag k='highway' v='motorway' />
+    <tag k='int_ref' v='E 24' />
+    <tag k='lanes' v='3' />
+    <tag k='lit' v='no' />
+    <tag k='maxheight:signed' v='no' />
+    <tag k='maxspeed' v='70 mph' />
+    <tag k='maxspeed:type' v='GB:motorway' />
+    <tag k='national_highways:area' v='7' />
+    <tag k='oneway' v='yes' />
+    <tag k='operator' v='National Highways' />
+    <tag k='operator:wikidata' v='Q5760006' />
+    <tag k='ref' v='M6' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='3239896' version='35' user='KasperSFranz' uid='16586381' changeset='147053311' timestamp='2024-02-04T13:08:24Z'>
+    <nd ref='15888725' />
+    <nd ref='15889076' />
+    <nd ref='572615' />
+    <nd ref='15889075' />
+    <nd ref='572614' />
+    <nd ref='15889074' />
+    <nd ref='572613' />
+    <nd ref='15889073' />
+    <nd ref='4328383195' />
+    <nd ref='4328383196' />
+    <nd ref='4328383197' />
+    <nd ref='4328383198' />
+    <nd ref='4328383199' />
+    <nd ref='4328383200' />
+    <nd ref='572617' />
+    <tag k='bicycle' v='no' />
+    <tag k='destination' v='The N. WEST;Birmingham;Coventry' />
+    <tag k='destination:ref' v='M6' />
+    <tag k='foot' v='no' />
+    <tag k='highway' v='motorway_link' />
+    <tag k='horse' v='no' />
+    <tag k='lanes' v='2' />
+    <tag k='lit' v='yes' />
+    <tag k='maxspeed' v='70 mph' />
+    <tag k='motor_vehicle' v='yes' />
+    <tag k='national_highways:area' v='7' />
+    <tag k='oneway' v='yes' />
+    <tag k='operator' v='National Highways' />
+    <tag k='operator:wikidata' v='Q5760006' />
+    <tag k='parking:both' v='no' />
+    <tag k='parking:both:restriction' v='no_stopping' />
+    <tag k='ref' v='M6' />
+    <tag k='source:maxspeed' v='survey' />
+    <tag k='surface' v='asphalt' />
+    <tag k='wikidata' v='Q1881041' />
+    <tag k='wikipedia' v='en:M6 motorway' />
+  </way>
+  <way id='3239920' version='30' user='Vas111' uid='16951803' changeset='146565751' timestamp='2024-01-22T18:56:44Z'>
+    <nd ref='572575' />
+    <nd ref='572587' />
+    <tag k='highway' v='motorway' />
+    <tag k='historic:highway' v='motorway_link' />
+    <tag k='int_ref' v='E 24' />
+    <tag k='lanes' v='3' />
+    <tag k='lit' v='yes' />
+    <tag k='maxspeed' v='70 mph' />
+    <tag k='maxspeed:type' v='GB:motorway' />
+    <tag k='national_highways:area' v='7' />
+    <tag k='oneway' v='yes' />
+    <tag k='operator' v='National Highways' />
+    <tag k='operator:wikidata' v='Q5760006' />
+    <tag k='ref' v='M6' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='3239957' version='19' user='Vas111' uid='16951803' changeset='146565751' timestamp='2024-01-22T18:56:44Z'>
+    <nd ref='1560312577' />
+    <nd ref='574119' />
+    <nd ref='2487656111' />
+    <nd ref='574117' />
+    <nd ref='15889659' />
+    <nd ref='203156' />
+    <nd ref='15889655' />
+    <nd ref='574115' />
+    <nd ref='15889657' />
+    <nd ref='7618186052' />
+    <nd ref='574113' />
+    <tag k='carriageway_ref' v='B' />
+    <tag k='highway' v='motorway' />
+    <tag k='int_ref' v='E 24' />
+    <tag k='lanes' v='3' />
+    <tag k='lit' v='no' />
+    <tag k='maxheight' v='default' />
+    <tag k='maxspeed' v='70 mph' />
+    <tag k='maxspeed:type' v='GB:motorway' />
+    <tag k='national_highways:area' v='9' />
+    <tag k='oneway' v='yes' />
+    <tag k='operator' v='National Highways' />
+    <tag k='operator:wikidata' v='Q5760006' />
+    <tag k='ref' v='M6' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='3239960' version='18' user='Vas111' uid='16951803' changeset='146565751' timestamp='2024-01-22T18:56:44Z'>
+    <nd ref='208601' />
+    <nd ref='318616593' />
+    <tag k='carriageway_ref' v='A' />
+    <tag k='highway' v='motorway' />
+    <tag k='int_ref' v='E 24' />
+    <tag k='lanes' v='3' />
+    <tag k='lit' v='yes' />
+    <tag k='maxspeed' v='70 mph' />
+    <tag k='maxspeed:type' v='GB:motorway' />
+    <tag k='national_highways:area' v='7' />
+    <tag k='oneway' v='yes' />
+    <tag k='operator' v='National Highways' />
+    <tag k='operator:wikidata' v='Q5760006' />
+    <tag k='ref' v='M6' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='3239962' version='16' user='Loshu' uid='198183' changeset='147650723' timestamp='2024-02-19T13:34:51Z'>
+    <nd ref='15820422' />
+    <nd ref='9615123038' />
+    <nd ref='25881335' />
+    <nd ref='15820423' />
+    <nd ref='25881334' />
+    <nd ref='15820424' />
+    <nd ref='25894047' />
+    <nd ref='9615123039' />
+    <nd ref='15820426' />
+    <tag k='destination:ref:lanes' v='M6 West|M6 West;Services|A426 North' />
+    <tag k='highway' v='trunk' />
+    <tag k='junction' v='circular' />
+    <tag k='lanes' v='3' />
+    <tag k='lit' v='no' />
+    <tag k='maxspeed' v='70 mph' />
+    <tag k='name' v='Rugby Interchange' />
+    <tag k='oneway' v='yes' />
+    <tag k='surface' v='asphalt' />
+    <tag k='turn:lanes' v='through|through;right|right' />
+  </way>
+  <way id='3239964' version='12' user='Loshu' uid='198183' changeset='147650723' timestamp='2024-02-19T13:34:51Z'>
+    <nd ref='11641024262' />
+    <nd ref='15820400' />
+    <nd ref='9615123057' />
+    <nd ref='15820402' />
+    <tag k='bicycle' v='no' />
+    <tag k='foot' v='no' />
+    <tag k='highway' v='motorway_link' />
+    <tag k='lanes' v='2' />
+    <tag k='lit' v='no' />
+    <tag k='national_highways:area' v='9' />
+    <tag k='oneway' v='yes' />
+    <tag k='operator' v='National Highways' />
+    <tag k='operator:wikidata' v='Q5760006' />
+  </way>
+  <way id='3239965' version='13' user='Loshu' uid='198183' changeset='147650723' timestamp='2024-02-19T13:34:51Z'>
+    <nd ref='11641024261' />
+    <nd ref='15820433' />
+    <nd ref='2487656108' />
+    <nd ref='2487656109' />
+    <tag k='bicycle' v='no' />
+    <tag k='foot' v='no' />
+    <tag k='highway' v='motorway_link' />
+    <tag k='lanes' v='1' />
+    <tag k='lit' v='no' />
+    <tag k='national_highways:area' v='9' />
+    <tag k='oneway' v='yes' />
+    <tag k='operator' v='National Highways' />
+    <tag k='operator:wikidata' v='Q5760006' />
+  </way>
+  <way id='4187380' version='27' user='trigpoint' uid='12992' changeset='140412358' timestamp='2023-08-26T13:35:16Z'>
+    <nd ref='572631' />
+    <nd ref='3122838250' />
+    <nd ref='3122838256' />
+    <nd ref='3122838259' />
+    <nd ref='25881587' />
+    <nd ref='3122838264' />
+    <nd ref='3122838266' />
+    <nd ref='1583593275' />
+    <nd ref='13890244' />
+    <nd ref='25881555' />
+    <tag k='bicycle' v='no' />
+    <tag k='destination' v='Felixstowe;Corby;Kettering' />
+    <tag k='destination:ref' v='A14' />
+    <tag k='foot' v='no' />
+    <tag k='highway' v='motorway_link' />
+    <tag k='horse' v='no' />
+    <tag k='lanes' v='1' />
+    <tag k='lit' v='yes' />
+    <tag k='maxspeed' v='70 mph' />
+    <tag k='maxspeed:type' v='GB:motorway' />
+    <tag k='national_highways:area' v='7' />
+    <tag k='oneway' v='yes' />
+    <tag k='operator' v='National Highways' />
+    <tag k='operator:wikidata' v='Q5760006' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='4288612' version='9' user='gnesss' uid='6274199' changeset='90087710' timestamp='2020-08-28T14:43:34Z'>
+    <nd ref='15820422' />
+    <nd ref='15825532' />
+    <nd ref='15825533' />
+    <nd ref='15825534' />
+    <nd ref='15825535' />
+    <nd ref='7853811233' />
+    <nd ref='15825536' />
+    <nd ref='15825537' />
+    <nd ref='15825539' />
+    <nd ref='15825541' />
+    <nd ref='15825543' />
+    <nd ref='1672074104' />
+    <nd ref='15825547' />
+    <nd ref='25881327' />
+    <nd ref='15825558' />
+    <nd ref='4507224127' />
+    <nd ref='4507224123' />
+    <tag k='highway' v='trunk' />
+    <tag k='lanes' v='2' />
+    <tag k='maxspeed' v='60 mph' />
+    <tag k='oneway' v='yes' />
+    <tag k='ref' v='A426' />
+  </way>
+  <way id='4289758' version='6' user='Falsernet' uid='13341565' changeset='147459414' timestamp='2024-02-14T17:09:00Z'>
+    <nd ref='15820443' />
+    <nd ref='15820444' />
+    <nd ref='9615123065' />
+    <nd ref='15820445' />
+    <nd ref='15820446' />
+    <nd ref='15820447' />
+    <nd ref='9615123064' />
+    <nd ref='15820412' />
+    <tag k='highway' v='trunk' />
+    <tag k='lanes' v='3' />
+    <tag k='maxspeed' v='60 mph' />
+    <tag k='maxspeed:type' v='GB:nsl_single' />
+    <tag k='oneway' v='yes' />
+    <tag k='ref' v='A426' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='4289762' version='10' user='RedAuburn' uid='13666626' changeset='128188142' timestamp='2022-10-28T19:13:48Z'>
+    <nd ref='15820427' />
+    <nd ref='15820439' />
+    <nd ref='15820438' />
+    <nd ref='9615123046' />
+    <nd ref='15820435' />
+    <nd ref='15820434' />
+    <tag k='bicycle' v='no' />
+    <tag k='foot' v='no' />
+    <tag k='highway' v='motorway_link' />
+    <tag k='lit' v='no' />
+    <tag k='national_highways:area' v='9' />
+    <tag k='oneway' v='yes' />
+    <tag k='operator' v='National Highways' />
+    <tag k='operator:wikidata' v='Q5760006' />
+  </way>
+  <way id='4289763' version='11' user='Loshu' uid='198183' changeset='147650723' timestamp='2024-02-19T13:34:51Z'>
+    <nd ref='15889890' />
+    <nd ref='15820405' />
+    <nd ref='8662214962' />
+    <nd ref='9615123055' />
+    <nd ref='15820406' />
+    <tag k='bicycle' v='no' />
+    <tag k='destination:ref:lanes' v='A426 North;Services|A426 North' />
+    <tag k='foot' v='no' />
+    <tag k='highway' v='motorway_link' />
+    <tag k='lanes' v='2' />
+    <tag k='lit' v='no' />
+    <tag k='national_highways:area' v='9' />
+    <tag k='oneway' v='yes' />
+    <tag k='operator' v='National Highways' />
+    <tag k='operator:wikidata' v='Q5760006' />
+  </way>
+  <way id='8127371' version='28' user='trigpoint' uid='12992' changeset='140412358' timestamp='2023-08-26T13:35:16Z'>
+    <nd ref='15888635' />
+    <nd ref='572583' />
+    <nd ref='15888636' />
+    <nd ref='572584' />
+    <nd ref='15888637' />
+    <nd ref='572585' />
+    <nd ref='15888638' />
+    <nd ref='203167' />
+    <nd ref='3597527471' />
+    <nd ref='6004610975' />
+    <nd ref='1763158482' />
+    <tag k='bicycle' v='no' />
+    <tag k='destination' v='The SOUTH;London;N&#039;hampton' />
+    <tag k='destination:ref' v='M1' />
+    <tag k='foot' v='no' />
+    <tag k='highway' v='motorway_link' />
+    <tag k='lanes' v='2' />
+    <tag k='lit' v='yes' />
+    <tag k='maxspeed' v='50 mph' />
+    <tag k='national_highways:area' v='7' />
+    <tag k='oneway' v='yes' />
+    <tag k='operator' v='National Highways' />
+    <tag k='operator:wikidata' v='Q5760006' />
+    <tag k='parking:both' v='no' />
+    <tag k='parking:both:restriction' v='no_stopping' />
+    <tag k='proposed:maxspeed' v='70 mph' />
+    <tag k='ref' v='M6' />
+    <tag k='source:maxspeed' v='survey' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='25409482' version='17' user='RedAuburn' uid='13666626' changeset='128188142' timestamp='2022-10-28T19:14:11Z'>
+    <nd ref='276922419' />
+    <nd ref='9615123049' />
+    <nd ref='1244762500' />
+    <nd ref='9615123043' />
+    <nd ref='276922420' />
+    <nd ref='276922422' />
+    <nd ref='276922424' />
+    <nd ref='276922425' />
+    <nd ref='9615123034' />
+    <nd ref='8662214960' />
+    <nd ref='276922426' />
+    <nd ref='25881337' />
+    <tag k='bicycle' v='no' />
+    <tag k='foot' v='no' />
+    <tag k='highway' v='motorway_link' />
+    <tag k='lit' v='no' />
+    <tag k='national_highways:area' v='9' />
+    <tag k='oneway' v='yes' />
+    <tag k='operator' v='National Highways' />
+    <tag k='operator:wikidata' v='Q5760006' />
+  </way>
+  <way id='25409515' version='14' user='Loshu' uid='198183' changeset='147650723' timestamp='2024-02-19T13:34:51Z'>
+    <nd ref='276922656' />
+    <nd ref='276922654' />
+    <nd ref='276922653' />
+    <nd ref='276922652' />
+    <nd ref='9615123050' />
+    <nd ref='9615123051' />
+    <tag k='bicycle' v='no' />
+    <tag k='foot' v='no' />
+    <tag k='highway' v='motorway_link' />
+    <tag k='lanes' v='1' />
+    <tag k='lit' v='no' />
+    <tag k='national_highways:area' v='9' />
+    <tag k='oneway' v='yes' />
+    <tag k='operator' v='National Highways' />
+    <tag k='operator:wikidata' v='Q5760006' />
+  </way>
+  <way id='28976050' version='19' user='Vas111' uid='16951803' changeset='146565751' timestamp='2024-01-22T18:56:44Z'>
+    <nd ref='318616591' />
+    <nd ref='208600' />
+    <nd ref='208606' />
+    <nd ref='1560326493' />
+    <tag k='carriageway_ref' v='A' />
+    <tag k='highway' v='motorway' />
+    <tag k='int_ref' v='E 24' />
+    <tag k='lanes' v='3' />
+    <tag k='lit' v='yes' />
+    <tag k='maxspeed' v='70 mph' />
+    <tag k='maxspeed:type' v='GB:motorway' />
+    <tag k='national_highways:area' v='7' />
+    <tag k='oneway' v='yes' />
+    <tag k='operator' v='National Highways' />
+    <tag k='operator:wikidata' v='Q5760006' />
+    <tag k='ref' v='M6' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='28976051' version='18' user='Vas111' uid='16951803' changeset='146565751' timestamp='2024-01-22T18:56:44Z'>
+    <nd ref='318616588' />
+    <nd ref='572575' />
+    <tag k='carriageway_ref' v='B' />
+    <tag k='highway' v='motorway' />
+    <tag k='int_ref' v='E 24' />
+    <tag k='lanes' v='3' />
+    <tag k='lit' v='yes' />
+    <tag k='maxspeed' v='70 mph' />
+    <tag k='maxspeed:type' v='GB:motorway' />
+    <tag k='national_highways:area' v='7' />
+    <tag k='oneway' v='yes' />
+    <tag k='operator' v='National Highways' />
+    <tag k='operator:wikidata' v='Q5760006' />
+    <tag k='ref' v='M6' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='28976052' version='20' user='Vas111' uid='16951803' changeset='146565751' timestamp='2024-01-22T18:56:44Z'>
+    <nd ref='318616587' />
+    <nd ref='318616588' />
+    <tag k='bridge' v='yes' />
+    <tag k='carriageway_ref' v='B' />
+    <tag k='highway' v='motorway' />
+    <tag k='int_ref' v='E 24' />
+    <tag k='lanes' v='3' />
+    <tag k='layer' v='1' />
+    <tag k='lit' v='yes' />
+    <tag k='maxspeed' v='70 mph' />
+    <tag k='maxspeed:type' v='GB:motorway' />
+    <tag k='national_highways:area' v='7' />
+    <tag k='oneway' v='yes' />
+    <tag k='operator' v='National Highways' />
+    <tag k='operator:wikidata' v='Q5760006' />
+    <tag k='ref' v='M6' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='28976053' version='20' user='Vas111' uid='16951803' changeset='146565751' timestamp='2024-01-22T18:56:44Z'>
+    <nd ref='318616593' />
+    <nd ref='318616591' />
+    <tag k='bridge' v='yes' />
+    <tag k='carriageway_ref' v='A' />
+    <tag k='highway' v='motorway' />
+    <tag k='int_ref' v='E 24' />
+    <tag k='lanes' v='3' />
+    <tag k='layer' v='1' />
+    <tag k='lit' v='yes' />
+    <tag k='maxspeed' v='70 mph' />
+    <tag k='maxspeed:type' v='GB:motorway' />
+    <tag k='national_highways:area' v='7' />
+    <tag k='oneway' v='yes' />
+    <tag k='operator' v='National Highways' />
+    <tag k='operator:wikidata' v='Q5760006' />
+    <tag k='ref' v='M6' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='34122020' version='7' user='Falsernet' uid='13341565' changeset='152142242' timestamp='2024-06-02T00:47:33Z'>
+    <nd ref='15820409' />
+    <nd ref='11951017346' />
+    <nd ref='391183901' />
+    <nd ref='11951017347' />
+    <nd ref='15820441' />
+    <nd ref='15820442' />
+    <nd ref='15820443' />
+    <tag k='highway' v='trunk' />
+    <tag k='lanes' v='2' />
+    <tag k='maxspeed' v='60 mph' />
+    <tag k='maxspeed:type' v='GB:nsl_single' />
+    <tag k='oneway' v='yes' />
+    <tag k='ref' v='A426' />
+    <tag k='surface' v='asphalt' />
+    <tag k='turn:lanes' v='|merge_to_left' />
+  </way>
+  <way id='105023888' version='13' user='Loshu' uid='198183' changeset='147650723' timestamp='2024-02-19T13:34:51Z'>
+    <nd ref='15820406' />
+    <nd ref='4366423259' />
+    <nd ref='9615123060' />
+    <nd ref='9615123052' />
+    <nd ref='15820408' />
+    <nd ref='8662214967' />
+    <nd ref='15820409' />
+    <tag k='highway' v='trunk' />
+    <tag k='lanes' v='2' />
+    <tag k='lit' v='no' />
+    <tag k='maxspeed' v='70 mph' />
+    <tag k='name' v='Rugby Interchange' />
+    <tag k='oneway' v='yes' />
+    <tag k='surface' v='asphalt' />
+    <tag k='turn:lanes' v='through|through;right' />
+  </way>
+  <way id='108507628' version='10' user='Falsernet' uid='13341565' changeset='147459414' timestamp='2024-02-14T17:09:00Z'>
+    <nd ref='15820429' />
+    <nd ref='15820431' />
+    <nd ref='8662214964' />
+    <nd ref='15820432' />
+    <tag k='highway' v='trunk' />
+    <tag k='lanes' v='2' />
+    <tag k='lit' v='no' />
+    <tag k='maxspeed' v='70 mph' />
+    <tag k='name' v='Rugby Interchange' />
+    <tag k='oneway' v='yes' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='108507629' version='10' user='Loshu' uid='198183' changeset='147650723' timestamp='2024-02-19T13:34:51Z'>
+    <nd ref='1244762499' />
+    <nd ref='15820429' />
+    <tag k='bridge' v='yes' />
+    <tag k='highway' v='trunk' />
+    <tag k='junction' v='circular' />
+    <tag k='lanes' v='3' />
+    <tag k='layer' v='1' />
+    <tag k='lit' v='no' />
+    <tag k='maxspeed' v='70 mph' />
+    <tag k='maxweight:signed' v='no' />
+    <tag k='name' v='Rugby Interchange' />
+    <tag k='oneway' v='yes' />
+    <tag k='surface' v='asphalt' />
+    <tag k='turn:lanes' v='through|through|right' />
+  </way>
+  <way id='108507630' version='9' user='Loshu' uid='198183' changeset='147650723' timestamp='2024-02-19T13:34:51Z'>
+    <nd ref='15820417' />
+    <nd ref='9615123042' />
+    <nd ref='15820418' />
+    <nd ref='15820420' />
+    <nd ref='25881337' />
+    <tag k='destination:ref:lanes' v='A426 South|A426 South|M6 West;Services' />
+    <tag k='highway' v='trunk' />
+    <tag k='junction' v='circular' />
+    <tag k='lanes' v='3' />
+    <tag k='lit' v='no' />
+    <tag k='maxspeed' v='70 mph' />
+    <tag k='name' v='Rugby Interchange' />
+    <tag k='oneway' v='yes' />
+    <tag k='surface' v='asphalt' />
+    <tag k='turn:lanes' v='through|through|right' />
+  </way>
+  <way id='108507631' version='10' user='Loshu' uid='198183' changeset='147650723' timestamp='2024-02-19T13:34:51Z'>
+    <nd ref='1244762501' />
+    <nd ref='25881338' />
+    <nd ref='9615123035' />
+    <nd ref='15820417' />
+    <tag k='bridge' v='yes' />
+    <tag k='destination:ref:lanes' v='A426 South|A426 South|M6 West;Services' />
+    <tag k='highway' v='trunk' />
+    <tag k='junction' v='circular' />
+    <tag k='lanes' v='3' />
+    <tag k='layer' v='1' />
+    <tag k='lit' v='no' />
+    <tag k='maxspeed' v='70 mph' />
+    <tag k='maxweight:signed' v='no' />
+    <tag k='name' v='Rugby Interchange' />
+    <tag k='oneway' v='yes' />
+    <tag k='surface' v='asphalt' />
+    <tag k='turn:lanes' v='through|through|right' />
+  </way>
+  <way id='108508520' version='16' user='Vas111' uid='16951803' changeset='146565751' timestamp='2024-01-22T18:56:44Z'>
+    <nd ref='1244767413' />
+    <nd ref='1244767401' />
+    <tag k='bridge' v='yes' />
+    <tag k='carriageway_ref' v='A' />
+    <tag k='highway' v='motorway' />
+    <tag k='int_ref' v='E 24' />
+    <tag k='lanes' v='3' />
+    <tag k='layer' v='1' />
+    <tag k='lit' v='no' />
+    <tag k='maxspeed' v='70 mph' />
+    <tag k='maxspeed:type' v='GB:motorway' />
+    <tag k='national_highways:area' v='7' />
+    <tag k='oneway' v='yes' />
+    <tag k='operator' v='National Highways' />
+    <tag k='operator:wikidata' v='Q5760006' />
+    <tag k='ref' v='M6' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='108508523' version='16' user='Vas111' uid='16951803' changeset='146565751' timestamp='2024-01-22T18:56:44Z'>
+    <nd ref='1244767435' />
+    <nd ref='1560326473' />
+    <tag k='carriageway_ref' v='B' />
+    <tag k='highway' v='motorway' />
+    <tag k='int_ref' v='E 24' />
+    <tag k='lanes' v='3' />
+    <tag k='lit' v='no' />
+    <tag k='maxspeed' v='70 mph' />
+    <tag k='maxspeed:type' v='GB:motorway' />
+    <tag k='national_highways:area' v='7' />
+    <tag k='oneway' v='yes' />
+    <tag k='operator' v='National Highways' />
+    <tag k='operator:wikidata' v='Q5760006' />
+    <tag k='ref' v='M6' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='108508525' version='16' user='Vas111' uid='16951803' changeset='146565751' timestamp='2024-01-22T18:56:44Z'>
+    <nd ref='1244767427' />
+    <nd ref='1244767435' />
+    <tag k='bridge' v='yes' />
+    <tag k='carriageway_ref' v='B' />
+    <tag k='highway' v='motorway' />
+    <tag k='int_ref' v='E 24' />
+    <tag k='lanes' v='3' />
+    <tag k='layer' v='1' />
+    <tag k='lit' v='no' />
+    <tag k='maxspeed' v='70 mph' />
+    <tag k='maxspeed:type' v='GB:motorway' />
+    <tag k='national_highways:area' v='7' />
+    <tag k='oneway' v='yes' />
+    <tag k='operator' v='National Highways' />
+    <tag k='operator:wikidata' v='Q5760006' />
+    <tag k='ref' v='M6' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='111657117' version='24' user='trigpoint' uid='12992' changeset='140412358' timestamp='2023-08-26T13:35:18Z'>
+    <nd ref='572588' />
+    <nd ref='3831529531' />
+    <nd ref='1271569037' />
+    <nd ref='1763158477' />
+    <nd ref='3831529529' />
+    <nd ref='1271569066' />
+    <nd ref='203165' />
+    <tag k='bicycle' v='no' />
+    <tag k='bridge' v='yes' />
+    <tag k='destination' v='The SOUTH;London;N&#039;hampton' />
+    <tag k='destination:ref' v='M1' />
+    <tag k='highway' v='motorway_link' />
+    <tag k='lanes' v='2' />
+    <tag k='layer' v='1' />
+    <tag k='lit' v='yes' />
+    <tag k='oneway' v='yes' />
+    <tag k='operator' v='National Highways' />
+    <tag k='operator:wikidata' v='Q5760006' />
+    <tag k='parking:both' v='no' />
+    <tag k='parking:both:restriction' v='no_stopping' />
+    <tag k='ref' v='M6' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='111657118' version='28' user='trigpoint' uid='12992' changeset='140412358' timestamp='2023-08-26T13:35:18Z'>
+    <nd ref='6308442966' />
+    <nd ref='6308442967' />
+    <nd ref='6308442968' />
+    <nd ref='6308442969' />
+    <nd ref='1271569062' />
+    <nd ref='6308442970' />
+    <nd ref='1271569023' />
+    <nd ref='1271569064' />
+    <nd ref='6004610979' />
+    <nd ref='1271569019' />
+    <tag k='bicycle' v='no' />
+    <tag k='destination' v='The North' />
+    <tag k='destination:ref' v='M1' />
+    <tag k='highway' v='motorway_link' />
+    <tag k='lanes' v='2' />
+    <tag k='lit' v='yes' />
+    <tag k='maxspeed' v='70 mph' />
+    <tag k='oneway' v='yes' />
+    <tag k='operator' v='National Highways' />
+    <tag k='operator:wikidata' v='Q5760006' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='126756892' version='26' user='trigpoint' uid='12992' changeset='140412358' timestamp='2023-08-26T13:35:18Z'>
+    <nd ref='1271569019' />
+    <nd ref='1763158476' />
+    <nd ref='1271569005' />
+    <nd ref='1763158480' />
+    <nd ref='1271568992' />
+    <nd ref='1763158481' />
+    <nd ref='1271569048' />
+    <nd ref='1763158479' />
+    <nd ref='1271569052' />
+    <tag k='bicycle' v='no' />
+    <tag k='bridge' v='yes' />
+    <tag k='destination' v='Leicester' />
+    <tag k='destination:ref' v='M1' />
+    <tag k='highway' v='motorway_link' />
+    <tag k='lanes' v='2' />
+    <tag k='layer' v='1' />
+    <tag k='lit' v='yes' />
+    <tag k='maxspeed' v='70 mph' />
+    <tag k='oneway' v='yes' />
+    <tag k='operator' v='National Highways' />
+    <tag k='operator:wikidata' v='Q5760006' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='126757437' version='30' user='trigpoint' uid='12992' changeset='140412358' timestamp='2023-08-26T13:35:18Z'>
+    <nd ref='572627' />
+    <nd ref='3914052020' />
+    <nd ref='25881532' />
+    <nd ref='572626' />
+    <nd ref='1602706061' />
+    <nd ref='1602706064' />
+    <nd ref='1838772979' />
+    <nd ref='1838772992' />
+    <nd ref='1838772970' />
+    <tag k='bicycle' v='no' />
+    <tag k='destination' v='Leicester' />
+    <tag k='destination:ref' v='M1' />
+    <tag k='foot' v='no' />
+    <tag k='highway' v='motorway_link' />
+    <tag k='lanes' v='1' />
+    <tag k='lit' v='yes' />
+    <tag k='maxspeed' v='70 mph' />
+    <tag k='maxspeed:type' v='GB:motorway' />
+    <tag k='national_highways:area' v='7' />
+    <tag k='oneway' v='yes' />
+    <tag k='operator' v='National Highways' />
+    <tag k='operator:wikidata' v='Q5760006' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='136622173' version='14' user='user_5589' uid='5589' changeset='133645342' timestamp='2023-03-13T23:36:06Z'>
+    <nd ref='1498894953' />
+    <nd ref='1838772996' />
+    <tag k='bicycle' v='no' />
+    <tag k='bridge' v='yes' />
+    <tag k='destination:ref' v='M1' />
+    <tag k='foot' v='no' />
+    <tag k='highway' v='motorway_link' />
+    <tag k='lanes' v='2' />
+    <tag k='layer' v='1' />
+    <tag k='lit' v='yes' />
+    <tag k='maxspeed' v='70 mph' />
+    <tag k='national_highways:area' v='7' />
+    <tag k='oneway' v='yes' />
+    <tag k='operator' v='National Highways' />
+    <tag k='operator:wikidata' v='Q5760006' />
+    <tag k='parking:both' v='no' />
+    <tag k='parking:both:restriction' v='no_stopping' />
+    <tag k='ref' v='M6' />
+    <tag k='source:maxspeed' v='survey' />
+  </way>
+  <way id='141136216' version='23' user='KasperSFranz' uid='16586381' changeset='147053311' timestamp='2024-02-04T13:08:24Z'>
+    <nd ref='572579' />
+    <nd ref='572580' />
+    <nd ref='15888633' />
+    <nd ref='15888635' />
+    <tag k='bicycle' v='no' />
+    <tag k='bridge' v='yes' />
+    <tag k='destination' v='The SOUTH;London;N&#039;hampton' />
+    <tag k='destination:ref' v='M1' />
+    <tag k='foot' v='no' />
+    <tag k='highway' v='motorway_link' />
+    <tag k='lanes' v='2' />
+    <tag k='layer' v='1' />
+    <tag k='lit' v='yes' />
+    <tag k='maxspeed' v='50 mph' />
+    <tag k='national_highways:area' v='7' />
+    <tag k='oneway' v='yes' />
+    <tag k='opened' v='2011' />
+    <tag k='operator' v='National Highways' />
+    <tag k='operator:wikidata' v='Q5760006' />
+    <tag k='parking:both' v='no' />
+    <tag k='parking:both:restriction' v='no_stopping' />
+    <tag k='proposed:maxspeed' v='70 mph' />
+    <tag k='ref' v='M6' />
+    <tag k='source:maxspeed' v='survey' />
+    <tag k='surface' v='asphalt' />
+    <tag k='wikidata' v='Q1881041' />
+    <tag k='wikipedia' v='en:M6 motorway' />
+  </way>
+  <way id='142579631' version='13' user='Vas111' uid='16951803' changeset='146565751' timestamp='2024-01-22T18:56:44Z'>
+    <nd ref='1560326473' />
+    <nd ref='203158' />
+    <nd ref='572576' />
+    <nd ref='318616590' />
+    <nd ref='318616587' />
+    <tag k='carriageway_ref' v='B' />
+    <tag k='highway' v='motorway' />
+    <tag k='int_ref' v='E 24' />
+    <tag k='lanes' v='3' />
+    <tag k='lit' v='yes' />
+    <tag k='maxspeed' v='70 mph' />
+    <tag k='maxspeed:type' v='GB:motorway' />
+    <tag k='national_highways:area' v='7' />
+    <tag k='oneway' v='yes' />
+    <tag k='operator' v='National Highways' />
+    <tag k='operator:wikidata' v='Q5760006' />
+    <tag k='ref' v='M6' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='142579632' version='13' user='Vas111' uid='16951803' changeset='146565751' timestamp='2024-01-22T18:56:44Z'>
+    <nd ref='1560326493' />
+    <nd ref='1244767413' />
+    <tag k='carriageway_ref' v='A' />
+    <tag k='highway' v='motorway' />
+    <tag k='int_ref' v='E 24' />
+    <tag k='lanes' v='3' />
+    <tag k='lit' v='no' />
+    <tag k='maxspeed' v='70 mph' />
+    <tag k='maxspeed:type' v='GB:motorway' />
+    <tag k='national_highways:area' v='7' />
+    <tag k='oneway' v='yes' />
+    <tag k='operator' v='National Highways' />
+    <tag k='operator:wikidata' v='Q5760006' />
+    <tag k='ref' v='M6' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='164700019' version='15' user='user_5589' uid='5589' changeset='133645342' timestamp='2023-03-13T23:36:06Z'>
+    <nd ref='1763158482' />
+    <nd ref='203168' />
+    <nd ref='1498894958' />
+    <nd ref='1498894951' />
+    <nd ref='1498894953' />
+    <tag k='bicycle' v='no' />
+    <tag k='destination' v='The SOUTH;London;N&#039;hampton' />
+    <tag k='destination:ref' v='M1' />
+    <tag k='foot' v='no' />
+    <tag k='highway' v='motorway_link' />
+    <tag k='lanes' v='2' />
+    <tag k='lit' v='yes' />
+    <tag k='maxspeed' v='70 mph' />
+    <tag k='national_highways:area' v='7' />
+    <tag k='oneway' v='yes' />
+    <tag k='operator' v='National Highways' />
+    <tag k='operator:wikidata' v='Q5760006' />
+    <tag k='parking:both' v='no' />
+    <tag k='parking:both:restriction' v='no_stopping' />
+    <tag k='ref' v='M6' />
+    <tag k='source:maxspeed' v='survey' />
+  </way>
+  <way id='204901082' version='12' user='Vas111' uid='16951803' changeset='146565751' timestamp='2024-01-22T18:56:44Z'>
+    <nd ref='276922419' />
+    <nd ref='15889658' />
+    <nd ref='574116' />
+    <nd ref='15889656' />
+    <nd ref='2487656102' />
+    <nd ref='208608' />
+    <nd ref='15889660' />
+    <nd ref='574118' />
+    <nd ref='2487656110' />
+    <nd ref='574120' />
+    <nd ref='1560312576' />
+    <tag k='carriageway_ref' v='A' />
+    <tag k='highway' v='motorway' />
+    <tag k='int_ref' v='E 24' />
+    <tag k='lanes' v='3' />
+    <tag k='lit' v='no' />
+    <tag k='maxheight' v='default' />
+    <tag k='maxspeed' v='70 mph' />
+    <tag k='maxspeed:type' v='GB:motorway' />
+    <tag k='national_highways:area' v='9' />
+    <tag k='oneway' v='yes' />
+    <tag k='operator' v='National Highways' />
+    <tag k='operator:wikidata' v='Q5760006' />
+    <tag k='ref' v='M6' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='204901083' version='14' user='Falsernet' uid='13341565' changeset='152142242' timestamp='2024-06-02T00:47:33Z'>
+    <nd ref='574113' />
+    <nd ref='203157' />
+    <nd ref='11951017345' />
+    <nd ref='15889647' />
+    <nd ref='11951017344' />
+    <nd ref='15889649' />
+    <nd ref='15889651' />
+    <nd ref='1244767427' />
+    <tag k='carriageway_ref' v='B' />
+    <tag k='highway' v='motorway' />
+    <tag k='int_ref' v='E 24' />
+    <tag k='lanes' v='3' />
+    <tag k='lit' v='no' />
+    <tag k='maxheight' v='default' />
+    <tag k='maxspeed' v='70 mph' />
+    <tag k='maxspeed:type' v='GB:motorway' />
+    <tag k='national_highways:area' v='7' />
+    <tag k='oneway' v='yes' />
+    <tag k='operator' v='National Highways' />
+    <tag k='operator:wikidata' v='Q5760006' />
+    <tag k='ref' v='M6' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='337681190' version='31' user='KasperSFranz' uid='16586381' changeset='147053311' timestamp='2024-02-04T13:08:24Z'>
+    <nd ref='1404335152' />
+    <nd ref='6308442964' />
+    <nd ref='6308442962' />
+    <nd ref='6308442965' />
+    <nd ref='9677166332' />
+    <nd ref='1551827019' />
+    <nd ref='574088' />
+    <nd ref='574086' />
+    <nd ref='1889685201' />
+    <nd ref='1271569071' />
+    <nd ref='1271569026' />
+    <nd ref='1271569022' />
+    <nd ref='9677166338' />
+    <nd ref='1271569020' />
+    <nd ref='1271569003' />
+    <nd ref='2389671766' />
+    <tag k='carriageway_ref' v='A' />
+    <tag k='highway' v='motorway' />
+    <tag k='int_ref' v='E 24' />
+    <tag k='lanes' v='2' />
+    <tag k='lit' v='yes' />
+    <tag k='maxspeed' v='70 mph' />
+    <tag k='maxspeed:type' v='GB:motorway' />
+    <tag k='national_highways:area' v='7' />
+    <tag k='oneway' v='yes' />
+    <tag k='operator' v='National Highways' />
+    <tag k='operator:wikidata' v='Q5760006' />
+    <tag k='ref' v='M6' />
+    <tag k='surface' v='asphalt' />
+    <tag k='wikidata' v='Q4648884' />
+    <tag k='wikipedia' v='en:A14 road (England)' />
+  </way>
+  <way id='353962898' version='17' user='trigpoint' uid='12992' changeset='140412358' timestamp='2023-08-26T13:35:21Z'>
+    <nd ref='203165' />
+    <nd ref='3597527460' />
+    <nd ref='3597527447' />
+    <nd ref='3597527458' />
+    <nd ref='572579' />
+    <tag k='bicycle' v='no' />
+    <tag k='destination' v='The SOUTH;London;N&#039;hampton' />
+    <tag k='destination:ref' v='M1' />
+    <tag k='foot' v='no' />
+    <tag k='highway' v='motorway_link' />
+    <tag k='lanes' v='2' />
+    <tag k='lit' v='yes' />
+    <tag k='maxspeed' v='70 mph' />
+    <tag k='maxspeed:type' v='GB:motorway' />
+    <tag k='national_highways:area' v='7' />
+    <tag k='oneway' v='yes' />
+    <tag k='operator' v='National Highways' />
+    <tag k='operator:wikidata' v='Q5760006' />
+    <tag k='parking:both' v='no' />
+    <tag k='parking:both:restriction' v='no_stopping' />
+    <tag k='ref' v='M6' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='374882320' version='19' user='trigpoint' uid='12992' changeset='140412358' timestamp='2023-08-26T13:35:21Z'>
+    <nd ref='25881555' />
+    <nd ref='24495441' />
+    <tag k='bicycle' v='no' />
+    <tag k='bridge' v='yes' />
+    <tag k='destination:ref' v='A14' />
+    <tag k='foot' v='no' />
+    <tag k='highway' v='motorway_link' />
+    <tag k='horse' v='no' />
+    <tag k='lanes' v='1' />
+    <tag k='layer' v='1' />
+    <tag k='lit' v='yes' />
+    <tag k='maxspeed' v='70 mph' />
+    <tag k='maxspeed:type' v='GB:motorway' />
+    <tag k='national_highways:area' v='7' />
+    <tag k='oneway' v='yes' />
+    <tag k='operator' v='National Highways' />
+    <tag k='operator:wikidata' v='Q5760006' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='374882322' version='19' user='trigpoint' uid='12992' changeset='140412358' timestamp='2023-08-26T13:35:21Z'>
+    <nd ref='24495441' />
+    <nd ref='6004610978' />
+    <nd ref='3782612143' />
+    <nd ref='6004610974' />
+    <nd ref='3914052043' />
+    <nd ref='6004610977' />
+    <nd ref='5530144482' />
+    <nd ref='5530144483' />
+    <nd ref='9677166334' />
+    <nd ref='3413950701' />
+    <tag k='bicycle' v='no' />
+    <tag k='destination:ref' v='A14' />
+    <tag k='foot' v='no' />
+    <tag k='highway' v='motorway_link' />
+    <tag k='horse' v='no' />
+    <tag k='lanes' v='1' />
+    <tag k='lit' v='yes' />
+    <tag k='maxspeed' v='70 mph' />
+    <tag k='maxspeed:type' v='GB:motorway' />
+    <tag k='national_highways:area' v='7' />
+    <tag k='oneway' v='yes' />
+    <tag k='operator' v='National Highways' />
+    <tag k='operator:wikidata' v='Q5760006' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='379809301' version='24' user='Falsernet' uid='13341565' changeset='152142242' timestamp='2024-06-02T00:47:33Z'>
+    <nd ref='1271568994' />
+    <nd ref='3597527459' />
+    <tag k='destination:ref' v='A14' />
+    <tag k='highway' v='motorway' />
+    <tag k='int_ref' v='E 24' />
+    <tag k='lanes' v='2' />
+    <tag k='lit' v='yes' />
+    <tag k='maxspeed' v='70 mph' />
+    <tag k='maxspeed:type' v='GB:motorway' />
+    <tag k='national_highways:area' v='7' />
+    <tag k='oneway' v='yes' />
+    <tag k='operator' v='National Highways' />
+    <tag k='operator:wikidata' v='Q5760006' />
+    <tag k='proposed:lanes' v='2' />
+    <tag k='proposed:maxspeed' v='70 mph' />
+    <tag k='ref' v='M6' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='379810275' version='22' user='Vas111' uid='16951803' changeset='146565751' timestamp='2024-01-22T18:56:44Z'>
+    <nd ref='2389671766' />
+    <nd ref='3831543891' />
+    <tag k='bridge' v='yes' />
+    <tag k='carriageway_ref' v='A' />
+    <tag k='highway' v='motorway' />
+    <tag k='int_ref' v='E 24' />
+    <tag k='lanes' v='2' />
+    <tag k='layer' v='1' />
+    <tag k='lit' v='yes' />
+    <tag k='maxspeed' v='70 mph' />
+    <tag k='maxspeed:type' v='GB:motorway' />
+    <tag k='national_highways:area' v='7' />
+    <tag k='oneway' v='yes' />
+    <tag k='operator' v='National Highways' />
+    <tag k='operator:wikidata' v='Q5760006' />
+    <tag k='ref' v='M6' />
+    <tag k='surface' v='asphalt' />
+    <tag k='wikipedia' v='en:M6' />
+  </way>
+  <way id='379810276' version='23' user='KasperSFranz' uid='16586381' changeset='147053311' timestamp='2024-02-04T13:08:24Z'>
+    <nd ref='3831543891' />
+    <nd ref='3597527442' />
+    <nd ref='9677166330' />
+    <nd ref='9677166331' />
+    <nd ref='4314547480' />
+    <tag k='carriageway_ref' v='A' />
+    <tag k='highway' v='motorway' />
+    <tag k='int_ref' v='E 24' />
+    <tag k='lanes' v='2' />
+    <tag k='lit' v='yes' />
+    <tag k='maxspeed' v='70 mph' />
+    <tag k='maxspeed:type' v='GB:motorway' />
+    <tag k='national_highways:area' v='7' />
+    <tag k='oneway' v='yes' />
+    <tag k='operator' v='National Highways' />
+    <tag k='operator:wikidata' v='Q5760006' />
+    <tag k='ref' v='M6' />
+    <tag k='surface' v='asphalt' />
+    <tag k='wikidata' v='Q4648884' />
+    <tag k='wikipedia' v='en:A14 road (England)' />
+  </way>
+  <way id='385618477' version='30' user='Falsernet' uid='13341565' changeset='152142242' timestamp='2024-06-02T00:47:33Z'>
+    <nd ref='3831529530' />
+    <nd ref='6545556283' />
+    <nd ref='3914052026' />
+    <nd ref='1271569084' />
+    <nd ref='1271569085' />
+    <nd ref='1271568998' />
+    <nd ref='1271569078' />
+    <nd ref='1271569035' />
+    <nd ref='1271569011' />
+    <nd ref='5530144486' />
+    <nd ref='5530144485' />
+    <nd ref='9677166333' />
+    <nd ref='3413950701' />
+    <tag k='destination:ref' v='A14' />
+    <tag k='highway' v='motorway' />
+    <tag k='int_ref' v='E 24' />
+    <tag k='lanes' v='2' />
+    <tag k='lit' v='yes' />
+    <tag k='maxspeed' v='70 mph' />
+    <tag k='maxspeed:type' v='GB:motorway' />
+    <tag k='national_highways:area' v='7' />
+    <tag k='oneway' v='yes' />
+    <tag k='operator' v='National Highways' />
+    <tag k='operator:wikidata' v='Q5760006' />
+    <tag k='proposed:maxspeed' v='70 mph' />
+    <tag k='ref' v='M6' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='398171716' version='20' user='Falsernet' uid='13341565' changeset='152142242' timestamp='2024-06-02T00:47:33Z'>
+    <nd ref='572587' />
+    <nd ref='6545592290' />
+    <nd ref='9677166336' />
+    <nd ref='1271568994' />
+    <tag k='destination:ref' v='A14' />
+    <tag k='highway' v='motorway' />
+    <tag k='int_ref' v='E 24' />
+    <tag k='lanes' v='2' />
+    <tag k='lit' v='yes' />
+    <tag k='maxspeed' v='70 mph' />
+    <tag k='maxspeed:type' v='GB:motorway' />
+    <tag k='oneway' v='yes' />
+    <tag k='ref' v='M6' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='432179994' version='21' user='Falsernet' uid='13341565' changeset='152142242' timestamp='2024-06-02T00:47:33Z'>
+    <nd ref='3597527459' />
+    <nd ref='3831529530' />
+    <tag k='bridge' v='yes' />
+    <tag k='destination:ref' v='A14' />
+    <tag k='highway' v='motorway' />
+    <tag k='int_ref' v='E 24' />
+    <tag k='lanes' v='2' />
+    <tag k='layer' v='1' />
+    <tag k='lit' v='yes' />
+    <tag k='maxspeed' v='70 mph' />
+    <tag k='maxspeed:type' v='GB:motorway' />
+    <tag k='national_highways:area' v='7' />
+    <tag k='oneway' v='yes' />
+    <tag k='operator' v='National Highways' />
+    <tag k='operator:wikidata' v='Q5760006' />
+    <tag k='proposed:lanes' v='2' />
+    <tag k='proposed:maxspeed' v='70 mph' />
+    <tag k='ref' v='M6' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='432503827' version='14' user='trigpoint' uid='12992' changeset='140412358' timestamp='2023-08-26T13:35:21Z'>
+    <nd ref='572587' />
+    <nd ref='5530144487' />
+    <nd ref='5530144488' />
+    <nd ref='4173538607' />
+    <nd ref='9677166329' />
+    <nd ref='4173538608' />
+    <nd ref='4173538609' />
+    <nd ref='572588' />
+    <tag k='bicycle' v='no' />
+    <tag k='destination' v='The SOUTH;London;N&#039;hampton' />
+    <tag k='destination:ref' v='M1' />
+    <tag k='foot' v='no' />
+    <tag k='highway' v='motorway_link' />
+    <tag k='historic:highway' v='motorway_link' />
+    <tag k='lanes' v='2' />
+    <tag k='lit' v='yes' />
+    <tag k='maxspeed' v='70 mph' />
+    <tag k='maxspeed:type' v='GB:motorway' />
+    <tag k='national_highways:area' v='7' />
+    <tag k='oneway' v='yes' />
+    <tag k='operator' v='National Highways' />
+    <tag k='operator:wikidata' v='Q5760006' />
+    <tag k='parking:both' v='no' />
+    <tag k='parking:both:restriction' v='no_stopping' />
+    <tag k='ref' v='M6' />
+  </way>
+  <way id='432503832' version='18' user='KasperSFranz' uid='16586381' changeset='147053311' timestamp='2024-02-04T13:08:24Z'>
+    <nd ref='4314547480' />
+    <nd ref='208601' />
+    <tag k='carriageway_ref' v='A' />
+    <tag k='highway' v='motorway' />
+    <tag k='int_ref' v='E 24' />
+    <tag k='lanes' v='3' />
+    <tag k='lit' v='yes' />
+    <tag k='maxspeed' v='70 mph' />
+    <tag k='maxspeed:type' v='GB:motorway' />
+    <tag k='national_highways:area' v='7' />
+    <tag k='oneway' v='yes' />
+    <tag k='operator' v='National Highways' />
+    <tag k='operator:wikidata' v='Q5760006' />
+    <tag k='ref' v='M6' />
+    <tag k='source:maxspeed' v='survey' />
+    <tag k='surface' v='asphalt' />
+    <tag k='wikidata' v='Q1881041' />
+    <tag k='wikipedia' v='en:M6 motorway' />
+  </way>
+  <way id='435012415' version='14' user='KasperSFranz' uid='16586381' changeset='147053311' timestamp='2024-02-04T13:08:24Z'>
+    <nd ref='4329455494' />
+    <nd ref='6545556280' />
+    <nd ref='4526046666' />
+    <nd ref='6545592286' />
+    <nd ref='4314547480' />
+    <tag k='bicycle' v='no' />
+    <tag k='destination' v='The N. WEST;Birmingham;Coventry' />
+    <tag k='destination:ref' v='M6' />
+    <tag k='foot' v='no' />
+    <tag k='highway' v='motorway_link' />
+    <tag k='horse' v='no' />
+    <tag k='lanes' v='2' />
+    <tag k='lit' v='yes' />
+    <tag k='maxspeed' v='70 mph' />
+    <tag k='motor_vehicle' v='yes' />
+    <tag k='national_highways:area' v='7' />
+    <tag k='oneway' v='yes' />
+    <tag k='operator' v='National Highways' />
+    <tag k='operator:wikidata' v='Q5760006' />
+    <tag k='parking:both' v='no' />
+    <tag k='parking:both:restriction' v='no_stopping' />
+    <tag k='ref' v='M6' />
+    <tag k='source:maxspeed' v='survey' />
+    <tag k='surface' v='asphalt' />
+    <tag k='wikidata' v='Q1881041' />
+    <tag k='wikipedia' v='en:M6 motorway' />
+  </way>
+  <way id='435012416' version='14' user='KasperSFranz' uid='16586381' changeset='147053311' timestamp='2024-02-04T13:08:24Z'>
+    <nd ref='572617' />
+    <nd ref='6545592291' />
+    <nd ref='4329455494' />
+    <tag k='bicycle' v='no' />
+    <tag k='bridge' v='yes' />
+    <tag k='destination' v='The N. WEST;Birmingham;Coventry' />
+    <tag k='destination:ref' v='M6' />
+    <tag k='foot' v='no' />
+    <tag k='highway' v='motorway_link' />
+    <tag k='horse' v='no' />
+    <tag k='lanes' v='2' />
+    <tag k='layer' v='1' />
+    <tag k='lit' v='yes' />
+    <tag k='maxspeed' v='70 mph' />
+    <tag k='motor_vehicle' v='yes' />
+    <tag k='national_highways:area' v='7' />
+    <tag k='oneway' v='yes' />
+    <tag k='operator' v='National Highways' />
+    <tag k='operator:wikidata' v='Q5760006' />
+    <tag k='parking:both' v='no' />
+    <tag k='parking:both:restriction' v='no_stopping' />
+    <tag k='ref' v='M6' />
+    <tag k='source:maxspeed' v='survey' />
+    <tag k='surface' v='asphalt' />
+    <tag k='wikidata' v='Q1881041' />
+    <tag k='wikipedia' v='en:M6 motorway' />
+  </way>
+  <way id='934683482' version='7' user='Falsernet' uid='13341565' changeset='147459414' timestamp='2024-02-14T17:09:00Z'>
+    <nd ref='15820429' />
+    <nd ref='8662214959' />
+    <nd ref='8662214978' />
+    <nd ref='8662214961' />
+    <nd ref='9615123068' />
+    <nd ref='8662214977' />
+    <tag k='highway' v='trunk' />
+    <tag k='junction' v='circular' />
+    <tag k='lanes' v='1' />
+    <tag k='lit' v='no' />
+    <tag k='maxspeed' v='70 mph' />
+    <tag k='name' v='Rugby Interchange' />
+    <tag k='oneway' v='yes' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='934683483' version='5' user='Loshu' uid='198183' changeset='147650723' timestamp='2024-02-19T13:34:51Z'>
+    <nd ref='15889890' />
+    <nd ref='9615123044' />
+    <nd ref='8662214963' />
+    <nd ref='15820432' />
+    <tag k='destination:ref:lanes' v='A426 South|A426 South' />
+    <tag k='highway' v='motorway_link' />
+    <tag k='lanes' v='2' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='934683484' version='8' user='Loshu' uid='198183' changeset='147650723' timestamp='2024-02-19T13:34:51Z'>
+    <nd ref='8662214977' />
+    <nd ref='8662214976' />
+    <nd ref='8662214975' />
+    <nd ref='8662214965' />
+    <nd ref='8662214974' />
+    <nd ref='8662214973' />
+    <nd ref='8662214972' />
+    <nd ref='8662214971' />
+    <nd ref='8662214970' />
+    <nd ref='9615123045' />
+    <nd ref='8662214969' />
+    <nd ref='276922661' />
+    <tag k='destination:ref:lanes' v='M6 East|A426 South|M6 West;A426 South' />
+    <tag k='highway' v='trunk' />
+    <tag k='junction' v='circular' />
+    <tag k='lanes' v='3' />
+    <tag k='lit' v='no' />
+    <tag k='maxspeed' v='70 mph' />
+    <tag k='name' v='Rugby Interchange' />
+    <tag k='oneway' v='yes' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='1045115723' version='5' user='Falsernet' uid='13341565' changeset='147459414' timestamp='2024-02-14T17:09:00Z'>
+    <nd ref='15820432' />
+    <nd ref='9615123058' />
+    <nd ref='9615123053' />
+    <nd ref='15820406' />
+    <tag k='highway' v='trunk' />
+    <tag k='lanes' v='2' />
+    <tag k='lit' v='no' />
+    <tag k='maxspeed' v='70 mph' />
+    <tag k='name' v='Rugby Interchange' />
+    <tag k='oneway' v='yes' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='1045115725' version='6' user='Loshu' uid='198183' changeset='147650723' timestamp='2024-02-19T13:34:51Z'>
+    <nd ref='15820412' />
+    <nd ref='9615123063' />
+    <nd ref='9615123062' />
+    <nd ref='15820415' />
+    <nd ref='276922661' />
+    <tag k='highway' v='trunk' />
+    <tag k='lanes' v='3' />
+    <tag k='lit' v='no' />
+    <tag k='maxspeed' v='70 mph' />
+    <tag k='name' v='Rugby Interchange' />
+    <tag k='oneway' v='yes' />
+    <tag k='ref' v='A426' />
+  </way>
+  <way id='1045115726' version='7' user='Loshu' uid='198183' changeset='147650723' timestamp='2024-02-19T13:34:51Z'>
+    <nd ref='15820409' />
+    <nd ref='8662214955' />
+    <nd ref='25881340' />
+    <nd ref='15820410' />
+    <nd ref='15820412' />
+    <tag k='destination:ref:lanes' v='M6 East;A426 South|A426 South|M6 West' />
+    <tag k='highway' v='trunk' />
+    <tag k='lanes' v='3' />
+    <tag k='lit' v='no' />
+    <tag k='maxspeed' v='70 mph' />
+    <tag k='name' v='Rugby Interchange' />
+    <tag k='oneway' v='yes' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='1045115727' version='6' user='Loshu' uid='198183' changeset='147650723' timestamp='2024-02-19T13:34:51Z'>
+    <nd ref='276922661' />
+    <nd ref='15820416' />
+    <nd ref='1244762501' />
+    <tag k='destination:ref:lanes' v='A426 South|A426 South|M6 West;Services' />
+    <tag k='highway' v='trunk' />
+    <tag k='junction' v='circular' />
+    <tag k='lanes' v='3' />
+    <tag k='lit' v='no' />
+    <tag k='maxspeed' v='70 mph' />
+    <tag k='name' v='Rugby Interchange' />
+    <tag k='oneway' v='yes' />
+    <tag k='surface' v='asphalt' />
+    <tag k='turn:lanes' v='through|through|right' />
+  </way>
+  <way id='1053017679' version='6' user='trigpoint' uid='12992' changeset='140412358' timestamp='2023-08-26T13:35:30Z'>
+    <nd ref='1271569052' />
+    <nd ref='1271569067' />
+    <nd ref='1271569050' />
+    <nd ref='572627' />
+    <tag k='bicycle' v='no' />
+    <tag k='bridge' v='yes' />
+    <tag k='destination' v='Leicester' />
+    <tag k='destination:ref' v='M1' />
+    <tag k='highway' v='motorway_link' />
+    <tag k='lanes' v='2' />
+    <tag k='layer' v='1' />
+    <tag k='lit' v='yes' />
+    <tag k='maxspeed' v='70 mph' />
+    <tag k='oneway' v='yes' />
+    <tag k='operator' v='National Highways' />
+    <tag k='operator:wikidata' v='Q5760006' />
+    <tag k='surface' v='asphalt' />
+    <tag k='turn:lanes' v='|merge_to_left' />
+  </way>
+  <way id='1053058667' version='4' user='KasperSFranz' uid='16586381' changeset='147053311' timestamp='2024-02-04T13:08:24Z'>
+    <nd ref='208590' />
+    <nd ref='15888724' />
+    <nd ref='3122838272' />
+    <nd ref='15888725' />
+    <tag k='bicycle' v='no' />
+    <tag k='destination' v='The N. WEST;Birmingham;Coventry' />
+    <tag k='destination:ref' v='M6' />
+    <tag k='foot' v='no' />
+    <tag k='highway' v='motorway_link' />
+    <tag k='horse' v='no' />
+    <tag k='lanes' v='1' />
+    <tag k='lit' v='yes' />
+    <tag k='maxspeed' v='70 mph' />
+    <tag k='motor_vehicle' v='yes' />
+    <tag k='national_highways:area' v='7' />
+    <tag k='oneway' v='yes' />
+    <tag k='operator' v='National Highways' />
+    <tag k='operator:wikidata' v='Q5760006' />
+    <tag k='parking:both' v='no' />
+    <tag k='parking:both:restriction' v='no_stopping' />
+    <tag k='ref' v='M6' />
+    <tag k='source:maxspeed' v='survey' />
+    <tag k='surface' v='asphalt' />
+    <tag k='wikidata' v='Q1881041' />
+    <tag k='wikipedia' v='en:M6 motorway' />
+  </way>
+  <way id='1252381911' version='1' user='Loshu' uid='198183' changeset='147650723' timestamp='2024-02-19T13:34:51Z'>
+    <nd ref='276922661' />
+    <nd ref='276922660' />
+    <nd ref='276922659' />
+    <nd ref='276922658' />
+    <nd ref='276922657' />
+    <nd ref='276922656' />
+    <tag k='bicycle' v='no' />
+    <tag k='foot' v='no' />
+    <tag k='highway' v='motorway_link' />
+    <tag k='lanes' v='2' />
+    <tag k='lit' v='no' />
+    <tag k='national_highways:area' v='9' />
+    <tag k='oneway' v='yes' />
+    <tag k='operator' v='National Highways' />
+    <tag k='operator:wikidata' v='Q5760006' />
+    <tag k='turn:lanes' v='|merge_to_left' />
+  </way>
+  <way id='1252381912' version='1' user='Loshu' uid='198183' changeset='147650723' timestamp='2024-02-19T13:34:51Z'>
+    <nd ref='9615123051' />
+    <nd ref='574113' />
+    <tag k='bicycle' v='no' />
+    <tag k='foot' v='no' />
+    <tag k='highway' v='motorway_link' />
+    <tag k='lanes' v='1' />
+    <tag k='lit' v='no' />
+    <tag k='national_highways:area' v='9' />
+    <tag k='oneway' v='yes' />
+    <tag k='operator' v='National Highways' />
+    <tag k='operator:wikidata' v='Q5760006' />
+    <tag k='turn' v='merge_to_right' />
+  </way>
+  <way id='1252381913' version='1' user='Loshu' uid='198183' changeset='147650723' timestamp='2024-02-19T13:34:51Z'>
+    <nd ref='15820434' />
+    <nd ref='11641024261' />
+    <tag k='bicycle' v='no' />
+    <tag k='foot' v='no' />
+    <tag k='highway' v='motorway_link' />
+    <tag k='lanes' v='2' />
+    <tag k='lit' v='no' />
+    <tag k='national_highways:area' v='9' />
+    <tag k='oneway' v='yes' />
+    <tag k='operator' v='National Highways' />
+    <tag k='operator:wikidata' v='Q5760006' />
+    <tag k='turn:lanes' v='||merge_to_left' />
+  </way>
+  <way id='1252381914' version='1' user='Loshu' uid='198183' changeset='147650723' timestamp='2024-02-19T13:34:51Z'>
+    <nd ref='2487656109' />
+    <nd ref='574118' />
+    <tag k='bicycle' v='no' />
+    <tag k='foot' v='no' />
+    <tag k='highway' v='motorway_link' />
+    <tag k='lanes' v='1' />
+    <tag k='lit' v='no' />
+    <tag k='national_highways:area' v='9' />
+    <tag k='oneway' v='yes' />
+    <tag k='operator' v='National Highways' />
+    <tag k='operator:wikidata' v='Q5760006' />
+    <tag k='turn:lanes' v='merge_to_right' />
+  </way>
+  <way id='1252381915' version='1' user='Loshu' uid='198183' changeset='147650723' timestamp='2024-02-19T13:34:51Z'>
+    <nd ref='574117' />
+    <nd ref='9615123048' />
+    <nd ref='11641024262' />
+    <tag k='bicycle' v='no' />
+    <tag k='foot' v='no' />
+    <tag k='highway' v='motorway_link' />
+    <tag k='lanes' v='1' />
+    <tag k='lit' v='no' />
+    <tag k='national_highways:area' v='9' />
+    <tag k='oneway' v='yes' />
+    <tag k='operator' v='National Highways' />
+    <tag k='operator:wikidata' v='Q5760006' />
+  </way>
+  <way id='1252381916' version='1' user='Loshu' uid='198183' changeset='147650723' timestamp='2024-02-19T13:34:51Z'>
+    <nd ref='15820402' />
+    <nd ref='15820404' />
+    <tag k='bicycle' v='no' />
+    <tag k='destination:ref:lanes' v='A426 North;Services|A426 South|A426 South' />
+    <tag k='foot' v='no' />
+    <tag k='highway' v='motorway_link' />
+    <tag k='lanes' v='3' />
+    <tag k='lit' v='no' />
+    <tag k='national_highways:area' v='9' />
+    <tag k='oneway' v='yes' />
+    <tag k='operator' v='National Highways' />
+    <tag k='operator:wikidata' v='Q5760006' />
+  </way>
+  <way id='1252381917' version='1' user='Loshu' uid='198183' changeset='147650723' timestamp='2024-02-19T13:34:51Z'>
+    <nd ref='15820404' />
+    <nd ref='15889890' />
+    <tag k='bicycle' v='no' />
+    <tag k='destination:ref:lanes' v='A426 North;Services|A426 North|A426 South|A426 South' />
+    <tag k='foot' v='no' />
+    <tag k='highway' v='motorway_link' />
+    <tag k='lanes' v='4' />
+    <tag k='lit' v='no' />
+    <tag k='national_highways:area' v='9' />
+    <tag k='oneway' v='yes' />
+    <tag k='operator' v='National Highways' />
+    <tag k='operator:wikidata' v='Q5760006' />
+  </way>
+  <way id='1252381930' version='1' user='Loshu' uid='198183' changeset='147650723' timestamp='2024-02-19T13:34:51Z'>
+    <nd ref='25881337' />
+    <nd ref='15820421' />
+    <nd ref='25881336' />
+    <nd ref='15820422' />
+    <tag k='highway' v='trunk' />
+    <tag k='junction' v='circular' />
+    <tag k='lanes' v='3' />
+    <tag k='lit' v='no' />
+    <tag k='maxspeed' v='70 mph' />
+    <tag k='name' v='Rugby Interchange' />
+    <tag k='oneway' v='yes' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='1252381931' version='1' user='Loshu' uid='198183' changeset='147650723' timestamp='2024-02-19T13:34:51Z'>
+    <nd ref='15820427' />
+    <nd ref='9615123036' />
+    <nd ref='15820428' />
+    <nd ref='25894046' />
+    <nd ref='1244762499' />
+    <tag k='destination:ref:lanes' v='A426 North;Services|A426 North|M6 East' />
+    <tag k='highway' v='trunk' />
+    <tag k='junction' v='circular' />
+    <tag k='lanes' v='3' />
+    <tag k='lit' v='no' />
+    <tag k='maxspeed' v='70 mph' />
+    <tag k='name' v='Rugby Interchange' />
+    <tag k='oneway' v='yes' />
+    <tag k='surface' v='asphalt' />
+    <tag k='turn:lanes' v='through|through|right' />
+  </way>
+  <way id='1252381932' version='1' user='Loshu' uid='198183' changeset='147650723' timestamp='2024-02-19T13:34:51Z'>
+    <nd ref='15820426' />
+    <nd ref='9615123037' />
+    <nd ref='15820427' />
+    <tag k='highway' v='trunk' />
+    <tag k='junction' v='circular' />
+    <tag k='lanes' v='3' />
+    <tag k='lit' v='no' />
+    <tag k='maxspeed' v='70 mph' />
+    <tag k='name' v='Rugby Interchange' />
+    <tag k='oneway' v='yes' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='1252381933' version='1' user='Loshu' uid='198183' changeset='147650723' timestamp='2024-02-19T13:34:51Z'>
+    <nd ref='11641080273' />
+    <nd ref='7853811232' />
+    <nd ref='25894045' />
+    <nd ref='15820449' />
+    <nd ref='25894048' />
+    <nd ref='15820450' />
+    <nd ref='7853811231' />
+    <nd ref='15820426' />
+    <tag k='destination:ref:lanes' v='M6 West;A426 North;|M6 East;A426 North' />
+    <tag k='highway' v='trunk' />
+    <tag k='lanes' v='2' />
+    <tag k='maxspeed' v='60 mph' />
+    <tag k='oneway' v='yes' />
+    <tag k='ref' v='A426' />
+    <tag k='turn:lanes' v='left;through|through' />
+  </way>
+</osm>

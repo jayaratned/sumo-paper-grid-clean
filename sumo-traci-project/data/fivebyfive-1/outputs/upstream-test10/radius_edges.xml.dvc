@@ -1,0 +1,5 @@
+outs:
+- md5: 48719916c0f41d0855d29a3b6257293e
+  size: 171
+  hash: md5
+  path: radius_edges.xml

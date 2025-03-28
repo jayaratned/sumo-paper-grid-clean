@@ -1,0 +1,5 @@
+outs:
+- md5: 6653a91ed6b00e002dd6814dd3c1e849
+  size: 12394
+  hash: md5
+  path: M50_routes.rou.xml

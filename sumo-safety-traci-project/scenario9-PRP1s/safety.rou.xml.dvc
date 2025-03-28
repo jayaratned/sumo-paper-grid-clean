@@ -1,0 +1,5 @@
+outs:
+- md5: bab056d3902cc76aeca682cfe9d5195f
+  size: 22144
+  hash: md5
+  path: safety.rou.xml

@@ -1,0 +1,5 @@
+outs:
+- md5: ce43d5176c839a36eff3be8586d2d25c
+  size: 1053
+  hash: md5
+  path: RSU.rou.xml

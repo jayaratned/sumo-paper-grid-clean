@@ -1,0 +1,8 @@
+edge:D1D2
+edge:D2C2
+edge:C2D2
+edge:D2E2
+edge:E2D2
+edge:D2D1
+edge:D2D3
+edge:D3D2
