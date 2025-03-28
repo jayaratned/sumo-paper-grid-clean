@@ -1,0 +1,13 @@
+<additional>
+    <e1Detector id="F1_0_0m" lane="F1_0" pos="0" file="detector_output.xml"/>
+    <e1Detector id="F1_0_100m" lane="F1_0" pos="100" file="detector_output.xml"/>
+    <e1Detector id="F1_0_200m" lane="F1_0" pos="200" file="detector_output.xml"/>
+    <e1Detector id="F1_0_300m" lane="F1_0" pos="300" file="detector_output.xml"/>
+    <e1Detector id="F1_0_400m" lane="F1_0" pos="400" file="detector_output.xml"/>
+    <e1Detector id="F1_0_500m" lane="F1_0" pos="500" file="detector_output.xml"/>
+    <e1Detector id="F1_0_600m" lane="F1_0" pos="600" file="detector_output.xml"/>
+    <e1Detector id="F1_0_700m" lane="F1_0" pos="700" file="detector_output.xml"/>
+    <e1Detector id="F1_0_800m" lane="F1_0" pos="800" file="detector_output.xml"/>
+    <e1Detector id="F1_0_900m" lane="F1_0" pos="900" file="detector_output.xml"/>
+    <e1Detector id="F1_0_1000m" lane="F1_0" pos="1000" file="detector_output.xml"/>
+</additional>

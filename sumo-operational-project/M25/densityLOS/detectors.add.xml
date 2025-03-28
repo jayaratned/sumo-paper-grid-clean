@@ -1,0 +1,3 @@
+<additional>
+    <laneAreaDetector id="104359041_0_100m" lane="104359041_0" pos="100" endPos="200" period="300" file="output.xml"/>
+</additional>

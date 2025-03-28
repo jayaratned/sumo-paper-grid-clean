@@ -1,0 +1,28 @@
+<routes>
+    <vType id="car" maxSpeed="55.55" color="yellow"/>
+    <vType id="taxi" maxSpeed="55.55" color="red"/>
+
+    <!--flow from south west to north east starting from nothern and eastern edges-->
+    <flow id="flow_SWNE_N" from="A0A1" to="E3E4" type="car" begin="0" end="10800" period="15" departSpeed="desired"/>
+    <flow id="flow_SWNE_E" from="A0B0" to="D4E4" type="car" begin="0" end="10800" period="15" departSpeed="desired"/>
+
+    <!--flow from south east to north west starting from nothern and western edges-->
+    <flow id="flow_SENW_N" from="E0E1" to="A3A4" type="car" begin="0" end="10800" period="15" departSpeed="desired"/>
+    <flow id="flow_SENW_W" from="E0D0" to="B4A4" type="car" begin="0" end="10800" period="15" departSpeed="desired"/>
+
+    <!--flow from north west to south east starting from southern and eastern edges-->
+    <flow id="flow_NWSE_S" from="A4A3" to="E1E0" type="car" begin="0" end="10800" period="15" departSpeed="desired"/>
+    <flow id="flow_NWSE_E" from="A4B4" to="D0E0" type="car" begin="0" end="10800" period="15" departSpeed="desired"/>
+
+    <!--flow from north east to south west starting from southern and western edges-->
+    <flow id="flow_NESW_S" from="E4E3" to="A1A0" type="car" begin="0" end="10800" period="15" departSpeed="desired"/>
+    <flow id="flow_NESW_W" from="E4D4" to="B0A0" type="car" begin="0" end="10800" period="15" departSpeed="desired"/>
+
+    <!--taxi routes-->
+    <route id="taxi-anticlockwise" edges="D3C3 C3B3" />
+    <route id="taxi-clockwise" edges="D3D2 D2D1" />
+
+    <!--taxi flows-->
+    <!-- <flow id="flow_taxi-anticlockwise" route="taxi-anticlockwise" type="taxi" begin="0" number="3" period="60" departSpeed="desired"/> -->
+    <flow id="flow_taxi-clockwise" route="taxi-clockwise" type="taxi" begin="60" number="10" period="30" departSpeed="desired"/>
+</routes>

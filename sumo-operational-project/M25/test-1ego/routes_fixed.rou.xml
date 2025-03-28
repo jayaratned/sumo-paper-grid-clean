@@ -1,0 +1,396 @@
+<?xml version="1.0" ?>
+<routes>
+  <vType id="attack" maxSpeed="55.55" color="blue" />
+  <vType id="car" vClass="passenger" lcKeepRight="0.9" color="yellow"/>
+  <vType id="HGV" vClass="truck" maxSpeed="31.0" accel="1.3" decel="3.5" lcStrategic="0.2" lcCooperative="0.5" lcKeepRight="1.0" color="red"/>
+  <!-- <flow id="flow_52783895_to_682745311_car_0" type="car" begin="0" end="900" number="174" from="52783895" to="682745311" departSpeed="avg" departLane="free"/>
+  <flow id="flow_52783895_to_682745311_HGV_0" type="HGV" begin="0" end="900" number="33" from="52783895" to="682745311" departSpeed="avg"/>
+  <flow id="flow_4241669_to_682745311_car_0" type="car" begin="0" end="900" number="55" from="4241669" to="682745311" departSpeed="avg" departLane="free"/>
+  <flow id="flow_4241669_to_682745311_HGV_0" type="HGV" begin="0" end="900" number="11" from="4241669" to="682745311" departSpeed="avg"/>
+
+  <flow id="flow_52783895_to_682745311_car_900" type="car" begin="900" end="1800" number="194" from="52783895" to="682745311" departSpeed="avg" departLane="free"/>
+  <flow id="flow_52783895_to_682745311_HGV_900" type="HGV" begin="900" end="1800" number="37" from="52783895" to="682745311" departSpeed="avg"/>
+  <flow id="flow_4241669_to_682745311_car_900" type="car" begin="900" end="1800" number="48" from="4241669" to="682745311" departSpeed="avg" departLane="free"/>
+  <flow id="flow_4241669_to_682745311_HGV_900" type="HGV" begin="900" end="1800" number="10" from="4241669" to="682745311" departSpeed="avg"/>
+  <flow id="flow_52783895_to_682745311_car_1800" type="car" begin="1800" end="2700" number="170" from="52783895" to="682745311" departSpeed="avg" departLane="free"/>
+  <flow id="flow_52783895_to_682745311_HGV_1800" type="HGV" begin="1800" end="2700" number="33" from="52783895" to="682745311" departSpeed="avg"/>
+  <flow id="flow_4241669_to_682745311_car_1800" type="car" begin="1800" end="2700" number="65" from="4241669" to="682745311" departSpeed="avg" departLane="free"/>
+  <flow id="flow_4241669_to_682745311_HGV_1800" type="HGV" begin="1800" end="2700" number="13" from="4241669" to="682745311" departSpeed="avg"/>
+  <flow id="flow_52783895_to_682745311_car_2700" type="car" begin="2700" end="3600" number="169" from="52783895" to="682745311" departSpeed="avg" departLane="free"/>
+  <flow id="flow_52783895_to_682745311_HGV_2700" type="HGV" begin="2700" end="3600" number="32" from="52783895" to="682745311" departSpeed="avg"/>
+  <flow id="flow_4241669_to_682745311_car_2700" type="car" begin="2700" end="3600" number="55" from="4241669" to="682745311" departSpeed="avg" departLane="free"/>
+  <flow id="flow_4241669_to_682745311_HGV_2700" type="HGV" begin="2700" end="3600" number="11" from="4241669" to="682745311" departSpeed="avg"/>
+  <flow id="flow_52783895_to_682745311_car_3600" type="car" begin="3600" end="4500" number="162" from="52783895" to="682745311" departSpeed="avg" departLane="free"/>
+  <flow id="flow_52783895_to_682745311_HGV_3600" type="HGV" begin="3600" end="4500" number="31" from="52783895" to="682745311" departSpeed="avg"/>
+  <flow id="flow_4241669_to_682745311_car_3600" type="car" begin="3600" end="4500" number="49" from="4241669" to="682745311" departSpeed="avg" departLane="free"/>
+  <flow id="flow_4241669_to_682745311_HGV_3600" type="HGV" begin="3600" end="4500" number="10" from="4241669" to="682745311" departSpeed="avg"/>
+  <flow id="flow_52783895_to_682745311_car_4500" type="car" begin="4500" end="5400" number="121" from="52783895" to="682745311" departSpeed="avg" departLane="free"/>
+  <flow id="flow_52783895_to_682745311_HGV_4500" type="HGV" begin="4500" end="5400" number="23" from="52783895" to="682745311" departSpeed="avg"/>
+  <flow id="flow_4241669_to_682745311_car_4500" type="car" begin="4500" end="5400" number="38" from="4241669" to="682745311" departSpeed="avg" departLane="free"/>
+  <flow id="flow_4241669_to_682745311_HGV_4500" type="HGV" begin="4500" end="5400" number="8" from="4241669" to="682745311" departSpeed="avg"/>
+  <flow id="flow_52783895_to_682745311_car_5400" type="car" begin="5400" end="6300" number="115" from="52783895" to="682745311" departSpeed="avg" departLane="free"/>
+  <flow id="flow_52783895_to_682745311_HGV_5400" type="HGV" begin="5400" end="6300" number="22" from="52783895" to="682745311" departSpeed="avg"/>
+  <flow id="flow_4241669_to_682745311_car_5400" type="car" begin="5400" end="6300" number="45" from="4241669" to="682745311" departSpeed="avg" departLane="free"/>
+  <flow id="flow_4241669_to_682745311_HGV_5400" type="HGV" begin="5400" end="6300" number="9" from="4241669" to="682745311" departSpeed="avg"/>
+  <flow id="flow_52783895_to_682745311_car_6300" type="car" begin="6300" end="7200" number="91" from="52783895" to="682745311" departSpeed="avg" departLane="free"/>
+  <flow id="flow_52783895_to_682745311_HGV_6300" type="HGV" begin="6300" end="7200" number="18" from="52783895" to="682745311" departSpeed="avg"/>
+  <flow id="flow_4241669_to_682745311_car_6300" type="car" begin="6300" end="7200" number="46" from="4241669" to="682745311" departSpeed="avg" departLane="free"/>
+  <flow id="flow_4241669_to_682745311_HGV_6300" type="HGV" begin="6300" end="7200" number="9" from="4241669" to="682745311" departSpeed="avg"/>
+  <flow id="flow_52783895_to_682745311_car_7200" type="car" begin="7200" end="8100" number="111" from="52783895" to="682745311" departSpeed="avg" departLane="free"/>
+  <flow id="flow_52783895_to_682745311_HGV_7200" type="HGV" begin="7200" end="8100" number="22" from="52783895" to="682745311" departSpeed="avg"/>
+  <flow id="flow_4241669_to_682745311_car_7200" type="car" begin="7200" end="8100" number="48" from="4241669" to="682745311" departSpeed="avg" departLane="free"/>
+  <flow id="flow_4241669_to_682745311_HGV_7200" type="HGV" begin="7200" end="8100" number="10" from="4241669" to="682745311" departSpeed="avg"/>
+  <flow id="flow_52783895_to_682745311_car_8100" type="car" begin="8100" end="9000" number="118" from="52783895" to="682745311" departSpeed="avg" departLane="free"/>
+  <flow id="flow_52783895_to_682745311_HGV_8100" type="HGV" begin="8100" end="9000" number="23" from="52783895" to="682745311" departSpeed="avg"/>
+  <flow id="flow_4241669_to_682745311_car_8100" type="car" begin="8100" end="9000" number="47" from="4241669" to="682745311" departSpeed="avg" departLane="free"/>
+  <flow id="flow_4241669_to_682745311_HGV_8100" type="HGV" begin="8100" end="9000" number="10" from="4241669" to="682745311" departSpeed="avg"/>
+  <flow id="flow_52783895_to_682745311_car_9000" type="car" begin="9000" end="9900" number="137" from="52783895" to="682745311" departSpeed="avg" departLane="free"/>
+  <flow id="flow_52783895_to_682745311_HGV_9000" type="HGV" begin="9000" end="9900" number="26" from="52783895" to="682745311" departSpeed="avg"/>
+  <flow id="flow_4241669_to_682745311_car_9000" type="car" begin="9000" end="9900" number="42" from="4241669" to="682745311" departSpeed="avg" departLane="free"/>
+  <flow id="flow_4241669_to_682745311_HGV_9000" type="HGV" begin="9000" end="9900" number="8" from="4241669" to="682745311" departSpeed="avg"/>
+  <flow id="flow_52783895_to_682745311_car_9900" type="car" begin="9900" end="10800" number="146" from="52783895" to="682745311" departSpeed="avg" departLane="free"/>
+  <flow id="flow_52783895_to_682745311_HGV_9900" type="HGV" begin="9900" end="10800" number="28" from="52783895" to="682745311" departSpeed="avg"/>
+  <flow id="flow_4241669_to_682745311_car_9900" type="car" begin="9900" end="10800" number="47" from="4241669" to="682745311" departSpeed="avg" departLane="free"/>
+  <flow id="flow_4241669_to_682745311_HGV_9900" type="HGV" begin="9900" end="10800" number="10" from="4241669" to="682745311" departSpeed="avg"/>
+  <flow id="flow_52783895_to_682745311_car_10800" type="car" begin="10800" end="11700" number="143" from="52783895" to="682745311" departSpeed="avg" departLane="free"/>
+  <flow id="flow_52783895_to_682745311_HGV_10800" type="HGV" begin="10800" end="11700" number="28" from="52783895" to="682745311" departSpeed="avg"/>
+  <flow id="flow_4241669_to_682745311_car_10800" type="car" begin="10800" end="11700" number="50" from="4241669" to="682745311" departSpeed="avg" departLane="free"/>
+  <flow id="flow_4241669_to_682745311_HGV_10800" type="HGV" begin="10800" end="11700" number="10" from="4241669" to="682745311" departSpeed="avg"/>
+  <flow id="flow_52783895_to_682745311_car_11700" type="car" begin="11700" end="12600" number="168" from="52783895" to="682745311" departSpeed="avg" departLane="free"/>
+  <flow id="flow_52783895_to_682745311_HGV_11700" type="HGV" begin="11700" end="12600" number="32" from="52783895" to="682745311" departSpeed="avg"/>
+  <flow id="flow_4241669_to_682745311_car_11700" type="car" begin="11700" end="12600" number="58" from="4241669" to="682745311" departSpeed="avg" departLane="free"/>
+  <flow id="flow_4241669_to_682745311_HGV_11700" type="HGV" begin="11700" end="12600" number="11" from="4241669" to="682745311" departSpeed="avg"/>
+  <flow id="flow_52783895_to_682745311_car_12600" type="car" begin="12600" end="13500" number="145" from="52783895" to="682745311" departSpeed="avg" departLane="free"/>
+  <flow id="flow_52783895_to_682745311_HGV_12600" type="HGV" begin="12600" end="13500" number="28" from="52783895" to="682745311" departSpeed="avg"/>
+  <flow id="flow_4241669_to_682745311_car_12600" type="car" begin="12600" end="13500" number="50" from="4241669" to="682745311" departSpeed="avg" departLane="free"/>
+  <flow id="flow_4241669_to_682745311_HGV_12600" type="HGV" begin="12600" end="13500" number="10" from="4241669" to="682745311" departSpeed="avg"/>
+  <flow id="flow_52783895_to_682745311_car_13500" type="car" begin="13500" end="14400" number="158" from="52783895" to="682745311" departSpeed="avg" departLane="free"/>
+  <flow id="flow_52783895_to_682745311_HGV_13500" type="HGV" begin="13500" end="14400" number="30" from="52783895" to="682745311" departSpeed="avg"/>
+  <flow id="flow_4241669_to_682745311_car_13500" type="car" begin="13500" end="14400" number="64" from="4241669" to="682745311" departSpeed="avg" departLane="free"/>
+  <flow id="flow_4241669_to_682745311_HGV_13500" type="HGV" begin="13500" end="14400" number="13" from="4241669" to="682745311" departSpeed="avg"/>
+  <flow id="flow_52783895_to_682745311_car_14400" type="car" begin="14400" end="15300" number="165" from="52783895" to="682745311" departSpeed="avg" departLane="free"/>
+  <flow id="flow_52783895_to_682745311_HGV_14400" type="HGV" begin="14400" end="15300" number="32" from="52783895" to="682745311" departSpeed="avg"/>
+  <flow id="flow_4241669_to_682745311_car_14400" type="car" begin="14400" end="15300" number="59" from="4241669" to="682745311" departSpeed="avg" departLane="free"/>
+  <flow id="flow_4241669_to_682745311_HGV_14400" type="HGV" begin="14400" end="15300" number="12" from="4241669" to="682745311" departSpeed="avg"/>
+  <flow id="flow_52783895_to_682745311_car_15300" type="car" begin="15300" end="16200" number="194" from="52783895" to="682745311" departSpeed="avg" departLane="free"/>
+  <flow id="flow_52783895_to_682745311_HGV_15300" type="HGV" begin="15300" end="16200" number="37" from="52783895" to="682745311" departSpeed="avg"/>
+  <flow id="flow_4241669_to_682745311_car_15300" type="car" begin="15300" end="16200" number="63" from="4241669" to="682745311" departSpeed="avg" departLane="free"/>
+  <flow id="flow_4241669_to_682745311_HGV_15300" type="HGV" begin="15300" end="16200" number="12" from="4241669" to="682745311" departSpeed="avg"/>
+  <flow id="flow_52783895_to_682745311_car_16200" type="car" begin="16200" end="17100" number="178" from="52783895" to="682745311" departSpeed="avg" departLane="free"/>
+  <flow id="flow_52783895_to_682745311_HGV_16200" type="HGV" begin="16200" end="17100" number="34" from="52783895" to="682745311" departSpeed="avg"/>
+  <flow id="flow_4241669_to_682745311_car_16200" type="car" begin="16200" end="17100" number="58" from="4241669" to="682745311" departSpeed="avg" departLane="free"/>
+  <flow id="flow_4241669_to_682745311_HGV_16200" type="HGV" begin="16200" end="17100" number="12" from="4241669" to="682745311" departSpeed="avg"/>
+  <flow id="flow_52783895_to_682745311_car_17100" type="car" begin="17100" end="18000" number="227" from="52783895" to="682745311" departSpeed="avg" departLane="free"/>
+  <flow id="flow_52783895_to_682745311_HGV_17100" type="HGV" begin="17100" end="18000" number="43" from="52783895" to="682745311" departSpeed="avg"/>
+  <flow id="flow_4241669_to_682745311_car_17100" type="car" begin="17100" end="18000" number="68" from="4241669" to="682745311" departSpeed="avg" departLane="free"/>
+  <flow id="flow_4241669_to_682745311_HGV_17100" type="HGV" begin="17100" end="18000" number="13" from="4241669" to="682745311" departSpeed="avg"/>
+  <flow id="flow_52783895_to_682745311_car_18000" type="car" begin="18000" end="18900" number="280" from="52783895" to="682745311" departSpeed="avg" departLane="free"/>
+  <flow id="flow_52783895_to_682745311_HGV_18000" type="HGV" begin="18000" end="18900" number="54" from="52783895" to="682745311" departSpeed="avg"/>
+  <flow id="flow_4241669_to_682745311_car_18000" type="car" begin="18000" end="18900" number="80" from="4241669" to="682745311" departSpeed="avg" departLane="free"/>
+  <flow id="flow_4241669_to_682745311_HGV_18000" type="HGV" begin="18000" end="18900" number="16" from="4241669" to="682745311" departSpeed="avg"/>
+  <flow id="flow_52783895_to_682745311_car_18900" type="car" begin="18900" end="19800" number="278" from="52783895" to="682745311" departSpeed="avg" departLane="free"/>
+  <flow id="flow_52783895_to_682745311_HGV_18900" type="HGV" begin="18900" end="19800" number="53" from="52783895" to="682745311" departSpeed="avg"/>
+  <flow id="flow_4241669_to_682745311_car_18900" type="car" begin="18900" end="19800" number="77" from="4241669" to="682745311" departSpeed="avg" departLane="free"/>
+  <flow id="flow_4241669_to_682745311_HGV_18900" type="HGV" begin="18900" end="19800" number="15" from="4241669" to="682745311" departSpeed="avg"/>
+  <flow id="flow_52783895_to_682745311_car_19800" type="car" begin="19800" end="20700" number="354" from="52783895" to="682745311" departSpeed="avg" departLane="free"/>
+  <flow id="flow_52783895_to_682745311_HGV_19800" type="HGV" begin="19800" end="20700" number="67" from="52783895" to="682745311" departSpeed="avg"/>
+  <flow id="flow_4241669_to_682745311_car_19800" type="car" begin="19800" end="20700" number="98" from="4241669" to="682745311" departSpeed="avg" departLane="free"/>
+  <flow id="flow_4241669_to_682745311_HGV_19800" type="HGV" begin="19800" end="20700" number="19" from="4241669" to="682745311" departSpeed="avg"/>
+  <flow id="flow_52783895_to_682745311_car_20700" type="car" begin="20700" end="21600" number="416" from="52783895" to="682745311" departSpeed="avg" departLane="free"/>
+  <flow id="flow_52783895_to_682745311_HGV_20700" type="HGV" begin="20700" end="21600" number="79" from="52783895" to="682745311" departSpeed="avg"/>
+  <flow id="flow_4241669_to_682745311_car_20700" type="car" begin="20700" end="21600" number="105" from="4241669" to="682745311" departSpeed="avg" departLane="free"/>
+  <flow id="flow_4241669_to_682745311_HGV_20700" type="HGV" begin="20700" end="21600" number="20" from="4241669" to="682745311" departSpeed="avg"/>
+  <flow id="flow_52783895_to_682745311_car_21600" type="car" begin="21600" end="22500" number="487" from="52783895" to="682745311" departSpeed="avg" departLane="free"/>
+  <flow id="flow_52783895_to_682745311_HGV_21600" type="HGV" begin="21600" end="22500" number="93" from="52783895" to="682745311" departSpeed="avg"/>
+  <flow id="flow_4241669_to_682745311_car_21600" type="car" begin="21600" end="22500" number="117" from="4241669" to="682745311" departSpeed="avg" departLane="free"/>
+  <flow id="flow_4241669_to_682745311_HGV_21600" type="HGV" begin="21600" end="22500" number="23" from="4241669" to="682745311" departSpeed="avg"/>
+  <flow id="flow_52783895_to_682745311_car_22500" type="car" begin="22500" end="23400" number="604" from="52783895" to="682745311" departSpeed="avg" departLane="free"/>
+  <flow id="flow_52783895_to_682745311_HGV_22500" type="HGV" begin="22500" end="23400" number="114" from="52783895" to="682745311" departSpeed="avg"/>
+  <flow id="flow_4241669_to_682745311_car_22500" type="car" begin="22500" end="23400" number="153" from="4241669" to="682745311" departSpeed="avg" departLane="free"/>
+  <flow id="flow_4241669_to_682745311_HGV_22500" type="HGV" begin="22500" end="23400" number="29" from="4241669" to="682745311" departSpeed="avg"/>
+  <flow id="flow_52783895_to_682745311_car_23400" type="car" begin="23400" end="24300" number="735" from="52783895" to="682745311" departSpeed="avg" departLane="free"/>
+  <flow id="flow_52783895_to_682745311_HGV_23400" type="HGV" begin="23400" end="24300" number="139" from="52783895" to="682745311" departSpeed="avg"/>
+  <flow id="flow_4241669_to_682745311_car_23400" type="car" begin="23400" end="24300" number="138" from="4241669" to="682745311" departSpeed="avg" departLane="free"/>
+  <flow id="flow_4241669_to_682745311_HGV_23400" type="HGV" begin="23400" end="24300" number="27" from="4241669" to="682745311" departSpeed="avg"/>
+  <flow id="flow_52783895_to_682745311_car_24300" type="car" begin="24300" end="25200" number="737" from="52783895" to="682745311" departSpeed="avg" departLane="free"/>
+  <flow id="flow_52783895_to_682745311_HGV_24300" type="HGV" begin="24300" end="25200" number="140" from="52783895" to="682745311" departSpeed="avg"/>
+  <flow id="flow_4241669_to_682745311_car_24300" type="car" begin="24300" end="25200" number="142" from="4241669" to="682745311" departSpeed="avg" departLane="free"/>
+  <flow id="flow_4241669_to_682745311_HGV_24300" type="HGV" begin="24300" end="25200" number="27" from="4241669" to="682745311" departSpeed="avg"/>
+  <flow id="flow_52783895_to_682745311_car_25200" type="car" begin="25200" end="26100" number="763" from="52783895" to="682745311" departSpeed="avg" departLane="free"/>
+  <flow id="flow_52783895_to_682745311_HGV_25200" type="HGV" begin="25200" end="26100" number="145" from="52783895" to="682745311" departSpeed="avg"/>
+  <flow id="flow_4241669_to_682745311_car_25200" type="car" begin="25200" end="26100" number="152" from="4241669" to="682745311" departSpeed="avg" departLane="free"/>
+  <flow id="flow_4241669_to_682745311_HGV_25200" type="HGV" begin="25200" end="26100" number="29" from="4241669" to="682745311" departSpeed="avg"/>
+  <flow id="flow_52783895_to_682745311_car_26100" type="car" begin="26100" end="27000" number="789" from="52783895" to="682745311" departSpeed="avg" departLane="free"/>
+  <flow id="flow_52783895_to_682745311_HGV_26100" type="HGV" begin="26100" end="27000" number="149" from="52783895" to="682745311" departSpeed="avg"/>
+  <flow id="flow_4241669_to_682745311_car_26100" type="car" begin="26100" end="27000" number="129" from="4241669" to="682745311" departSpeed="avg" departLane="free"/>
+  <flow id="flow_4241669_to_682745311_HGV_26100" type="HGV" begin="26100" end="27000" number="25" from="4241669" to="682745311" departSpeed="avg"/>
+  <flow id="flow_52783895_to_682745311_car_27000" type="car" begin="27000" end="27900" number="770" from="52783895" to="682745311" departSpeed="avg" departLane="free"/>
+  <flow id="flow_52783895_to_682745311_HGV_27000" type="HGV" begin="27000" end="27900" number="146" from="52783895" to="682745311" departSpeed="avg"/>
+  <flow id="flow_4241669_to_682745311_car_27000" type="car" begin="27000" end="27900" number="134" from="4241669" to="682745311" departSpeed="avg" departLane="free"/>
+  <flow id="flow_4241669_to_682745311_HGV_27000" type="HGV" begin="27000" end="27900" number="26" from="4241669" to="682745311" departSpeed="avg"/>
+  <flow id="flow_52783895_to_682745311_car_27900" type="car" begin="27900" end="28800" number="743" from="52783895" to="682745311" departSpeed="avg" departLane="free"/>
+  <flow id="flow_52783895_to_682745311_HGV_27900" type="HGV" begin="27900" end="28800" number="141" from="52783895" to="682745311" departSpeed="avg"/>
+  <flow id="flow_4241669_to_682745311_car_27900" type="car" begin="27900" end="28800" number="149" from="4241669" to="682745311" departSpeed="avg" departLane="free"/>
+  <flow id="flow_4241669_to_682745311_HGV_27900" type="HGV" begin="27900" end="28800" number="29" from="4241669" to="682745311" departSpeed="avg"/>
+  <flow id="flow_52783895_to_682745311_car_28800" type="car" begin="28800" end="29700" number="618" from="52783895" to="682745311" departSpeed="avg" departLane="free"/>
+  <flow id="flow_52783895_to_682745311_HGV_28800" type="HGV" begin="28800" end="29700" number="117" from="52783895" to="682745311" departSpeed="avg"/>
+  <flow id="flow_4241669_to_682745311_car_28800" type="car" begin="28800" end="29700" number="152" from="4241669" to="682745311" departSpeed="avg" departLane="free"/>
+  <flow id="flow_4241669_to_682745311_HGV_28800" type="HGV" begin="28800" end="29700" number="29" from="4241669" to="682745311" departSpeed="avg"/>
+  <flow id="flow_52783895_to_682745311_car_29700" type="car" begin="29700" end="30600" number="488" from="52783895" to="682745311" departSpeed="avg" departLane="free"/>
+  <flow id="flow_52783895_to_682745311_HGV_29700" type="HGV" begin="29700" end="30600" number="93" from="52783895" to="682745311" departSpeed="avg"/>
+  <flow id="flow_4241669_to_682745311_car_29700" type="car" begin="29700" end="30600" number="174" from="4241669" to="682745311" departSpeed="avg" departLane="free"/>
+  <flow id="flow_4241669_to_682745311_HGV_29700" type="HGV" begin="29700" end="30600" number="34" from="4241669" to="682745311" departSpeed="avg"/>
+  <flow id="flow_52783895_to_682745311_car_30600" type="car" begin="30600" end="31500" number="582" from="52783895" to="682745311" departSpeed="avg" departLane="free"/>
+  <flow id="flow_52783895_to_682745311_HGV_30600" type="HGV" begin="30600" end="31500" number="111" from="52783895" to="682745311" departSpeed="avg"/>
+  <flow id="flow_4241669_to_682745311_car_30600" type="car" begin="30600" end="31500" number="180" from="4241669" to="682745311" departSpeed="avg" departLane="free"/>
+  <flow id="flow_4241669_to_682745311_HGV_30600" type="HGV" begin="30600" end="31500" number="34" from="4241669" to="682745311" departSpeed="avg"/>
+  <flow id="flow_52783895_to_682745311_car_31500" type="car" begin="31500" end="32400" number="818" from="52783895" to="682745311" departSpeed="avg" departLane="free"/>
+  <flow id="flow_52783895_to_682745311_HGV_31500" type="HGV" begin="31500" end="32400" number="155" from="52783895" to="682745311" departSpeed="avg"/>
+  <flow id="flow_4241669_to_682745311_car_31500" type="car" begin="31500" end="32400" number="154" from="4241669" to="682745311" departSpeed="avg" departLane="free"/>
+  <flow id="flow_4241669_to_682745311_HGV_31500" type="HGV" begin="31500" end="32400" number="30" from="4241669" to="682745311" departSpeed="avg"/>
+  <flow id="flow_52783895_to_682745311_car_32400" type="car" begin="32400" end="33300" number="812" from="52783895" to="682745311" departSpeed="avg" departLane="free"/>
+  <flow id="flow_52783895_to_682745311_HGV_32400" type="HGV" begin="32400" end="33300" number="154" from="52783895" to="682745311" departSpeed="avg"/>
+  <flow id="flow_4241669_to_682745311_car_32400" type="car" begin="32400" end="33300" number="166" from="4241669" to="682745311" departSpeed="avg" departLane="free"/>
+  <flow id="flow_4241669_to_682745311_HGV_32400" type="HGV" begin="32400" end="33300" number="32" from="4241669" to="682745311" departSpeed="avg"/>
+  <flow id="flow_52783895_to_682745311_car_33300" type="car" begin="33300" end="34200" number="752" from="52783895" to="682745311" departSpeed="avg" departLane="free"/>
+  <flow id="flow_52783895_to_682745311_HGV_33300" type="HGV" begin="33300" end="34200" number="142" from="52783895" to="682745311" departSpeed="avg"/>
+  <flow id="flow_4241669_to_682745311_car_33300" type="car" begin="33300" end="34200" number="148" from="4241669" to="682745311" departSpeed="avg" departLane="free"/>
+  <flow id="flow_4241669_to_682745311_HGV_33300" type="HGV" begin="33300" end="34200" number="28" from="4241669" to="682745311" departSpeed="avg"/>
+  <flow id="flow_52783895_to_682745311_car_34200" type="car" begin="34200" end="35100" number="725" from="52783895" to="682745311" departSpeed="avg" departLane="free"/>
+  <flow id="flow_52783895_to_682745311_HGV_34200" type="HGV" begin="34200" end="35100" number="137" from="52783895" to="682745311" departSpeed="avg"/>
+  <flow id="flow_4241669_to_682745311_car_34200" type="car" begin="34200" end="35100" number="173" from="4241669" to="682745311" departSpeed="avg" departLane="free"/>
+  <flow id="flow_4241669_to_682745311_HGV_34200" type="HGV" begin="34200" end="35100" number="33" from="4241669" to="682745311" departSpeed="avg"/>
+  <flow id="flow_52783895_to_682745311_car_35100" type="car" begin="35100" end="36000" number="815" from="52783895" to="682745311" departSpeed="avg" departLane="free"/>
+  <flow id="flow_52783895_to_682745311_HGV_35100" type="HGV" begin="35100" end="36000" number="154" from="52783895" to="682745311" departSpeed="avg"/>
+  <flow id="flow_4241669_to_682745311_car_35100" type="car" begin="35100" end="36000" number="170" from="4241669" to="682745311" departSpeed="avg" departLane="free"/>
+  <flow id="flow_4241669_to_682745311_HGV_35100" type="HGV" begin="35100" end="36000" number="33" from="4241669" to="682745311" departSpeed="avg"/>
+  <flow id="flow_52783895_to_682745311_car_36000" type="car" begin="36000" end="36900" number="735" from="52783895" to="682745311" departSpeed="avg" departLane="free"/>
+  <flow id="flow_52783895_to_682745311_HGV_36000" type="HGV" begin="36000" end="36900" number="139" from="52783895" to="682745311" departSpeed="avg"/>
+  <flow id="flow_4241669_to_682745311_car_36000" type="car" begin="36000" end="36900" number="190" from="4241669" to="682745311" departSpeed="avg" departLane="free"/>
+  <flow id="flow_4241669_to_682745311_HGV_36000" type="HGV" begin="36000" end="36900" number="36" from="4241669" to="682745311" departSpeed="avg"/>
+  <flow id="flow_52783895_to_682745311_car_36900" type="car" begin="36900" end="37800" number="806" from="52783895" to="682745311" departSpeed="avg" departLane="free"/>
+  <flow id="flow_52783895_to_682745311_HGV_36900" type="HGV" begin="36900" end="37800" number="153" from="52783895" to="682745311" departSpeed="avg"/>
+  <flow id="flow_4241669_to_682745311_car_36900" type="car" begin="36900" end="37800" number="180" from="4241669" to="682745311" departSpeed="avg" departLane="free"/>
+  <flow id="flow_4241669_to_682745311_HGV_36900" type="HGV" begin="36900" end="37800" number="35" from="4241669" to="682745311" departSpeed="avg"/>
+  <flow id="flow_52783895_to_682745311_car_37800" type="car" begin="37800" end="38700" number="850" from="52783895" to="682745311" departSpeed="avg" departLane="free"/>
+  <flow id="flow_52783895_to_682745311_HGV_37800" type="HGV" begin="37800" end="38700" number="161" from="52783895" to="682745311" departSpeed="avg"/>
+  <flow id="flow_4241669_to_682745311_car_37800" type="car" begin="37800" end="38700" number="180" from="4241669" to="682745311" departSpeed="avg" departLane="free"/>
+  <flow id="flow_4241669_to_682745311_HGV_37800" type="HGV" begin="37800" end="38700" number="35" from="4241669" to="682745311" departSpeed="avg"/>
+  <flow id="flow_52783895_to_682745311_car_38700" type="car" begin="38700" end="39600" number="874" from="52783895" to="682745311" departSpeed="avg" departLane="free"/>
+  <flow id="flow_52783895_to_682745311_HGV_38700" type="HGV" begin="38700" end="39600" number="165" from="52783895" to="682745311" departSpeed="avg"/>
+  <flow id="flow_4241669_to_682745311_car_38700" type="car" begin="38700" end="39600" number="187" from="4241669" to="682745311" departSpeed="avg" departLane="free"/>
+  <flow id="flow_4241669_to_682745311_HGV_38700" type="HGV" begin="38700" end="39600" number="36" from="4241669" to="682745311" departSpeed="avg"/>
+  <flow id="flow_52783895_to_682745311_car_39600" type="car" begin="39600" end="40500" number="921" from="52783895" to="682745311" departSpeed="avg" departLane="free"/>
+  <flow id="flow_52783895_to_682745311_HGV_39600" type="HGV" begin="39600" end="40500" number="174" from="52783895" to="682745311" departSpeed="avg"/>
+  <flow id="flow_4241669_to_682745311_car_39600" type="car" begin="39600" end="40500" number="182" from="4241669" to="682745311" departSpeed="avg" departLane="free"/>
+  <flow id="flow_4241669_to_682745311_HGV_39600" type="HGV" begin="39600" end="40500" number="35" from="4241669" to="682745311" departSpeed="avg"/>
+  <flow id="flow_52783895_to_682745311_car_40500" type="car" begin="40500" end="41400" number="887" from="52783895" to="682745311" departSpeed="avg" departLane="free"/>
+  <flow id="flow_52783895_to_682745311_HGV_40500" type="HGV" begin="40500" end="41400" number="168" from="52783895" to="682745311" departSpeed="avg"/>
+  <flow id="flow_4241669_to_682745311_car_40500" type="car" begin="40500" end="41400" number="196" from="4241669" to="682745311" departSpeed="avg" departLane="free"/>
+  <flow id="flow_4241669_to_682745311_HGV_40500" type="HGV" begin="40500" end="41400" number="37" from="4241669" to="682745311" departSpeed="avg"/>
+  <flow id="flow_52783895_to_682745311_car_41400" type="car" begin="41400" end="42300" number="863" from="52783895" to="682745311" departSpeed="avg" departLane="free"/>
+  <flow id="flow_52783895_to_682745311_HGV_41400" type="HGV" begin="41400" end="42300" number="163" from="52783895" to="682745311" departSpeed="avg"/>
+  <flow id="flow_4241669_to_682745311_car_41400" type="car" begin="41400" end="42300" number="177" from="4241669" to="682745311" departSpeed="avg" departLane="free"/>
+  <flow id="flow_4241669_to_682745311_HGV_41400" type="HGV" begin="41400" end="42300" number="34" from="4241669" to="682745311" departSpeed="avg"/>
+  <flow id="flow_52783895_to_682745311_car_42300" type="car" begin="42300" end="43200" number="861" from="52783895" to="682745311" departSpeed="avg" departLane="free"/>
+  <flow id="flow_52783895_to_682745311_HGV_42300" type="HGV" begin="42300" end="43200" number="163" from="52783895" to="682745311" departSpeed="avg"/>
+  <flow id="flow_4241669_to_682745311_car_42300" type="car" begin="42300" end="43200" number="185" from="4241669" to="682745311" departSpeed="avg" departLane="free"/>
+  <flow id="flow_4241669_to_682745311_HGV_42300" type="HGV" begin="42300" end="43200" number="35" from="4241669" to="682745311" departSpeed="avg"/>
+  <flow id="flow_52783895_to_682745311_car_43200" type="car" begin="43200" end="44100" number="853" from="52783895" to="682745311" departSpeed="avg" departLane="free"/>
+  <flow id="flow_52783895_to_682745311_HGV_43200" type="HGV" begin="43200" end="44100" number="161" from="52783895" to="682745311" departSpeed="avg"/>
+  <flow id="flow_4241669_to_682745311_car_43200" type="car" begin="43200" end="44100" number="187" from="4241669" to="682745311" departSpeed="avg" departLane="free"/>
+  <flow id="flow_4241669_to_682745311_HGV_43200" type="HGV" begin="43200" end="44100" number="36" from="4241669" to="682745311" departSpeed="avg"/>
+  <flow id="flow_52783895_to_682745311_car_44100" type="car" begin="44100" end="45000" number="887" from="52783895" to="682745311" departSpeed="avg" departLane="free"/>
+  <flow id="flow_52783895_to_682745311_HGV_44100" type="HGV" begin="44100" end="45000" number="168" from="52783895" to="682745311" departSpeed="avg"/>
+  <flow id="flow_4241669_to_682745311_car_44100" type="car" begin="44100" end="45000" number="223" from="4241669" to="682745311" departSpeed="avg" departLane="free"/>
+  <flow id="flow_4241669_to_682745311_HGV_44100" type="HGV" begin="44100" end="45000" number="43" from="4241669" to="682745311" departSpeed="avg"/>
+  <flow id="flow_52783895_to_682745311_car_45000" type="car" begin="45000" end="45900" number="936" from="52783895" to="682745311" departSpeed="avg" departLane="free"/>
+  <flow id="flow_52783895_to_682745311_HGV_45000" type="HGV" begin="45000" end="45900" number="177" from="52783895" to="682745311" departSpeed="avg"/>
+  <flow id="flow_4241669_to_682745311_car_45000" type="car" begin="45000" end="45900" number="195" from="4241669" to="682745311" departSpeed="avg" departLane="free"/>
+  <flow id="flow_4241669_to_682745311_HGV_45000" type="HGV" begin="45000" end="45900" number="37" from="4241669" to="682745311" departSpeed="avg"/>
+  <flow id="flow_52783895_to_682745311_car_45900" type="car" begin="45900" end="46800" number="906" from="52783895" to="682745311" departSpeed="avg" departLane="free"/>
+  <flow id="flow_52783895_to_682745311_HGV_45900" type="HGV" begin="45900" end="46800" number="171" from="52783895" to="682745311" departSpeed="avg"/>
+  <flow id="flow_4241669_to_682745311_car_45900" type="car" begin="45900" end="46800" number="213" from="4241669" to="682745311" departSpeed="avg" departLane="free"/>
+  <flow id="flow_4241669_to_682745311_HGV_45900" type="HGV" begin="45900" end="46800" number="41" from="4241669" to="682745311" departSpeed="avg"/>
+  <flow id="flow_52783895_to_682745311_car_46800" type="car" begin="46800" end="47700" number="924" from="52783895" to="682745311" departSpeed="avg" departLane="free"/>
+  <flow id="flow_52783895_to_682745311_HGV_46800" type="HGV" begin="46800" end="47700" number="175" from="52783895" to="682745311" departSpeed="avg"/>
+  <flow id="flow_4241669_to_682745311_car_46800" type="car" begin="46800" end="47700" number="201" from="4241669" to="682745311" departSpeed="avg" departLane="free"/>
+  <flow id="flow_4241669_to_682745311_HGV_46800" type="HGV" begin="46800" end="47700" number="38" from="4241669" to="682745311" departSpeed="avg"/>
+  <flow id="flow_52783895_to_682745311_car_47700" type="car" begin="47700" end="48600" number="935" from="52783895" to="682745311" departSpeed="avg" departLane="free"/>
+  <flow id="flow_52783895_to_682745311_HGV_47700" type="HGV" begin="47700" end="48600" number="177" from="52783895" to="682745311" departSpeed="avg"/>
+  <flow id="flow_4241669_to_682745311_car_47700" type="car" begin="47700" end="48600" number="211" from="4241669" to="682745311" departSpeed="avg" departLane="free"/>
+  <flow id="flow_4241669_to_682745311_HGV_47700" type="HGV" begin="47700" end="48600" number="41" from="4241669" to="682745311" departSpeed="avg"/>
+  <flow id="flow_52783895_to_682745311_car_48600" type="car" begin="48600" end="49500" number="935" from="52783895" to="682745311" departSpeed="avg" departLane="free"/>
+  <flow id="flow_52783895_to_682745311_HGV_48600" type="HGV" begin="48600" end="49500" number="177" from="52783895" to="682745311" departSpeed="avg"/>
+  <flow id="flow_4241669_to_682745311_car_48600" type="car" begin="48600" end="49500" number="217" from="4241669" to="682745311" departSpeed="avg" departLane="free"/>
+  <flow id="flow_4241669_to_682745311_HGV_48600" type="HGV" begin="48600" end="49500" number="42" from="4241669" to="682745311" departSpeed="avg"/>
+  <flow id="flow_52783895_to_682745311_car_49500" type="car" begin="49500" end="50400" number="921" from="52783895" to="682745311" departSpeed="avg" departLane="free"/>
+  <flow id="flow_52783895_to_682745311_HGV_49500" type="HGV" begin="49500" end="50400" number="174" from="52783895" to="682745311" departSpeed="avg"/>
+  <flow id="flow_4241669_to_682745311_car_49500" type="car" begin="49500" end="50400" number="207" from="4241669" to="682745311" departSpeed="avg" departLane="free"/>
+  <flow id="flow_4241669_to_682745311_HGV_49500" type="HGV" begin="49500" end="50400" number="40" from="4241669" to="682745311" departSpeed="avg"/>
+  <flow id="flow_52783895_to_682745311_car_50400" type="car" begin="50400" end="51300" number="1039" from="52783895" to="682745311" departSpeed="avg" departLane="free"/>
+  <flow id="flow_52783895_to_682745311_HGV_50400" type="HGV" begin="50400" end="51300" number="197" from="52783895" to="682745311" departSpeed="avg"/>
+  <flow id="flow_4241669_to_682745311_car_50400" type="car" begin="50400" end="51300" number="232" from="4241669" to="682745311" departSpeed="avg" departLane="free"/>
+  <flow id="flow_4241669_to_682745311_HGV_50400" type="HGV" begin="50400" end="51300" number="44" from="4241669" to="682745311" departSpeed="avg"/>
+  <flow id="flow_52783895_to_682745311_car_51300" type="car" begin="51300" end="52200" number="996" from="52783895" to="682745311" departSpeed="avg" departLane="free"/>
+  <flow id="flow_52783895_to_682745311_HGV_51300" type="HGV" begin="51300" end="52200" number="188" from="52783895" to="682745311" departSpeed="avg"/>
+  <flow id="flow_4241669_to_682745311_car_51300" type="car" begin="51300" end="52200" number="226" from="4241669" to="682745311" departSpeed="avg" departLane="free"/>
+  <flow id="flow_4241669_to_682745311_HGV_51300" type="HGV" begin="51300" end="52200" number="43" from="4241669" to="682745311" departSpeed="avg"/>
+  <flow id="flow_52783895_to_682745311_car_52200" type="car" begin="52200" end="53100" number="1004" from="52783895" to="682745311" departSpeed="avg" departLane="free"/>
+  <flow id="flow_52783895_to_682745311_HGV_52200" type="HGV" begin="52200" end="53100" number="190" from="52783895" to="682745311" departSpeed="avg"/>
+  <flow id="flow_4241669_to_682745311_car_52200" type="car" begin="52200" end="53100" number="236" from="4241669" to="682745311" departSpeed="avg" departLane="free"/>
+  <flow id="flow_4241669_to_682745311_HGV_52200" type="HGV" begin="52200" end="53100" number="45" from="4241669" to="682745311" departSpeed="avg"/> -->
+  <flow id="flow_52783895_to_682745311_car_53100" type="car" begin="53100" end="54000" number="1063" from="52783895" to="682745311" departSpeed="avg" departLane="free"/>
+  <flow id="flow_52783895_to_682745311_HGV_53100" type="HGV" begin="53100" end="54000" number="201" from="52783895" to="682745311" departSpeed="avg"/>
+  <flow id="flow_4241669_to_682745311_car_53100" type="car" begin="53100" end="54000" number="232" from="4241669" to="682745311" departSpeed="avg" departLane="free"/>
+  <flow id="flow_4241669_to_682745311_HGV_53100" type="HGV" begin="53100" end="54000" number="44" from="4241669" to="682745311" departSpeed="avg"/>
+
+  <flow id="flow_52783895_to_682745311_car_54000" type="car" begin="54000" end="54900" number="1027" from="52783895" to="682745311" departSpeed="avg" departLane="free"/>
+  <flow id="flow_52783895_to_682745311_HGV_54000" type="HGV" begin="54000" end="54900" number="194" from="52783895" to="682745311" departSpeed="avg"/>
+  <flow id="flow_4241669_to_682745311_car_54000" type="car" begin="54000" end="54900" number="229" from="4241669" to="682745311" departSpeed="avg" departLane="free"/>
+  <flow id="flow_4241669_to_682745311_HGV_54000" type="HGV" begin="54000" end="54900" number="44" from="4241669" to="682745311" departSpeed="avg"/>
+  <vehicle id="ego" type="attack" depart="54900" departLane="best" departSpeed="max">
+    <route edges="4241669 104359041 682745311" />
+  </vehicle>
+  <flow id="flow_52783895_to_682745311_car_54900" type="car" begin="54900" end="55800" number="805" from="52783895" to="682745311" departSpeed="avg" departLane="free"/>
+  <flow id="flow_52783895_to_682745311_HGV_54900" type="HGV" begin="54900" end="55800" number="153" from="52783895" to="682745311" departSpeed="avg"/>
+  <flow id="flow_4241669_to_682745311_car_54900" type="car" begin="54900" end="55800" number="280" from="4241669" to="682745311" departSpeed="avg" departLane="free"/>
+  <flow id="flow_4241669_to_682745311_HGV_54900" type="HGV" begin="54900" end="55800" number="54" from="4241669" to="682745311" departSpeed="avg"/>
+  <flow id="flow_52783895_to_682745311_car_55800" type="car" begin="55800" end="56700" number="950" from="52783895" to="682745311" departSpeed="avg" departLane="free"/>
+  <flow id="flow_52783895_to_682745311_HGV_55800" type="HGV" begin="55800" end="56700" number="180" from="52783895" to="682745311" departSpeed="avg"/>
+  <flow id="flow_4241669_to_682745311_car_55800" type="car" begin="55800" end="56700" number="286" from="4241669" to="682745311" departSpeed="avg" departLane="free"/>
+  <flow id="flow_4241669_to_682745311_HGV_55800" type="HGV" begin="55800" end="56700" number="55" from="4241669" to="682745311" departSpeed="avg"/>
+  <flow id="flow_52783895_to_682745311_car_56700" type="car" begin="56700" end="57600" number="928" from="52783895" to="682745311" departSpeed="avg" departLane="free"/>
+  <flow id="flow_52783895_to_682745311_HGV_56700" type="HGV" begin="56700" end="57600" number="176" from="52783895" to="682745311" departSpeed="avg"/>
+  <flow id="flow_4241669_to_682745311_car_56700" type="car" begin="56700" end="57600" number="269" from="4241669" to="682745311" departSpeed="avg" departLane="free"/>
+  <flow id="flow_4241669_to_682745311_HGV_56700" type="HGV" begin="56700" end="57600" number="51" from="4241669" to="682745311" departSpeed="avg"/>
+  <flow id="flow_52783895_to_682745311_car_57600" type="car" begin="57600" end="58500" number="985" from="52783895" to="682745311" departSpeed="avg" departLane="free"/>
+  <flow id="flow_52783895_to_682745311_HGV_57600" type="HGV" begin="57600" end="58500" number="186" from="52783895" to="682745311" departSpeed="avg"/>
+  <flow id="flow_4241669_to_682745311_car_57600" type="car" begin="57600" end="58500" number="283" from="4241669" to="682745311" departSpeed="avg" departLane="free"/>
+  <flow id="flow_4241669_to_682745311_HGV_57600" type="HGV" begin="57600" end="58500" number="54" from="4241669" to="682745311" departSpeed="avg"/>
+  <flow id="flow_52783895_to_682745311_car_58500" type="car" begin="58500" end="59400" number="983" from="52783895" to="682745311" departSpeed="avg" departLane="free"/>
+  <flow id="flow_52783895_to_682745311_HGV_58500" type="HGV" begin="58500" end="59400" number="186" from="52783895" to="682745311" departSpeed="avg"/>
+  <flow id="flow_4241669_to_682745311_car_58500" type="car" begin="58500" end="59400" number="254" from="4241669" to="682745311" departSpeed="avg" departLane="free"/>
+  <flow id="flow_4241669_to_682745311_HGV_58500" type="HGV" begin="58500" end="59400" number="49" from="4241669" to="682745311" departSpeed="avg"/>
+  <flow id="flow_52783895_to_682745311_car_59400" type="car" begin="59400" end="60300" number="991" from="52783895" to="682745311" departSpeed="avg" departLane="free"/>
+  <flow id="flow_52783895_to_682745311_HGV_59400" type="HGV" begin="59400" end="60300" number="188" from="52783895" to="682745311" departSpeed="avg"/>
+  <flow id="flow_4241669_to_682745311_car_59400" type="car" begin="59400" end="60300" number="234" from="4241669" to="682745311" departSpeed="avg" departLane="free"/>
+  <flow id="flow_4241669_to_682745311_HGV_59400" type="HGV" begin="59400" end="60300" number="45" from="4241669" to="682745311" departSpeed="avg"/>
+  <flow id="flow_52783895_to_682745311_car_60300" type="car" begin="60300" end="61200" number="997" from="52783895" to="682745311" departSpeed="avg" departLane="free"/>
+  <flow id="flow_52783895_to_682745311_HGV_60300" type="HGV" begin="60300" end="61200" number="189" from="52783895" to="682745311" departSpeed="avg"/>
+  <flow id="flow_4241669_to_682745311_car_60300" type="car" begin="60300" end="61200" number="221" from="4241669" to="682745311" departSpeed="avg" departLane="free"/>
+  <flow id="flow_4241669_to_682745311_HGV_60300" type="HGV" begin="60300" end="61200" number="42" from="4241669" to="682745311" departSpeed="avg"/>
+  <flow id="flow_52783895_to_682745311_car_61200" type="car" begin="61200" end="62100" number="991" from="52783895" to="682745311" departSpeed="avg" departLane="free"/>
+  <flow id="flow_52783895_to_682745311_HGV_61200" type="HGV" begin="61200" end="62100" number="188" from="52783895" to="682745311" departSpeed="avg"/>
+  <flow id="flow_4241669_to_682745311_car_61200" type="car" begin="61200" end="62100" number="230" from="4241669" to="682745311" departSpeed="avg" departLane="free"/>
+  <flow id="flow_4241669_to_682745311_HGV_61200" type="HGV" begin="61200" end="62100" number="44" from="4241669" to="682745311" departSpeed="avg"/>
+  <flow id="flow_52783895_to_682745311_car_62100" type="car" begin="62100" end="63000" number="1017" from="52783895" to="682745311" departSpeed="avg" departLane="free"/>
+  <flow id="flow_52783895_to_682745311_HGV_62100" type="HGV" begin="62100" end="63000" number="193" from="52783895" to="682745311" departSpeed="avg"/>
+  <flow id="flow_4241669_to_682745311_car_62100" type="car" begin="62100" end="63000" number="233" from="4241669" to="682745311" departSpeed="avg" departLane="free"/>
+  <flow id="flow_4241669_to_682745311_HGV_62100" type="HGV" begin="62100" end="63000" number="45" from="4241669" to="682745311" departSpeed="avg"/>
+<!--   
+  <flow id="flow_52783895_to_682745311_car_63000" type="car" begin="63000" end="63900" number="989" from="52783895" to="682745311" departSpeed="avg" departLane="free"/>
+  <flow id="flow_52783895_to_682745311_HGV_63000" type="HGV" begin="63000" end="63900" number="187" from="52783895" to="682745311" departSpeed="avg"/>
+  <flow id="flow_4241669_to_682745311_car_63000" type="car" begin="63000" end="63900" number="216" from="4241669" to="682745311" departSpeed="avg" departLane="free"/>
+  <flow id="flow_4241669_to_682745311_HGV_63000" type="HGV" begin="63000" end="63900" number="41" from="4241669" to="682745311" departSpeed="avg"/>
+  <flow id="flow_52783895_to_682745311_car_63900" type="car" begin="63900" end="64800" number="940" from="52783895" to="682745311" departSpeed="avg" departLane="free"/>
+  <flow id="flow_52783895_to_682745311_HGV_63900" type="HGV" begin="63900" end="64800" number="178" from="52783895" to="682745311" departSpeed="avg"/>
+  <flow id="flow_4241669_to_682745311_car_63900" type="car" begin="63900" end="64800" number="218" from="4241669" to="682745311" departSpeed="avg" departLane="free"/>
+  <flow id="flow_4241669_to_682745311_HGV_63900" type="HGV" begin="63900" end="64800" number="42" from="4241669" to="682745311" departSpeed="avg"/>
+  <flow id="flow_52783895_to_682745311_car_64800" type="car" begin="64800" end="65700" number="506" from="52783895" to="682745311" departSpeed="avg" departLane="free"/>
+  <flow id="flow_52783895_to_682745311_HGV_64800" type="HGV" begin="64800" end="65700" number="96" from="52783895" to="682745311" departSpeed="avg"/>
+  <flow id="flow_4241669_to_682745311_car_64800" type="car" begin="64800" end="65700" number="166" from="4241669" to="682745311" departSpeed="avg" departLane="free"/>
+  <flow id="flow_4241669_to_682745311_HGV_64800" type="HGV" begin="64800" end="65700" number="32" from="4241669" to="682745311" departSpeed="avg"/>
+  <flow id="flow_52783895_to_682745311_car_65700" type="car" begin="65700" end="66600" number="267" from="52783895" to="682745311" departSpeed="avg" departLane="free"/>
+  <flow id="flow_52783895_to_682745311_HGV_65700" type="HGV" begin="65700" end="66600" number="51" from="52783895" to="682745311" departSpeed="avg"/>
+  <flow id="flow_4241669_to_682745311_car_65700" type="car" begin="65700" end="66600" number="54" from="4241669" to="682745311" departSpeed="avg" departLane="free"/>
+  <flow id="flow_4241669_to_682745311_HGV_65700" type="HGV" begin="65700" end="66600" number="11" from="4241669" to="682745311" departSpeed="avg"/>
+  <flow id="flow_52783895_to_682745311_car_66600" type="car" begin="66600" end="67500" number="641" from="52783895" to="682745311" departSpeed="avg" departLane="free"/>
+  <flow id="flow_52783895_to_682745311_HGV_66600" type="HGV" begin="66600" end="67500" number="121" from="52783895" to="682745311" departSpeed="avg"/>
+  <flow id="flow_4241669_to_682745311_car_66600" type="car" begin="66600" end="67500" number="219" from="4241669" to="682745311" departSpeed="avg" departLane="free"/>
+  <flow id="flow_4241669_to_682745311_HGV_66600" type="HGV" begin="66600" end="67500" number="42" from="4241669" to="682745311" departSpeed="avg"/>
+  <flow id="flow_52783895_to_682745311_car_67500" type="car" begin="67500" end="68400" number="571" from="52783895" to="682745311" departSpeed="avg" departLane="free"/>
+  <flow id="flow_52783895_to_682745311_HGV_67500" type="HGV" begin="67500" end="68400" number="108" from="52783895" to="682745311" departSpeed="avg"/>
+  <flow id="flow_4241669_to_682745311_car_67500" type="car" begin="67500" end="68400" number="184" from="4241669" to="682745311" departSpeed="avg" departLane="free"/>
+  <flow id="flow_4241669_to_682745311_HGV_67500" type="HGV" begin="67500" end="68400" number="35" from="4241669" to="682745311" departSpeed="avg"/>
+  <flow id="flow_52783895_to_682745311_car_68400" type="car" begin="68400" end="69300" number="639" from="52783895" to="682745311" departSpeed="avg" departLane="free"/>
+  <flow id="flow_52783895_to_682745311_HGV_68400" type="HGV" begin="68400" end="69300" number="121" from="52783895" to="682745311" departSpeed="avg"/>
+  <flow id="flow_4241669_to_682745311_car_68400" type="car" begin="68400" end="69300" number="230" from="4241669" to="682745311" departSpeed="avg" departLane="free"/>
+  <flow id="flow_4241669_to_682745311_HGV_68400" type="HGV" begin="68400" end="69300" number="44" from="4241669" to="682745311" departSpeed="avg"/>
+  <flow id="flow_52783895_to_682745311_car_69300" type="car" begin="69300" end="70200" number="650" from="52783895" to="682745311" departSpeed="avg" departLane="free"/>
+  <flow id="flow_52783895_to_682745311_HGV_69300" type="HGV" begin="69300" end="70200" number="123" from="52783895" to="682745311" departSpeed="avg"/>
+  <flow id="flow_4241669_to_682745311_car_69300" type="car" begin="69300" end="70200" number="223" from="4241669" to="682745311" departSpeed="avg" departLane="free"/>
+  <flow id="flow_4241669_to_682745311_HGV_69300" type="HGV" begin="69300" end="70200" number="43" from="4241669" to="682745311" departSpeed="avg"/>
+  <flow id="flow_52783895_to_682745311_car_70200" type="car" begin="70200" end="71100" number="635" from="52783895" to="682745311" departSpeed="avg" departLane="free"/>
+  <flow id="flow_52783895_to_682745311_HGV_70200" type="HGV" begin="70200" end="71100" number="120" from="52783895" to="682745311" departSpeed="avg"/>
+  <flow id="flow_4241669_to_682745311_car_70200" type="car" begin="70200" end="71100" number="207" from="4241669" to="682745311" departSpeed="avg" departLane="free"/>
+  <flow id="flow_4241669_to_682745311_HGV_70200" type="HGV" begin="70200" end="71100" number="40" from="4241669" to="682745311" departSpeed="avg"/>
+  <flow id="flow_52783895_to_682745311_car_71100" type="car" begin="71100" end="72000" number="683" from="52783895" to="682745311" departSpeed="avg" departLane="free"/>
+  <flow id="flow_52783895_to_682745311_HGV_71100" type="HGV" begin="71100" end="72000" number="129" from="52783895" to="682745311" departSpeed="avg"/>
+  <flow id="flow_4241669_to_682745311_car_71100" type="car" begin="71100" end="72000" number="204" from="4241669" to="682745311" departSpeed="avg" departLane="free"/>
+  <flow id="flow_4241669_to_682745311_HGV_71100" type="HGV" begin="71100" end="72000" number="39" from="4241669" to="682745311" departSpeed="avg"/>
+  <flow id="flow_52783895_to_682745311_car_72000" type="car" begin="72000" end="72900" number="506" from="52783895" to="682745311" departSpeed="avg" departLane="free"/>
+  <flow id="flow_52783895_to_682745311_HGV_72000" type="HGV" begin="72000" end="72900" number="96" from="52783895" to="682745311" departSpeed="avg"/>
+  <flow id="flow_4241669_to_682745311_car_72000" type="car" begin="72000" end="72900" number="153" from="4241669" to="682745311" departSpeed="avg" departLane="free"/>
+  <flow id="flow_4241669_to_682745311_HGV_72000" type="HGV" begin="72000" end="72900" number="29" from="4241669" to="682745311" departSpeed="avg"/>
+  <flow id="flow_52783895_to_682745311_car_72900" type="car" begin="72900" end="73800" number="545" from="52783895" to="682745311" departSpeed="avg" departLane="free"/>
+  <flow id="flow_52783895_to_682745311_HGV_72900" type="HGV" begin="72900" end="73800" number="104" from="52783895" to="682745311" departSpeed="avg"/>
+  <flow id="flow_4241669_to_682745311_car_72900" type="car" begin="72900" end="73800" number="175" from="4241669" to="682745311" departSpeed="avg" departLane="free"/>
+  <flow id="flow_4241669_to_682745311_HGV_72900" type="HGV" begin="72900" end="73800" number="34" from="4241669" to="682745311" departSpeed="avg"/>
+  <flow id="flow_52783895_to_682745311_car_73800" type="car" begin="73800" end="74700" number="550" from="52783895" to="682745311" departSpeed="avg" departLane="free"/>
+  <flow id="flow_52783895_to_682745311_HGV_73800" type="HGV" begin="73800" end="74700" number="104" from="52783895" to="682745311" departSpeed="avg"/>
+  <flow id="flow_4241669_to_682745311_car_73800" type="car" begin="73800" end="74700" number="151" from="4241669" to="682745311" departSpeed="avg" departLane="free"/>
+  <flow id="flow_4241669_to_682745311_HGV_73800" type="HGV" begin="73800" end="74700" number="29" from="4241669" to="682745311" departSpeed="avg"/>
+  <flow id="flow_52783895_to_682745311_car_74700" type="car" begin="74700" end="75600" number="512" from="52783895" to="682745311" departSpeed="avg" departLane="free"/>
+  <flow id="flow_52783895_to_682745311_HGV_74700" type="HGV" begin="74700" end="75600" number="97" from="52783895" to="682745311" departSpeed="avg"/>
+  <flow id="flow_4241669_to_682745311_car_74700" type="car" begin="74700" end="75600" number="137" from="4241669" to="682745311" departSpeed="avg" departLane="free"/>
+  <flow id="flow_4241669_to_682745311_HGV_74700" type="HGV" begin="74700" end="75600" number="27" from="4241669" to="682745311" departSpeed="avg"/>
+  <flow id="flow_52783895_to_682745311_car_75600" type="car" begin="75600" end="76500" number="466" from="52783895" to="682745311" departSpeed="avg" departLane="free"/>
+  <flow id="flow_52783895_to_682745311_HGV_75600" type="HGV" begin="75600" end="76500" number="88" from="52783895" to="682745311" departSpeed="avg"/>
+  <flow id="flow_4241669_to_682745311_car_75600" type="car" begin="75600" end="76500" number="125" from="4241669" to="682745311" departSpeed="avg" departLane="free"/>
+  <flow id="flow_4241669_to_682745311_HGV_75600" type="HGV" begin="75600" end="76500" number="24" from="4241669" to="682745311" departSpeed="avg"/>
+  <flow id="flow_52783895_to_682745311_car_76500" type="car" begin="76500" end="77400" number="482" from="52783895" to="682745311" departSpeed="avg" departLane="free"/>
+  <flow id="flow_52783895_to_682745311_HGV_76500" type="HGV" begin="76500" end="77400" number="91" from="52783895" to="682745311" departSpeed="avg"/>
+  <flow id="flow_4241669_to_682745311_car_76500" type="car" begin="76500" end="77400" number="132" from="4241669" to="682745311" departSpeed="avg" departLane="free"/>
+  <flow id="flow_4241669_to_682745311_HGV_76500" type="HGV" begin="76500" end="77400" number="25" from="4241669" to="682745311" departSpeed="avg"/>
+  <flow id="flow_52783895_to_682745311_car_77400" type="car" begin="77400" end="78300" number="454" from="52783895" to="682745311" departSpeed="avg" departLane="free"/>
+  <flow id="flow_52783895_to_682745311_HGV_77400" type="HGV" begin="77400" end="78300" number="86" from="52783895" to="682745311" departSpeed="avg"/>
+  <flow id="flow_4241669_to_682745311_car_77400" type="car" begin="77400" end="78300" number="109" from="4241669" to="682745311" departSpeed="avg" departLane="free"/>
+  <flow id="flow_4241669_to_682745311_HGV_77400" type="HGV" begin="77400" end="78300" number="21" from="4241669" to="682745311" departSpeed="avg"/>
+  <flow id="flow_52783895_to_682745311_car_78300" type="car" begin="78300" end="79200" number="451" from="52783895" to="682745311" departSpeed="avg" departLane="free"/>
+  <flow id="flow_52783895_to_682745311_HGV_78300" type="HGV" begin="78300" end="79200" number="86" from="52783895" to="682745311" departSpeed="avg"/>
+  <flow id="flow_4241669_to_682745311_car_78300" type="car" begin="78300" end="79200" number="90" from="4241669" to="682745311" departSpeed="avg" departLane="free"/>
+  <flow id="flow_4241669_to_682745311_HGV_78300" type="HGV" begin="78300" end="79200" number="18" from="4241669" to="682745311" departSpeed="avg"/>
+  <flow id="flow_52783895_to_682745311_car_79200" type="car" begin="79200" end="80100" number="348" from="52783895" to="682745311" departSpeed="avg" departLane="free"/>
+  <flow id="flow_52783895_to_682745311_HGV_79200" type="HGV" begin="79200" end="80100" number="66" from="52783895" to="682745311" departSpeed="avg"/>
+  <flow id="flow_4241669_to_682745311_car_79200" type="car" begin="79200" end="80100" number="98" from="4241669" to="682745311" departSpeed="avg" departLane="free"/>
+  <flow id="flow_4241669_to_682745311_HGV_79200" type="HGV" begin="79200" end="80100" number="19" from="4241669" to="682745311" departSpeed="avg"/>
+  <flow id="flow_52783895_to_682745311_car_80100" type="car" begin="80100" end="81000" number="366" from="52783895" to="682745311" departSpeed="avg" departLane="free"/>
+  <flow id="flow_52783895_to_682745311_HGV_80100" type="HGV" begin="80100" end="81000" number="70" from="52783895" to="682745311" departSpeed="avg"/>
+  <flow id="flow_4241669_to_682745311_car_80100" type="car" begin="80100" end="81000" number="95" from="4241669" to="682745311" departSpeed="avg" departLane="free"/>
+  <flow id="flow_4241669_to_682745311_HGV_80100" type="HGV" begin="80100" end="81000" number="19" from="4241669" to="682745311" departSpeed="avg"/>
+  <flow id="flow_52783895_to_682745311_car_81000" type="car" begin="81000" end="81900" number="350" from="52783895" to="682745311" departSpeed="avg" departLane="free"/>
+  <flow id="flow_52783895_to_682745311_HGV_81000" type="HGV" begin="81000" end="81900" number="67" from="52783895" to="682745311" departSpeed="avg"/>
+  <flow id="flow_4241669_to_682745311_car_81000" type="car" begin="81000" end="81900" number="83" from="4241669" to="682745311" departSpeed="avg" departLane="free"/>
+  <flow id="flow_4241669_to_682745311_HGV_81000" type="HGV" begin="81000" end="81900" number="16" from="4241669" to="682745311" departSpeed="avg"/>
+  <flow id="flow_52783895_to_682745311_car_81900" type="car" begin="81900" end="82800" number="322" from="52783895" to="682745311" departSpeed="avg" departLane="free"/>
+  <flow id="flow_52783895_to_682745311_HGV_81900" type="HGV" begin="81900" end="82800" number="61" from="52783895" to="682745311" departSpeed="avg"/>
+  <flow id="flow_4241669_to_682745311_car_81900" type="car" begin="81900" end="82800" number="86" from="4241669" to="682745311" departSpeed="avg" departLane="free"/>
+  <flow id="flow_4241669_to_682745311_HGV_81900" type="HGV" begin="81900" end="82800" number="17" from="4241669" to="682745311" departSpeed="avg"/>
+  <flow id="flow_52783895_to_682745311_car_82800" type="car" begin="82800" end="83700" number="268" from="52783895" to="682745311" departSpeed="avg" departLane="free"/>
+  <flow id="flow_52783895_to_682745311_HGV_82800" type="HGV" begin="82800" end="83700" number="51" from="52783895" to="682745311" departSpeed="avg"/>
+  <flow id="flow_4241669_to_682745311_car_82800" type="car" begin="82800" end="83700" number="91" from="4241669" to="682745311" departSpeed="avg" departLane="free"/>
+  <flow id="flow_4241669_to_682745311_HGV_82800" type="HGV" begin="82800" end="83700" number="18" from="4241669" to="682745311" departSpeed="avg"/>
+  <flow id="flow_52783895_to_682745311_car_83700" type="car" begin="83700" end="84600" number="253" from="52783895" to="682745311" departSpeed="avg" departLane="free"/>
+  <flow id="flow_52783895_to_682745311_HGV_83700" type="HGV" begin="83700" end="84600" number="48" from="52783895" to="682745311" departSpeed="avg"/>
+  <flow id="flow_4241669_to_682745311_car_83700" type="car" begin="83700" end="84600" number="76" from="4241669" to="682745311" departSpeed="avg" departLane="free"/>
+  <flow id="flow_4241669_to_682745311_HGV_83700" type="HGV" begin="83700" end="84600" number="15" from="4241669" to="682745311" departSpeed="avg"/>
+  <flow id="flow_52783895_to_682745311_car_84600" type="car" begin="84600" end="85500" number="230" from="52783895" to="682745311" departSpeed="avg" departLane="free"/>
+  <flow id="flow_52783895_to_682745311_HGV_84600" type="HGV" begin="84600" end="85500" number="44" from="52783895" to="682745311" departSpeed="avg"/>
+  <flow id="flow_4241669_to_682745311_car_84600" type="car" begin="84600" end="85500" number="72" from="4241669" to="682745311" departSpeed="avg" departLane="free"/>
+  <flow id="flow_4241669_to_682745311_HGV_84600" type="HGV" begin="84600" end="85500" number="14" from="4241669" to="682745311" departSpeed="avg"/>
+  <flow id="flow_52783895_to_682745311_car_85500" type="car" begin="85500" end="86400" number="232" from="52783895" to="682745311" departSpeed="avg" departLane="free"/>
+  <flow id="flow_52783895_to_682745311_HGV_85500" type="HGV" begin="85500" end="86400" number="44" from="52783895" to="682745311" departSpeed="avg"/>
+  <flow id="flow_4241669_to_682745311_car_85500" type="car" begin="85500" end="86400" number="60" from="4241669" to="682745311" departSpeed="avg" departLane="free"/>
+  <flow id="flow_4241669_to_682745311_HGV_85500" type="HGV" begin="85500" end="86400" number="12" from="4241669" to="682745311" departSpeed="avg"/> -->
+</routes>

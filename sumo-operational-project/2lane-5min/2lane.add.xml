@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<additionals>
+    <e1Detector id="E1_0_50m" lane="E1_0" pos="50" freq="1" file="inductionout.xml"/>
+    <e1Detector id="E1_1_50m" lane="E1_1" pos="50" freq="1" file="inductionout.xml"/>
+</additionals>

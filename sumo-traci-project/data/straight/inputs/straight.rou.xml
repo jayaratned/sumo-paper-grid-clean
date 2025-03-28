@@ -1,0 +1,11 @@
+<routes>
+    <vType id="car" maxSpeed="55.55" color="yellow"/>
+    <vType id="taxi" maxSpeed="55.55" color="red"/>
+
+    <flow id="flowLR" from="E0" to="E8" type="car" begin="0" end="3600" probability="0.33" departSpeed="desired"/>
+    <flow id="flowRL" from="-E8" to="-E0" type="car" begin="0" end="3600" probability="0.33" departSpeed="desired"/>
+
+    <!--taxi flows-->
+    <flow id="flow_taxi-LR" from="E0" to="E8" type="taxi" begin="300" number="1" departSpeed="desired"/>
+    <!-- <flow id="flow_taxi-RL" from="-E8" to="-E0" type="taxi" begin="60" number="1" period="30" departSpeed="desired"/> -->
+</routes>

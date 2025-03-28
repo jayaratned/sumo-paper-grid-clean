@@ -1,0 +1,15 @@
+<additional>
+
+    <inductionLoop id="4241669_0" lane="4241669_0" period="10800" pos="100" file="output.xml"/>
+    <inductionLoop id="4241669_1" lane="4241669_1" period="10800" pos="100" file="output.xml"/>
+
+    <inductionLoop id="52783895_0" lane="52783895_0" period="10800" pos="100" file="output.xml"/>
+    <inductionLoop id="52783895_1" lane="52783895_1" period="10800" pos="100" file="output.xml"/>
+    <inductionLoop id="52783895_2" lane="52783895_2" period="10800" pos="100" file="output.xml"/>
+
+    <inductionLoop id="104359041_0_500m" lane="104359041_0" period="10800" pos="500" file="output.xml"/>
+    <inductionLoop id="104359041_1_500m" lane="104359041_1" period="10800" pos="500" file="output.xml"/>
+    <inductionLoop id="104359041_2_500m" lane="104359041_2" period="10800" pos="500" file="output.xml"/>
+    <inductionLoop id="104359041_3_500m" lane="104359041_3" period="10800" pos="500" file="output.xml"/>
+    
+</additional>

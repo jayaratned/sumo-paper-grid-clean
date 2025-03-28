@@ -1,0 +1,13 @@
+<routes>
+    <vType id="car" maxSpeed="55.55" color="yellow"/>
+    <vType id="attack" maxSpeed="55.55" color="red"/>
+
+    <flow id="traffic" from="E0" to="E2" type="car" begin="0" end="7200" vehsPerHour="3000" departSpeed="avg" departLane="best"/>
+    <vehicle id="ego" type="attack" depart="900" departLane="best" departSpeed="avg">
+        <route edges= "E0 E1 E2"/>
+    </vehicle>
+
+    <!--taxi flows-->
+    <!-- <flow id="flow_taxi-LR" from="E0" to="E8" type="taxi" begin="300" number="1" departSpeed="desired"/> -->
+    <!-- <flow id="flow_taxi-RL" from="-E8" to="-E0" type="taxi" begin="60" number="1" period="30" departSpeed="desired"/> -->
+</routes>

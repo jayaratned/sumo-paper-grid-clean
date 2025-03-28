@@ -1,0 +1,121 @@
+<routes>
+
+<route id="motorway" edges="E0 E1 E2" />
+
+<vType id="1" vClass="passenger" sigma="0.5" tau="1.0" probability="0.8" speedDev="0.2" color="#FFFF00" emergencyDecel="4.5"/>
+<vType id="2" vClass="passenger"  sigma="0.6" tau="0.9" probability="0.1" speedDev="0.4" color="#FFBF00" emergencyDecel="4.5"/>
+<vType id="3" vClass="passenger" sigma="0.4" tau="1.1" probability="0.1" speedDev="0.1" color="#FFD800" emergencyDecel="4.5"/>
+<vType id="type_ego" vClass="passenger" color="red"/>
+
+<vTypeDistribution id="dist" vTypes="1 2 3"/>
+
+
+<!-- <vTypeDistribution id="passengercar">
+		<vType id="passengercar0" tau="1.025" sigma="0.401" decel="4.215" accel="2.402" speedFactor="0.866" emergencyDecel="4.500" apparentDecel="4.869" vClass="passenger" carFollowModel="Krauss" probability="0.010"/>
+		<vType id="passengercar1" tau="0.968" sigma="0.736" decel="4.134" accel="2.537" speedFactor="0.969" emergencyDecel="4.500" apparentDecel="3.530" vClass="passenger" carFollowModel="Krauss" probability="0.010"/>
+		<vType id="passengercar2" tau="0.905" sigma="0.573" decel="4.180" accel="2.565" speedFactor="0.914" emergencyDecel="4.500" apparentDecel="4.155" vClass="passenger" carFollowModel="Krauss" probability="0.010"/>
+		<vType id="passengercar3" tau="0.957" sigma="0.688" decel="4.360" accel="2.446" speedFactor="1.129" emergencyDecel="4.500" apparentDecel="4.710" vClass="passenger" carFollowModel="Krauss" probability="0.010"/>
+		<vType id="passengercar4" tau="0.978" sigma="0.141" decel="4.467" accel="2.567" speedFactor="0.877" emergencyDecel="4.500" apparentDecel="3.411" vClass="passenger" carFollowModel="Krauss" probability="0.010"/>
+		<vType id="passengercar5" tau="0.828" sigma="0.675" decel="4.250" accel="2.404" speedFactor="1.144" emergencyDecel="4.500" apparentDecel="4.489" vClass="passenger" carFollowModel="Krauss" probability="0.010"/>
+		<vType id="passengercar6" tau="1.102" sigma="0.430" decel="4.381" accel="2.491" speedFactor="1.067" emergencyDecel="4.500" apparentDecel="4.125" vClass="passenger" carFollowModel="Krauss" probability="0.010"/>
+		<vType id="passengercar7" tau="0.926" sigma="0.456" decel="4.040" accel="2.433" speedFactor="0.981" emergencyDecel="4.500" apparentDecel="3.002" vClass="passenger" carFollowModel="Krauss" probability="0.010"/>
+		<vType id="passengercar8" tau="0.864" sigma="0.387" decel="4.196" accel="2.565" speedFactor="0.857" emergencyDecel="4.500" apparentDecel="3.877" vClass="passenger" carFollowModel="Krauss" probability="0.010"/>
+		<vType id="passengercar9" tau="1.120" sigma="0.449" decel="4.456" accel="2.404" speedFactor="1.063" emergencyDecel="4.500" apparentDecel="3.648" vClass="passenger" carFollowModel="Krauss" probability="0.010"/>
+		<vType id="passengercar10" tau="1.009" sigma="0.644" decel="4.242" accel="2.482" speedFactor="1.073" emergencyDecel="4.500" apparentDecel="4.170" vClass="passenger" carFollowModel="Krauss" probability="0.010"/>
+		<vType id="passengercar11" tau="0.916" sigma="0.557" decel="4.258" accel="2.412" speedFactor="0.997" emergencyDecel="4.500" apparentDecel="4.444" vClass="passenger" carFollowModel="Krauss" probability="0.010"/>
+		<vType id="passengercar12" tau="1.043" sigma="0.433" decel="4.400" accel="2.426" speedFactor="1.184" emergencyDecel="4.500" apparentDecel="3.365" vClass="passenger" carFollowModel="Krauss" probability="0.010"/>
+		<vType id="passengercar13" tau="0.865" sigma="0.314" decel="4.184" accel="2.578" speedFactor="0.902" emergencyDecel="4.500" apparentDecel="4.234" vClass="passenger" carFollowModel="Krauss" probability="0.010"/>
+		<vType id="passengercar14" tau="1.031" sigma="0.458" decel="4.205" accel="2.532" speedFactor="1.075" emergencyDecel="4.500" apparentDecel="4.762" vClass="passenger" carFollowModel="Krauss" probability="0.010"/>
+		<vType id="passengercar15" tau="1.137" sigma="0.362" decel="4.467" accel="2.452" speedFactor="1.015" emergencyDecel="4.500" apparentDecel="4.364" vClass="passenger" carFollowModel="Krauss" probability="0.010"/>
+		<vType id="passengercar16" tau="1.055" sigma="0.480" decel="4.414" accel="2.540" speedFactor="0.862" emergencyDecel="4.500" apparentDecel="4.286" vClass="passenger" carFollowModel="Krauss" probability="0.010"/>
+		<vType id="passengercar17" tau="1.037" sigma="0.407" decel="4.309" accel="2.475" speedFactor="1.184" emergencyDecel="4.500" apparentDecel="2.950" vClass="passenger" carFollowModel="Krauss" probability="0.010"/>
+		<vType id="passengercar18" tau="1.054" sigma="0.389" decel="4.191" accel="2.424" speedFactor="1.043" emergencyDecel="4.500" apparentDecel="4.248" vClass="passenger" carFollowModel="Krauss" probability="0.010"/>
+		<vType id="passengercar19" tau="0.987" sigma="0.407" decel="4.403" accel="2.534" speedFactor="1.176" emergencyDecel="4.500" apparentDecel="3.583" vClass="passenger" carFollowModel="Krauss" probability="0.010"/>
+		<vType id="passengercar20" tau="0.960" sigma="0.155" decel="4.247" accel="2.503" speedFactor="1.025" emergencyDecel="4.500" apparentDecel="5.639" vClass="passenger" carFollowModel="Krauss" probability="0.010"/>
+		<vType id="passengercar21" tau="1.173" sigma="0.652" decel="4.235" accel="2.595" speedFactor="1.160" emergencyDecel="4.500" apparentDecel="3.493" vClass="passenger" carFollowModel="Krauss" probability="0.010"/>
+		<vType id="passengercar22" tau="0.942" sigma="0.516" decel="4.345" accel="2.465" speedFactor="1.064" emergencyDecel="4.500" apparentDecel="3.280" vClass="passenger" carFollowModel="Krauss" probability="0.010"/>
+		<vType id="passengercar23" tau="1.047" sigma="0.294" decel="4.112" accel="2.520" speedFactor="0.977" emergencyDecel="4.500" apparentDecel="3.943" vClass="passenger" carFollowModel="Krauss" probability="0.010"/>
+		<vType id="passengercar24" tau="0.912" sigma="0.461" decel="4.234" accel="2.522" speedFactor="1.017" emergencyDecel="4.500" apparentDecel="3.420" vClass="passenger" carFollowModel="Krauss" probability="0.010"/>
+		<vType id="passengercar25" tau="0.876" sigma="0.353" decel="4.430" accel="2.454" speedFactor="1.128" emergencyDecel="4.500" apparentDecel="4.734" vClass="passenger" carFollowModel="Krauss" probability="0.010"/>
+		<vType id="passengercar26" tau="0.855" sigma="0.596" decel="4.000" accel="2.540" speedFactor="1.061" emergencyDecel="4.500" apparentDecel="4.008" vClass="passenger" carFollowModel="Krauss" probability="0.010"/>
+		<vType id="passengercar27" tau="1.136" sigma="0.626" decel="4.282" accel="2.459" speedFactor="1.069" emergencyDecel="4.500" apparentDecel="3.893" vClass="passenger" carFollowModel="Krauss" probability="0.010"/>
+		<vType id="passengercar28" tau="1.074" sigma="0.011" decel="4.369" accel="2.492" speedFactor="1.085" emergencyDecel="4.500" apparentDecel="3.552" vClass="passenger" carFollowModel="Krauss" probability="0.010"/>
+		<vType id="passengercar29" tau="1.047" sigma="0.553" decel="4.273" accel="2.563" speedFactor="1.195" emergencyDecel="4.500" apparentDecel="3.758" vClass="passenger" carFollowModel="Krauss" probability="0.010"/>
+		<vType id="passengercar30" tau="0.940" sigma="0.552" decel="4.078" accel="2.490" speedFactor="1.017" emergencyDecel="4.500" apparentDecel="3.660" vClass="passenger" carFollowModel="Krauss" probability="0.010"/>
+		<vType id="passengercar31" tau="1.008" sigma="0.578" decel="4.227" accel="2.592" speedFactor="1.131" emergencyDecel="4.500" apparentDecel="4.576" vClass="passenger" carFollowModel="Krauss" probability="0.010"/>
+		<vType id="passengercar32" tau="1.064" sigma="0.514" decel="4.074" accel="2.553" speedFactor="0.973" emergencyDecel="4.500" apparentDecel="4.163" vClass="passenger" carFollowModel="Krauss" probability="0.010"/>
+		<vType id="passengercar33" tau="1.023" sigma="0.186" decel="4.409" accel="2.472" speedFactor="0.934" emergencyDecel="4.500" apparentDecel="4.496" vClass="passenger" carFollowModel="Krauss" probability="0.010"/>
+		<vType id="passengercar34" tau="0.959" sigma="0.716" decel="4.247" accel="2.459" speedFactor="1.181" emergencyDecel="4.500" apparentDecel="3.927" vClass="passenger" carFollowModel="Krauss" probability="0.010"/>
+		<vType id="passengercar35" tau="1.087" sigma="0.580" decel="4.246" accel="2.461" speedFactor="0.909" emergencyDecel="4.500" apparentDecel="4.598" vClass="passenger" carFollowModel="Krauss" probability="0.010"/>
+		<vType id="passengercar36" tau="0.989" sigma="0.432" decel="4.281" accel="2.416" speedFactor="1.030" emergencyDecel="4.500" apparentDecel="4.123" vClass="passenger" carFollowModel="Krauss" probability="0.010"/>
+		<vType id="passengercar37" tau="0.870" sigma="0.520" decel="4.231" accel="2.576" speedFactor="1.129" emergencyDecel="4.500" apparentDecel="4.736" vClass="passenger" carFollowModel="Krauss" probability="0.010"/>
+		<vType id="passengercar38" tau="0.817" sigma="0.056" decel="4.268" accel="2.447" speedFactor="1.096" emergencyDecel="4.500" apparentDecel="4.051" vClass="passenger" carFollowModel="Krauss" probability="0.010"/>
+		<vType id="passengercar39" tau="1.020" sigma="0.477" decel="4.290" accel="2.587" speedFactor="1.116" emergencyDecel="4.500" apparentDecel="4.323" vClass="passenger" carFollowModel="Krauss" probability="0.010"/>
+		<vType id="passengercar40" tau="1.031" sigma="0.160" decel="4.025" accel="2.470" speedFactor="0.987" emergencyDecel="4.500" apparentDecel="3.352" vClass="passenger" carFollowModel="Krauss" probability="0.010"/>
+		<vType id="passengercar41" tau="1.055" sigma="0.835" decel="4.108" accel="2.436" speedFactor="1.183" emergencyDecel="4.500" apparentDecel="3.581" vClass="passenger" carFollowModel="Krauss" probability="0.010"/>
+		<vType id="passengercar42" tau="0.996" sigma="0.558" decel="4.027" accel="2.494" speedFactor="1.157" emergencyDecel="4.500" apparentDecel="4.309" vClass="passenger" carFollowModel="Krauss" probability="0.010"/>
+		<vType id="passengercar43" tau="1.109" sigma="0.838" decel="4.341" accel="2.476" speedFactor="1.188" emergencyDecel="4.500" apparentDecel="3.304" vClass="passenger" carFollowModel="Krauss" probability="0.010"/>
+		<vType id="passengercar44" tau="0.936" sigma="0.974" decel="4.403" accel="2.576" speedFactor="1.037" emergencyDecel="4.500" apparentDecel="3.450" vClass="passenger" carFollowModel="Krauss" probability="0.010"/>
+		<vType id="passengercar45" tau="0.976" sigma="0.642" decel="4.031" accel="2.449" speedFactor="0.985" emergencyDecel="4.500" apparentDecel="3.669" vClass="passenger" carFollowModel="Krauss" probability="0.010"/>
+		<vType id="passengercar46" tau="0.886" sigma="0.728" decel="4.373" accel="2.484" speedFactor="1.094" emergencyDecel="4.500" apparentDecel="3.800" vClass="passenger" carFollowModel="Krauss" probability="0.010"/>
+		<vType id="passengercar47" tau="1.344" sigma="0.419" decel="4.098" accel="2.578" speedFactor="1.134" emergencyDecel="4.500" apparentDecel="4.325" vClass="passenger" carFollowModel="Krauss" probability="0.010"/>
+		<vType id="passengercar48" tau="0.853" sigma="0.372" decel="4.486" accel="2.430" speedFactor="0.996" emergencyDecel="4.500" apparentDecel="4.142" vClass="passenger" carFollowModel="Krauss" probability="0.010"/>
+		<vType id="passengercar49" tau="0.934" sigma="0.675" decel="4.451" accel="2.598" speedFactor="0.830" emergencyDecel="4.500" apparentDecel="4.034" vClass="passenger" carFollowModel="Krauss" probability="0.010"/>
+		<vType id="passengercar50" tau="0.994" sigma="0.625" decel="4.376" accel="2.510" speedFactor="1.140" emergencyDecel="4.500" apparentDecel="5.176" vClass="passenger" carFollowModel="Krauss" probability="0.010"/>
+		<vType id="passengercar51" tau="1.112" sigma="0.597" decel="4.223" accel="2.449" speedFactor="1.068" emergencyDecel="4.500" apparentDecel="3.812" vClass="passenger" carFollowModel="Krauss" probability="0.010"/>
+		<vType id="passengercar52" tau="0.975" sigma="0.741" decel="4.335" accel="2.467" speedFactor="0.950" emergencyDecel="4.500" apparentDecel="4.133" vClass="passenger" carFollowModel="Krauss" probability="0.010"/>
+		<vType id="passengercar53" tau="1.017" sigma="0.569" decel="4.011" accel="2.566" speedFactor="1.150" emergencyDecel="4.500" apparentDecel="3.757" vClass="passenger" carFollowModel="Krauss" probability="0.010"/>
+		<vType id="passengercar54" tau="1.050" sigma="0.793" decel="4.200" accel="2.524" speedFactor="1.058" emergencyDecel="4.500" apparentDecel="3.600" vClass="passenger" carFollowModel="Krauss" probability="0.010"/>
+		<vType id="passengercar55" tau="1.110" sigma="0.192" decel="4.353" accel="2.554" speedFactor="1.073" emergencyDecel="4.500" apparentDecel="4.247" vClass="passenger" carFollowModel="Krauss" probability="0.010"/>
+		<vType id="passengercar56" tau="0.983" sigma="0.619" decel="4.325" accel="2.455" speedFactor="0.985" emergencyDecel="4.500" apparentDecel="3.688" vClass="passenger" carFollowModel="Krauss" probability="0.010"/>
+		<vType id="passengercar57" tau="0.910" sigma="0.640" decel="4.326" accel="2.562" speedFactor="1.164" emergencyDecel="4.500" apparentDecel="3.870" vClass="passenger" carFollowModel="Krauss" probability="0.010"/>
+		<vType id="passengercar58" tau="0.959" sigma="0.267" decel="4.427" accel="2.424" speedFactor="1.165" emergencyDecel="4.500" apparentDecel="4.463" vClass="passenger" carFollowModel="Krauss" probability="0.010"/>
+		<vType id="passengercar59" tau="1.182" sigma="0.269" decel="4.326" accel="2.526" speedFactor="0.834" emergencyDecel="4.500" apparentDecel="3.767" vClass="passenger" carFollowModel="Krauss" probability="0.010"/>
+		<vType id="passengercar60" tau="0.845" sigma="0.381" decel="4.256" accel="2.545" speedFactor="0.983" emergencyDecel="4.500" apparentDecel="3.530" vClass="passenger" carFollowModel="Krauss" probability="0.010"/>
+		<vType id="passengercar61" tau="1.001" sigma="0.346" decel="4.196" accel="2.407" speedFactor="0.974" emergencyDecel="4.500" apparentDecel="3.655" vClass="passenger" carFollowModel="Krauss" probability="0.010"/>
+		<vType id="passengercar62" tau="1.141" sigma="0.585" decel="4.079" accel="2.405" speedFactor="1.008" emergencyDecel="4.500" apparentDecel="4.544" vClass="passenger" carFollowModel="Krauss" probability="0.010"/>
+		<vType id="passengercar63" tau="0.898" sigma="0.826" decel="4.418" accel="2.543" speedFactor="1.026" emergencyDecel="4.500" apparentDecel="3.651" vClass="passenger" carFollowModel="Krauss" probability="0.010"/>
+		<vType id="passengercar64" tau="1.149" sigma="0.391" decel="4.381" accel="2.475" speedFactor="1.064" emergencyDecel="4.500" apparentDecel="4.198" vClass="passenger" carFollowModel="Krauss" probability="0.010"/>
+		<vType id="passengercar65" tau="0.987" sigma="0.655" decel="4.271" accel="2.600" speedFactor="1.082" emergencyDecel="4.500" apparentDecel="3.786" vClass="passenger" carFollowModel="Krauss" probability="0.010"/>
+		<vType id="passengercar66" tau="1.060" sigma="0.261" decel="4.461" accel="2.562" speedFactor="0.926" emergencyDecel="4.500" apparentDecel="3.867" vClass="passenger" carFollowModel="Krauss" probability="0.010"/>
+		<vType id="passengercar67" tau="0.846" sigma="0.456" decel="4.032" accel="2.491" speedFactor="0.906" emergencyDecel="4.500" apparentDecel="4.637" vClass="passenger" carFollowModel="Krauss" probability="0.010"/>
+		<vType id="passengercar68" tau="1.083" sigma="0.313" decel="4.160" accel="2.433" speedFactor="1.083" emergencyDecel="4.500" apparentDecel="4.862" vClass="passenger" carFollowModel="Krauss" probability="0.010"/>
+		<vType id="passengercar69" tau="0.948" sigma="0.437" decel="4.059" accel="2.531" speedFactor="1.118" emergencyDecel="4.500" apparentDecel="3.823" vClass="passenger" carFollowModel="Krauss" probability="0.010"/>
+		<vType id="passengercar70" tau="1.076" sigma="0.715" decel="4.175" accel="2.542" speedFactor="1.060" emergencyDecel="4.500" apparentDecel="4.599" vClass="passenger" carFollowModel="Krauss" probability="0.010"/>
+		<vType id="passengercar71" tau="0.990" sigma="0.985" decel="4.275" accel="2.554" speedFactor="0.876" emergencyDecel="4.500" apparentDecel="4.470" vClass="passenger" carFollowModel="Krauss" probability="0.010"/>
+		<vType id="passengercar72" tau="0.898" sigma="0.721" decel="4.236" accel="2.517" speedFactor="1.185" emergencyDecel="4.500" apparentDecel="4.495" vClass="passenger" carFollowModel="Krauss" probability="0.010"/>
+		<vType id="passengercar73" tau="1.011" sigma="0.333" decel="4.148" accel="2.473" speedFactor="0.864" emergencyDecel="4.500" apparentDecel="3.219" vClass="passenger" carFollowModel="Krauss" probability="0.010"/>
+		<vType id="passengercar74" tau="0.963" sigma="0.558" decel="4.018" accel="2.527" speedFactor="1.000" emergencyDecel="4.500" apparentDecel="3.758" vClass="passenger" carFollowModel="Krauss" probability="0.010"/>
+		<vType id="passengercar75" tau="1.081" sigma="0.412" decel="4.112" accel="2.498" speedFactor="1.044" emergencyDecel="4.500" apparentDecel="4.333" vClass="passenger" carFollowModel="Krauss" probability="0.010"/>
+		<vType id="passengercar76" tau="1.209" sigma="0.705" decel="4.047" accel="2.523" speedFactor="0.894" emergencyDecel="4.500" apparentDecel="4.095" vClass="passenger" carFollowModel="Krauss" probability="0.010"/>
+		<vType id="passengercar77" tau="0.973" sigma="0.063" decel="4.072" accel="2.510" speedFactor="0.955" emergencyDecel="4.500" apparentDecel="4.003" vClass="passenger" carFollowModel="Krauss" probability="0.010"/>
+		<vType id="passengercar78" tau="1.097" sigma="0.729" decel="4.406" accel="2.557" speedFactor="1.021" emergencyDecel="4.500" apparentDecel="3.995" vClass="passenger" carFollowModel="Krauss" probability="0.010"/>
+		<vType id="passengercar79" tau="0.985" sigma="0.590" decel="4.200" accel="2.449" speedFactor="0.984" emergencyDecel="4.500" apparentDecel="3.735" vClass="passenger" carFollowModel="Krauss" probability="0.010"/>
+		<vType id="passengercar80" tau="0.903" sigma="0.397" decel="4.033" accel="2.519" speedFactor="1.110" emergencyDecel="4.500" apparentDecel="4.772" vClass="passenger" carFollowModel="Krauss" probability="0.010"/>
+		<vType id="passengercar81" tau="0.973" sigma="0.485" decel="4.375" accel="2.541" speedFactor="0.898" emergencyDecel="4.500" apparentDecel="4.826" vClass="passenger" carFollowModel="Krauss" probability="0.010"/>
+		<vType id="passengercar82" tau="0.962" sigma="0.530" decel="4.275" accel="2.503" speedFactor="1.170" emergencyDecel="4.500" apparentDecel="4.672" vClass="passenger" carFollowModel="Krauss" probability="0.010"/>
+		<vType id="passengercar83" tau="1.077" sigma="0.290" decel="4.250" accel="2.407" speedFactor="1.083" emergencyDecel="4.500" apparentDecel="4.188" vClass="passenger" carFollowModel="Krauss" probability="0.010"/>
+		<vType id="passengercar84" tau="0.924" sigma="0.617" decel="4.298" accel="2.431" speedFactor="0.835" emergencyDecel="4.500" apparentDecel="5.084" vClass="passenger" carFollowModel="Krauss" probability="0.010"/>
+		<vType id="passengercar85" tau="1.048" sigma="0.535" decel="4.396" accel="2.569" speedFactor="1.164" emergencyDecel="4.500" apparentDecel="3.399" vClass="passenger" carFollowModel="Krauss" probability="0.010"/>
+		<vType id="passengercar86" tau="0.807" sigma="0.363" decel="4.358" accel="2.422" speedFactor="0.922" emergencyDecel="4.500" apparentDecel="4.032" vClass="passenger" carFollowModel="Krauss" probability="0.010"/>
+		<vType id="passengercar87" tau="0.958" sigma="0.834" decel="4.450" accel="2.523" speedFactor="0.903" emergencyDecel="4.500" apparentDecel="3.756" vClass="passenger" carFollowModel="Krauss" probability="0.010"/>
+		<vType id="passengercar88" tau="0.830" sigma="0.404" decel="4.139" accel="2.549" speedFactor="0.999" emergencyDecel="4.500" apparentDecel="4.281" vClass="passenger" carFollowModel="Krauss" probability="0.010"/>
+		<vType id="passengercar89" tau="0.987" sigma="0.491" decel="4.497" accel="2.539" speedFactor="1.196" emergencyDecel="4.500" apparentDecel="3.331" vClass="passenger" carFollowModel="Krauss" probability="0.010"/>
+		<vType id="passengercar90" tau="1.015" sigma="0.238" decel="4.354" accel="2.413" speedFactor="1.155" emergencyDecel="4.500" apparentDecel="4.430" vClass="passenger" carFollowModel="Krauss" probability="0.010"/>
+		<vType id="passengercar91" tau="1.080" sigma="0.430" decel="4.287" accel="2.493" speedFactor="0.941" emergencyDecel="4.500" apparentDecel="3.953" vClass="passenger" carFollowModel="Krauss" probability="0.010"/>
+		<vType id="passengercar92" tau="0.796" sigma="0.731" decel="4.384" accel="2.437" speedFactor="1.020" emergencyDecel="4.500" apparentDecel="3.732" vClass="passenger" carFollowModel="Krauss" probability="0.010"/>
+		<vType id="passengercar93" tau="0.877" sigma="0.571" decel="4.014" accel="2.467" speedFactor="1.027" emergencyDecel="4.500" apparentDecel="4.506" vClass="passenger" carFollowModel="Krauss" probability="0.010"/>
+		<vType id="passengercar94" tau="1.025" sigma="0.352" decel="4.170" accel="2.489" speedFactor="1.172" emergencyDecel="4.500" apparentDecel="3.117" vClass="passenger" carFollowModel="Krauss" probability="0.010"/>
+		<vType id="passengercar95" tau="0.969" sigma="0.168" decel="4.256" accel="2.411" speedFactor="1.108" emergencyDecel="4.500" apparentDecel="3.394" vClass="passenger" carFollowModel="Krauss" probability="0.010"/>
+		<vType id="passengercar96" tau="0.857" sigma="0.694" decel="4.260" accel="2.403" speedFactor="0.862" emergencyDecel="4.500" apparentDecel="3.662" vClass="passenger" carFollowModel="Krauss" probability="0.010"/>
+		<vType id="passengercar97" tau="1.043" sigma="0.774" decel="4.082" accel="2.560" speedFactor="1.181" emergencyDecel="4.500" apparentDecel="3.404" vClass="passenger" carFollowModel="Krauss" probability="0.010"/>
+		<vType id="passengercar98" tau="1.018" sigma="0.267" decel="4.413" accel="2.531" speedFactor="0.968" emergencyDecel="4.500" apparentDecel="4.218" vClass="passenger" carFollowModel="Krauss" probability="0.010"/>
+		<vType id="passengercar99" tau="1.091" sigma="0.613" decel="4.195" accel="2.558" speedFactor="1.012" emergencyDecel="4.500" apparentDecel="3.099" vClass="passenger" carFollowModel="Krauss" probability="0.010"/>
+</vTypeDistribution> -->
+
+
+<flow id="flow1" type="dist" begin="0" end="7200" number="7200" route="motorway"  departLane="random" departSpeed="random"/>
+
+<vehicle id="ego" type="type_ego" route="motorway" depart="1800" departLane="random" departSpeed="random"/>  
+
+</routes>

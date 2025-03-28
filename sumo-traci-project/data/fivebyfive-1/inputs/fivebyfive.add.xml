@@ -1,0 +1,99 @@
+<additionals>
+    <rerouter id="rerouter_2" vTypes="taxi" edges="D3C3">
+        <interval begin="0" end="86400">
+            <destProbReroute id="C3B3"/>
+        </interval>
+    </rerouter>
+
+    <rerouter id="rerouter_3" vTypes="taxi" edges="C3B3">
+        <interval begin="0" end="86400">
+            <destProbReroute id="B3B2"/>
+        </interval>
+    </rerouter>
+
+    <rerouter id="rerouter_4" vTypes="taxi" edges="B3B2">
+        <interval begin="0" end="86400">
+            <destProbReroute id="B2B1"/>
+        </interval>
+    </rerouter>
+
+    <rerouter id="rerouter_5" vTypes="taxi" edges="B2B1">
+        <interval begin="0" end="86400">
+            <destProbReroute id="B1C1"/>
+        </interval>
+    </rerouter>
+
+    <rerouter id="rerouter_6" vTypes="taxi" edges="B1C1">
+        <interval begin="0" end="86400">
+            <destProbReroute id="C1D1"/>
+        </interval>
+    </rerouter>
+
+    <rerouter id="rerouter_7" vTypes="taxi" edges="C1D1">
+        <interval begin="0" end="86400">
+            <destProbReroute id="D1D2"/>
+        </interval>
+    </rerouter>
+
+    <rerouter id="rerouter_8" vTypes="taxi" edges="D1D2">
+        <interval begin="0" end="86400">
+            <destProbReroute id="D2D3"/>
+        </interval>
+    </rerouter>
+
+    <rerouter id="rerouter_9" vTypes="taxi" edges="D2D3">
+        <interval begin="0" end="86400">
+            <destProbReroute id="D3C3"/>
+        </interval>
+    </rerouter>
+
+    <!-- reverse -->
+
+    <rerouter id="rerouter_10" vTypes="taxi" edges="D3D2">
+        <interval begin="0" end="86400">
+            <destProbReroute id="D2D1"/>
+        </interval>
+    </rerouter>
+
+    <rerouter id="rerouter_11" vTypes="taxi" edges="D2D1">
+        <interval begin="0" end="86400">
+            <destProbReroute id="D1C1"/>
+        </interval>
+    </rerouter>
+
+    <rerouter id="rerouter_12" vTypes="taxi" edges="D1C1">
+        <interval begin="0" end="86400">
+            <destProbReroute id="C1B1"/>
+        </interval>
+    </rerouter>
+
+    <rerouter id="rerouter_13" vTypes="taxi" edges="C1B1">
+        <interval begin="0" end="86400">
+            <destProbReroute id="B1B2"/>
+        </interval>
+    </rerouter>
+
+    <rerouter id="rerouter_14" vTypes="taxi" edges="B1B2">
+        <interval begin="0" end="86400">
+            <destProbReroute id="B2B3"/>
+        </interval>
+    </rerouter>
+
+    <rerouter id="rerouter_15" vTypes="taxi" edges="B2B3">
+        <interval begin="0" end="86400">
+            <destProbReroute id="B3C3"/>
+        </interval>
+    </rerouter>
+
+    <rerouter id="rerouter_16" vTypes="taxi" edges="B3C3">
+        <interval begin="0" end="86400">
+            <destProbReroute id="C3D3"/>
+        </interval>
+    </rerouter>
+
+    <rerouter id="rerouter_17" vTypes="taxi" edges="C3D3">
+        <interval begin="0" end="86400">
+            <destProbReroute id="D3D2"/>
+        </interval>
+    </rerouter>
+</additionals>

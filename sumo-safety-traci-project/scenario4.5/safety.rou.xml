@@ -1,0 +1,18 @@
+<routes>
+
+    <vType id="car" maxSpeed="13.89"/>
+    <vType id="slowcar" maxSpeed="6.95"/>
+
+    <!-- for rail crossing scenario rear end collision of stopped vehicle -->
+
+        <!-- <route id="route0" edges="E0 E1 E4"/>
+        <vehicle id="leader" type="car" route="route0" depart="0" departSpeed="speedLimit" color="yellow"/>
+        <vehicle id="follower" type="car" route="route0" depart="15" departSpeed="speedLimit" color="red"/> -->
+
+    <!-- for single lane scenario rear end collision of moving vehicle -->
+
+        <route id="route1" edges="E5 E6 E7"/>
+        <vehicle id="leader" type="slowcar" route="route1" depart="0" departSpeed="speedLimit" color="yellow"/>
+        <vehicle id="follower" type="car" route="route1" depart="15" departSpeed="speedLimit" color="red"/>
+        
+</routes>
