@@ -17,7 +17,7 @@ echo "🔍 Adding large files (.csv, .xml, .zip)..."
 
 for dir in "${TARGET_DIRS[@]}"; do
     [ -d "$dir" ] || continue
-    find "$dir" -type f \( -name "*.csv" -o -name "*.xml" -o -name "*.zip" \) | while read file; do
+    find "$dir" -type f \( -name "*.csv" -o -name "*.zip" \) | while read file; do
         if is_dvc_tracked "$file"; then
             echo "⏩ Skipping (already tracked): $file" >> "$logfile"
         else

@@ -12,12 +12,5 @@
 /ratios_results.csv
 /cross_section_results.csv
 /grouped_inductionout.csv
-/safety.add.xml
-/gui-settings.xml
-/safety.net.xml
-/safety.rou.xml
 /collisions.xml
 /safety.tls.xml
-/vTypeDistributions.add.xml
-/lanedetectors.add.xml
-/detectors.add.xml

@@ -217,3 +217,27 @@ KeyboardInterrupt
 ⏩ Skipping (already tracked): other/testing/ITSC2020_CAV_impact-master/Urban/Simulations/Base/DCC_emitters.emi.xml
 ⏩ Skipping (already tracked): other/testing/base_attack_lane_metrics_all_step.csv
 ⏩ Skipping (already tracked): other/ITSC2020_CAV_impact-master.zip
+Cache and remote 'myremote' are in sync.
+Everything is up to date.
+🔁 Sync started at Fri Mar 28 04:33:41 PM GMT 2025
+⏩ Skipping (already tracked): other/testing/attack_mean_speeds_MA.csv
+⏩ Skipping (already tracked): other/testing/base_lane_metrics_all_step.csv
+⏩ Skipping (already tracked): other/testing/Book3.csv
+⏩ Skipping (already tracked): other/testing/combined_speed_count_data.csv
+⏩ Skipping (already tracked): other/testing/attack_mean_speeds.csv
+⏩ Skipping (already tracked): other/testing/attack_lane_metrics_all_step.csv
+⏩ Skipping (already tracked): other/testing/base_mean_speeds_MA.csv
+⏩ Skipping (already tracked): other/testing/stopped_vehicles.csv
+⏩ Skipping (already tracked): other/testing/base_mean_speeds.csv
+⏩ Skipping (already tracked): other/testing/base_attack_lane_metrics_all_step.csv
+⏩ Skipping (already tracked): other/ITSC2020_CAV_impact-master.zip
+📦 Adding large: other/testing/ITSC2020_CAV_impact-master/Motorway/Simulations/Base/M50_emitters.emi.xml
+ERROR: Path '/home/don/src/sumo-paper-grid/other/testing/ITSC2020_CAV_impact-master/Motorway/Simulations/Base/M50_emitters.emi.xml' is ignored by
+.dvcignore:9:*.emi.xml
+⚠️ Failed: other/testing/ITSC2020_CAV_impact-master/Motorway/Simulations/Base/M50_emitters.emi.xml
+📦 Adding large: other/testing/ITSC2020_CAV_impact-master/Urban/Simulations/Base/DCC_emitters.emi.xml
+ERROR: Path '/home/don/src/sumo-paper-grid/other/testing/ITSC2020_CAV_impact-master/Urban/Simulations/Base/DCC_emitters.emi.xml' is ignored by
+.dvcignore:9:*.emi.xml
+⚠️ Failed: other/testing/ITSC2020_CAV_impact-master/Urban/Simulations/Base/DCC_emitters.emi.xml
+⏩ Skipping (already tracked): other/testing/base_attack_lane_metrics_all_step.csv
+⏩ Skipping (already tracked): other/ITSC2020_CAV_impact-master.zip
