@@ -13,7 +13,7 @@ is_dvc_tracked() {
     [[ -f "${file}.dvc" ]] || grep -q "$file" .gitignore 2>/dev/null
 }
 
-echo "🔍 Adding large files (.csv, .xml, .zip)..."
+echo "🔍 Adding large files (.csv, .zip)..."
 
 for dir in "${TARGET_DIRS[@]}"; do
     [ -d "$dir" ] || continue
