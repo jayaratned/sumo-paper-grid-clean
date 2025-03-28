@@ -1,0 +1,159 @@
+🔁 Sync started at Fri Mar 28 03:45:39 PM GMT 2025
+📦 Trying to add: other/testing/attack_mean_speeds_MA.csv
+📦 Trying to add: other/testing/base_lane_metrics_all_step.csv
+📦 Trying to add: other/testing/Book3.csv
+📦 Trying to add: other/testing/combined_speed_count_data.csv
+📦 Trying to add: other/testing/attack_mean_speeds.csv
+📦 Trying to add: other/testing/fivebyfive-inputs/fivebyfive-aws.nod.xml
+📦 Trying to add: other/testing/fivebyfive-inputs/fivebyfive-aws.net.xml
+📦 Trying to add: other/testing/fivebyfive-inputs/fivebyfive-aws.tll.xml
+📦 Trying to add: other/testing/fivebyfive-inputs/gui-settings.xml
+📦 Trying to add: other/testing/fivebyfive-inputs/fivebyfive-aws.con.xml
+📦 Trying to add: other/testing/fivebyfive-inputs/fivebyfive.add.xml
+📦 Trying to add: other/testing/fivebyfive-inputs/fivebyfive.rou.xml
+📦 Trying to add: other/testing/fivebyfive-inputs/fivebyfive-taxionly.rou.xml
+📦 Trying to add: other/testing/fivebyfive-inputs/fivebyfive-aws.edg.xml
+📦 Trying to add: other/testing/ITSC2020_CAV_impact-master/National/Simulations/Scenario F/vtypes.add.xml
+📦 Trying to add: other/testing/ITSC2020_CAV_impact-master/National/Simulations/Scenario E/vtypes.add.xml
+📦 Trying to add: other/testing/ITSC2020_CAV_impact-master/National/Simulations/Scenario C/vtypes.add.xml
+📦 Trying to add: other/testing/ITSC2020_CAV_impact-master/National/Simulations/Scenario B/vtypes.add.xml
+📦 Trying to add: other/testing/ITSC2020_CAV_impact-master/National/Simulations/Scenario A/vtypes.add.xml
+📦 Trying to add: other/testing/ITSC2020_CAV_impact-master/National/Simulations/Base/N7_emitters.emi.xml
+📦 Trying to add: other/testing/ITSC2020_CAV_impact-master/National/Simulations/Base/N7_routes.rou.xml
+📦 Trying to add: other/testing/ITSC2020_CAV_impact-master/National/Simulations/Base/N7_network.net.xml
+📦 Trying to add: other/testing/ITSC2020_CAV_impact-master/National/Simulations/Base/N7_detectors.poi.xml
+📦 Trying to add: other/testing/ITSC2020_CAV_impact-master/National/Simulations/Base/vtypes.add.xml
+📦 Trying to add: other/testing/ITSC2020_CAV_impact-master/National/Simulations/Scenario D/vtypes.add.xml
+📦 Trying to add: other/testing/ITSC2020_CAV_impact-master/Motorway/Simulations/Scenario F/vtypes.add.xml
+📦 Trying to add: other/testing/ITSC2020_CAV_impact-master/Motorway/Simulations/Scenario E/vtypes.add.xml
+📦 Trying to add: other/testing/ITSC2020_CAV_impact-master/Motorway/Simulations/Scenario C/vtypes.add.xml
+📦 Trying to add: other/testing/ITSC2020_CAV_impact-master/Motorway/Simulations/Scenario B/vtypes.add.xml
+📦 Trying to add: other/testing/ITSC2020_CAV_impact-master/Motorway/Simulations/Scenario A/vtypes.add.xml
+📦 Trying to add: other/testing/ITSC2020_CAV_impact-master/Motorway/Simulations/Base/M50_routes.rou.xml
+📦 Trying to add: other/testing/ITSC2020_CAV_impact-master/Motorway/Simulations/Base/M50_detectors.poi.xml
+📦 Trying to add: other/testing/ITSC2020_CAV_impact-master/Motorway/Simulations/Base/M50_emitters.emi.xml
+📦 Trying to add: other/testing/ITSC2020_CAV_impact-master/Motorway/Simulations/Base/vtypes.add.xml
+📦 Trying to add: other/testing/ITSC2020_CAV_impact-master/Motorway/Simulations/Base/M50network.net.xml
+📦 Trying to add: other/testing/ITSC2020_CAV_impact-master/Motorway/Simulations/Scenario D/vtypes.add.xml
+📦 Trying to add: other/testing/ITSC2020_CAV_impact-master/Urban/Simulations/Scenario F/vtypes.add.xml
+📦 Trying to add: other/testing/ITSC2020_CAV_impact-master/Urban/Simulations/Scenario E/vtypes.add.xml
+📦 Trying to add: other/testing/ITSC2020_CAV_impact-master/Urban/Simulations/Scenario C/vtypes.add.xml
+📦 Trying to add: other/testing/ITSC2020_CAV_impact-master/Urban/Simulations/Scenario B/vtypes.add.xml
+📦 Trying to add: other/testing/ITSC2020_CAV_impact-master/Urban/Simulations/Scenario A/vtypes.add.xml
+📦 Trying to add: other/testing/ITSC2020_CAV_impact-master/Urban/Simulations/Base/DCC_trafficlights.add.xml
+📦 Trying to add: other/testing/ITSC2020_CAV_impact-master/Urban/Simulations/Base/DCC_routes.rou.xml
+📦 Trying to add: other/testing/ITSC2020_CAV_impact-master/Urban/Simulations/Base/DCC.net.xml
+📦 Trying to add: other/testing/ITSC2020_CAV_impact-master/Urban/Simulations/Base/vtypes.add.xml
+📦 Trying to add: other/testing/ITSC2020_CAV_impact-master/Urban/Simulations/Base/DCC_emitters.emi.xml
+ERROR: interrupted by the user
+⚠️ Failed: other/testing/ITSC2020_CAV_impact-master/Urban/Simulations/Base/DCC_emitters.emi.xml
+📦 Trying to add: other/testing/ITSC2020_CAV_impact-master/Urban/Simulations/Base/DCC_detectors.poi.xml
+ERROR: interrupted by the user
+⚠️ Failed: other/testing/ITSC2020_CAV_impact-master/Urban/Simulations/Base/DCC_detectors.poi.xml
+📦 Trying to add: other/testing/ITSC2020_CAV_impact-master/Urban/Simulations/Scenario D/vtypes.add.xml
+ERROR: interrupted by the user
+⚠️ Failed: other/testing/ITSC2020_CAV_impact-master/Urban/Simulations/Scenario D/vtypes.add.xml
+📦 Trying to add: other/testing/attack_lane_metrics_all_step.csv
+ERROR: interrupted by the user
+⚠️ Failed: other/testing/attack_lane_metrics_all_step.csv
+📦 Trying to add: other/testing/base_mean_speeds_MA.csv
+ERROR: interrupted by the user
+Traceback (most recent call last):
+  File "/home/don/src/sumo-paper-grid/venv/bin/dvc", line 8, in <module>
+    sys.exit(main())
+             ^^^^^^
+  File "/home/don/src/sumo-paper-grid/venv/lib/python3.12/site-packages/dvc/cli/__init__.py", line 252, in main
+    from dvc.repo.open_repo import clean_repos
+  File "/home/don/src/sumo-paper-grid/venv/lib/python3.12/site-packages/dvc/repo/open_repo.py", line 11, in <module>
+    from dvc.scm import CloneError, map_scm_exception
+  File "/home/don/src/sumo-paper-grid/venv/lib/python3.12/site-packages/dvc/scm.py", line 11, in <module>
+    from scmrepo.git import Git
+  File "/home/don/src/sumo-paper-grid/venv/lib/python3.12/site-packages/scmrepo/git/__init__.py", line 27, in <module>
+    from .backend.dulwich import DulwichBackend
+  File "/home/don/src/sumo-paper-grid/venv/lib/python3.12/site-packages/scmrepo/git/backend/dulwich/__init__.py", line 167, in <module>
+    class DulwichBackend(BaseGitBackend):  # pylint:disable=abstract-method
+  File "/home/don/src/sumo-paper-grid/venv/lib/python3.12/site-packages/scmrepo/git/backend/dulwich/__init__.py", line 170, in DulwichBackend
+    from dulwich import client
+  File "/home/don/src/sumo-paper-grid/venv/lib/python3.12/site-packages/dulwich/client.py", line 131, in <module>
+    from .repo import Repo
+  File "/home/don/src/sumo-paper-grid/venv/lib/python3.12/site-packages/dulwich/repo.py", line 348, in <module>
+    class BaseRepo:
+  File "/home/don/src/sumo-paper-grid/venv/lib/python3.12/site-packages/dulwich/repo.py", line 849, in BaseRepo
+    def __setitem__(self, name: bytes, value: Union[ShaFile, bytes]) -> None:
+                                              ~~~~~^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/typing.py", line 395, in inner
+    return _caches[func](*args, **kwds)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/typing.py", line 510, in __getitem__
+    return self._getitem(self, parameters)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/typing.py", line 723, in Union
+    parameters = tuple(_type_check(p, msg) for p in parameters)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/typing.py", line 723, in <genexpr>
+    parameters = tuple(_type_check(p, msg) for p in parameters)
+                       ^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/typing.py", line 175, in _type_check
+    def _type_check(arg, msg, is_argument=True, module=None, *, allow_special_forms=False):
+    
+KeyboardInterrupt
+🔁 Sync started at Fri Mar 28 03:49:53 PM GMT 2025
+⏩ Skipping (already tracked): other/testing/attack_mean_speeds_MA.csv
+⏩ Skipping (already tracked): other/testing/base_lane_metrics_all_step.csv
+⏩ Skipping (already tracked): other/testing/Book3.csv
+⏩ Skipping (already tracked): other/testing/combined_speed_count_data.csv
+⏩ Skipping (already tracked): other/testing/attack_mean_speeds.csv
+⏩ Skipping (already tracked): other/testing/fivebyfive-inputs/fivebyfive-aws.nod.xml
+⏩ Skipping (already tracked): other/testing/fivebyfive-inputs/fivebyfive-aws.net.xml
+⏩ Skipping (already tracked): other/testing/fivebyfive-inputs/fivebyfive-aws.tll.xml
+⏩ Skipping (already tracked): other/testing/fivebyfive-inputs/gui-settings.xml
+⏩ Skipping (already tracked): other/testing/fivebyfive-inputs/fivebyfive-aws.con.xml
+⏩ Skipping (already tracked): other/testing/fivebyfive-inputs/fivebyfive.add.xml
+⏩ Skipping (already tracked): other/testing/fivebyfive-inputs/fivebyfive.rou.xml
+⏩ Skipping (already tracked): other/testing/fivebyfive-inputs/fivebyfive-taxionly.rou.xml
+⏩ Skipping (already tracked): other/testing/fivebyfive-inputs/fivebyfive-aws.edg.xml
+⏩ Skipping (already tracked): other/testing/ITSC2020_CAV_impact-master/National/Simulations/Scenario F/vtypes.add.xml
+⏩ Skipping (already tracked): other/testing/ITSC2020_CAV_impact-master/National/Simulations/Scenario E/vtypes.add.xml
+⏩ Skipping (already tracked): other/testing/ITSC2020_CAV_impact-master/National/Simulations/Scenario C/vtypes.add.xml
+⏩ Skipping (already tracked): other/testing/ITSC2020_CAV_impact-master/National/Simulations/Scenario B/vtypes.add.xml
+⏩ Skipping (already tracked): other/testing/ITSC2020_CAV_impact-master/National/Simulations/Scenario A/vtypes.add.xml
+⏩ Skipping (already tracked): other/testing/ITSC2020_CAV_impact-master/National/Simulations/Base/N7_emitters.emi.xml
+⏩ Skipping (already tracked): other/testing/ITSC2020_CAV_impact-master/National/Simulations/Base/N7_routes.rou.xml
+⏩ Skipping (already tracked): other/testing/ITSC2020_CAV_impact-master/National/Simulations/Base/N7_network.net.xml
+⏩ Skipping (already tracked): other/testing/ITSC2020_CAV_impact-master/National/Simulations/Base/N7_detectors.poi.xml
+⏩ Skipping (already tracked): other/testing/ITSC2020_CAV_impact-master/National/Simulations/Base/vtypes.add.xml
+⏩ Skipping (already tracked): other/testing/ITSC2020_CAV_impact-master/National/Simulations/Scenario D/vtypes.add.xml
+⏩ Skipping (already tracked): other/testing/ITSC2020_CAV_impact-master/Motorway/Simulations/Scenario F/vtypes.add.xml
+⏩ Skipping (already tracked): other/testing/ITSC2020_CAV_impact-master/Motorway/Simulations/Scenario E/vtypes.add.xml
+⏩ Skipping (already tracked): other/testing/ITSC2020_CAV_impact-master/Motorway/Simulations/Scenario C/vtypes.add.xml
+⏩ Skipping (already tracked): other/testing/ITSC2020_CAV_impact-master/Motorway/Simulations/Scenario B/vtypes.add.xml
+⏩ Skipping (already tracked): other/testing/ITSC2020_CAV_impact-master/Motorway/Simulations/Scenario A/vtypes.add.xml
+⏩ Skipping (already tracked): other/testing/ITSC2020_CAV_impact-master/Motorway/Simulations/Base/M50_routes.rou.xml
+⏩ Skipping (already tracked): other/testing/ITSC2020_CAV_impact-master/Motorway/Simulations/Base/M50_detectors.poi.xml
+⏩ Skipping (already tracked): other/testing/ITSC2020_CAV_impact-master/Motorway/Simulations/Base/M50_emitters.emi.xml
+⏩ Skipping (already tracked): other/testing/ITSC2020_CAV_impact-master/Motorway/Simulations/Base/vtypes.add.xml
+⏩ Skipping (already tracked): other/testing/ITSC2020_CAV_impact-master/Motorway/Simulations/Base/M50network.net.xml
+⏩ Skipping (already tracked): other/testing/ITSC2020_CAV_impact-master/Motorway/Simulations/Scenario D/vtypes.add.xml
+⏩ Skipping (already tracked): other/testing/ITSC2020_CAV_impact-master/Urban/Simulations/Scenario F/vtypes.add.xml
+⏩ Skipping (already tracked): other/testing/ITSC2020_CAV_impact-master/Urban/Simulations/Scenario E/vtypes.add.xml
+⏩ Skipping (already tracked): other/testing/ITSC2020_CAV_impact-master/Urban/Simulations/Scenario C/vtypes.add.xml
+⏩ Skipping (already tracked): other/testing/ITSC2020_CAV_impact-master/Urban/Simulations/Scenario B/vtypes.add.xml
+⏩ Skipping (already tracked): other/testing/ITSC2020_CAV_impact-master/Urban/Simulations/Scenario A/vtypes.add.xml
+⏩ Skipping (already tracked): other/testing/ITSC2020_CAV_impact-master/Urban/Simulations/Base/DCC_trafficlights.add.xml
+⏩ Skipping (already tracked): other/testing/ITSC2020_CAV_impact-master/Urban/Simulations/Base/DCC_routes.rou.xml
+⏩ Skipping (already tracked): other/testing/ITSC2020_CAV_impact-master/Urban/Simulations/Base/DCC.net.xml
+⏩ Skipping (already tracked): other/testing/ITSC2020_CAV_impact-master/Urban/Simulations/Base/vtypes.add.xml
+⏩ Skipping (already tracked): other/testing/ITSC2020_CAV_impact-master/Urban/Simulations/Base/DCC_emitters.emi.xml
+⏩ Skipping (already tracked): other/testing/ITSC2020_CAV_impact-master/Urban/Simulations/Base/DCC_detectors.poi.xml
+⏩ Skipping (already tracked): other/testing/ITSC2020_CAV_impact-master/Urban/Simulations/Scenario D/vtypes.add.xml
+⏩ Skipping (already tracked): other/testing/attack_lane_metrics_all_step.csv
+⏩ Skipping (already tracked): other/testing/base_mean_speeds_MA.csv
+⏩ Skipping (already tracked): other/testing/stopped_vehicles.csv
+⏩ Skipping (already tracked): other/testing/M50network.net.xml
+⏩ Skipping (already tracked): other/testing/base_mean_speeds.csv
+⏩ Skipping (already tracked): other/testing/base_attack_lane_metrics_all_step.csv
+⏩ Skipping (already tracked): other/ITSC2020_CAV_impact-master.zip
+⏩ Skipping (already tracked): other/testing/ITSC2020_CAV_impact-master/Motorway/Simulations/Base/M50_emitters.emi.xml
+⏩ Skipping (already tracked): other/testing/ITSC2020_CAV_impact-master/Urban/Simulations/Base/DCC_emitters.emi.xml
+⏩ Skipping (already tracked): other/testing/base_attack_lane_metrics_all_step.csv
+⏩ Skipping (already tracked): other/ITSC2020_CAV_impact-master.zip
