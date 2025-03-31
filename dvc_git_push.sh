@@ -6,7 +6,7 @@ logfile="dvc_add_log.txt"
 echo "🔁 Sync started at $(date)" >> "$logfile"
 
 # === Only check folders where data might live ===
-TARGET_DIRS=("sumo-operational-project", "sumo-safety-traci-project", "sumo-tester", "sumo-traci-project", "static-attacker", "other")
+TARGET_DIRS=("sumo-operational-project" "sumo-safety-traci-project" "sumo-tester" "sumo-traci-project" "static-attacker" "other")
 
 is_dvc_tracked() {
     local file="$1"
@@ -23,6 +23,10 @@ for dir in "${TARGET_DIRS[@]}"; do
         else
             echo "📦 Adding: $file"
             echo "📦 Adding: $file" >> "$logfile"
+            if git ls-files --error-unmatch "$file" >/dev/null 2>&1; then
+                echo "🔀 Removing Git tracking from $file"
+                git rm --cached "$file"
+            fi
             dvc add "$file" >> "$logfile" 2>&1 || echo "⚠️ Failed: $file" >> "$logfile"
         fi
     done
@@ -38,6 +42,10 @@ for dir in "${TARGET_DIRS[@]}"; do
         else
             echo "📦 Adding large: $file"
             echo "📦 Adding large: $file" >> "$logfile"
+            if git ls-files --error-unmatch "$file" >/dev/null 2>&1; then
+                echo "🔀 Removing Git tracking from $file"
+                git rm --cached "$file"
+            fi
             dvc add "$file" >> "$logfile" 2>&1 || echo "⚠️ Failed: $file" >> "$logfile"
         fi
     done
