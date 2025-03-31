@@ -269,3 +269,33 @@ ERROR:  output 'other/testing/ITSC2020_CAV_impact-master/Urban/Simulations/Base/
 ⚠️ Failed: other/testing/ITSC2020_CAV_impact-master/Urban/Simulations/Base/DCC_emitters.emi.xml
 ⏩ Skipping (already tracked): other/testing/base_attack_lane_metrics_all_step.csv
 ⏩ Skipping (already tracked): other/ITSC2020_CAV_impact-master.zip
+Cache and remote 'myremote' are in sync.
+Everything is up to date.
+🔁 Sync started at Mon Mar 31 03:15:01 PM BST 2025
+⏩ Skipping (already tracked): other/testing/attack_mean_speeds_MA.csv
+⏩ Skipping (already tracked): other/testing/base_lane_metrics_all_step.csv
+⏩ Skipping (already tracked): other/testing/Book3.csv
+⏩ Skipping (already tracked): other/testing/combined_speed_count_data.csv
+⏩ Skipping (already tracked): other/testing/attack_mean_speeds.csv
+⏩ Skipping (already tracked): other/testing/attack_lane_metrics_all_step.csv
+⏩ Skipping (already tracked): other/testing/base_mean_speeds_MA.csv
+⏩ Skipping (already tracked): other/testing/stopped_vehicles.csv
+⏩ Skipping (already tracked): other/testing/base_mean_speeds.csv
+⏩ Skipping (already tracked): other/testing/base_attack_lane_metrics_all_step.csv
+⏩ Skipping (already tracked): other/ITSC2020_CAV_impact-master.zip
+📦 Adding large: other/testing/ITSC2020_CAV_impact-master/Motorway/Simulations/Base/M50_emitters.emi.xml
+ERROR:  output 'other/testing/ITSC2020_CAV_impact-master/Motorway/Simulations/Base/M50_emitters.emi.xml' is already tracked by SCM (e.g. Git).
+    You can remove it from Git, then add to DVC.
+        To stop tracking from Git:
+            git rm -r --cached 'other/testing/ITSC2020_CAV_impact-master/Motorway/Simulations/Base/M50_emitters.emi.xml'
+            git commit -m "stop tracking other/testing/ITSC2020_CAV_impact-master/Motorway/Simulations/Base/M50_emitters.emi.xml" 
+⚠️ Failed: other/testing/ITSC2020_CAV_impact-master/Motorway/Simulations/Base/M50_emitters.emi.xml
+📦 Adding large: other/testing/ITSC2020_CAV_impact-master/Urban/Simulations/Base/DCC_emitters.emi.xml
+ERROR:  output 'other/testing/ITSC2020_CAV_impact-master/Urban/Simulations/Base/DCC_emitters.emi.xml' is already tracked by SCM (e.g. Git).
+    You can remove it from Git, then add to DVC.
+        To stop tracking from Git:
+            git rm -r --cached 'other/testing/ITSC2020_CAV_impact-master/Urban/Simulations/Base/DCC_emitters.emi.xml'
+            git commit -m "stop tracking other/testing/ITSC2020_CAV_impact-master/Urban/Simulations/Base/DCC_emitters.emi.xml" 
+⚠️ Failed: other/testing/ITSC2020_CAV_impact-master/Urban/Simulations/Base/DCC_emitters.emi.xml
+⏩ Skipping (already tracked): other/testing/base_attack_lane_metrics_all_step.csv
+⏩ Skipping (already tracked): other/ITSC2020_CAV_impact-master.zip
