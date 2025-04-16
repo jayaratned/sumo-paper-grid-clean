@@ -149,7 +149,7 @@ def main():
     stopFlag = False
     ego_id = 'ego'
     target_lane = '104359041_0'
-    target_position = 3001  # Desired position to stop the vehicle on the lane
+    target_position = 3009  # Desired position to stop the vehicle on the lane
     ego_stop_time = None
 
     # New variables for second ego vehicle

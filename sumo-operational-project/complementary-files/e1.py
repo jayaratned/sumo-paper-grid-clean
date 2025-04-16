@@ -1,7 +1,7 @@
 # Generate e1 detector file for 100m intervals on a 6km road
-road_length = 5000  # 6 km in meters
+road_length = 4000  # 6 km in meters
 interval = 100  # Detector interval in meters
-lane_ids = ["E0_0", "E0_1"]  # Replace with your actual lane IDs
+lane_ids = ["104359041_0", "104359041_1", "104359041_2", "104359041_3"]  # Replace with your actual lane IDs
 
 with open("e1detectors.add.xml", "w") as f:
     f.write('<additional>\n')
