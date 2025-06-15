@@ -28,7 +28,7 @@ from sumolib import checkBinary  # noqa
 from sumolib.xml import parse  # noqa
 
 
-sumoBinary = checkBinary('sumo')
+sumoBinary = checkBinary('sumo-gui')
 
 
 ROUTE_TEMPLATE = """
