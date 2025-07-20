@@ -1,2 +1,0 @@
-Scenario1 is rear end collision between follower and leader with most parameters left as default, except for the following:
-follower vehicle is controlled through traci script to keep speed at 50kmph, CFM does not come into play here
