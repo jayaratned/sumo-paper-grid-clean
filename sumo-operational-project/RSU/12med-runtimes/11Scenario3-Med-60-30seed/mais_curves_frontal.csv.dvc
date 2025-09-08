@@ -1,0 +1,5 @@
+outs:
+- md5: b51eaa87fdb2443e8c6036df3ff7c002
+  size: 20640
+  hash: md5
+  path: mais_curves_frontal.csv

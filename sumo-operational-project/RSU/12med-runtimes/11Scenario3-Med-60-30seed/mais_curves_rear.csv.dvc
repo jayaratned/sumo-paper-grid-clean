@@ -1,0 +1,5 @@
+outs:
+- md5: 7a85feb4b67fcf0545a575200753542a
+  size: 20640
+  hash: md5
+  path: mais_curves_rear.csv

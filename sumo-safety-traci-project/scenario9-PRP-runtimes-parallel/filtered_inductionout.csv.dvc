@@ -1,0 +1,5 @@
+outs:
+- md5: f1b1331dad1ff5c8beec8e5558a90d45
+  size: 2682
+  hash: md5
+  path: filtered_inductionout.csv

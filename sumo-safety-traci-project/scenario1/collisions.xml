@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 2024-01-29 04:07:26 by Eclipse SUMO GUI Version 1.18.0
+<configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/sumoConfiguration.xsd">
+
+    <input>
+        <net-file value="safety.net.xml"/>
+        <route-files value="safety.rou.xml"/>
+    </input>
+
+    <output>
+        <collision-output value="collisions.xml"/>
+    </output>
+
+    <time>
+        <begin value="0"/>
+        <end value="60"/>
+    </time>
+
+    <processing>
+        <collision.action value="remove"/>
+        <collision.stoptime value="60"/>
+        <collision.mingap-factor value="0"/>
+    </processing>
+
+    <traci_server>
+        <remote-port value="40913"/>
+    </traci_server>
+
+    <random_number>
+        <seed value="23423"/>
+    </random_number>
+
+    <gui_only>
+        <gui-settings-file value="gui-settings.xml"/>
+    </gui_only>
+
+</configuration>
+-->
+
+<collisions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/collision_file.xsd">
+    <collision time="27.00" type="collision" lane="E5_0" pos="170.39" collider="follower" victim="leader" colliderType="car" victimType="slowcar" colliderSpeed="12.09" victimSpeed="6.18"/>
+</collisions>

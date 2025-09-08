@@ -5,12 +5,21 @@ import random
 import pandas as pd
 import shutil
 import os
+import sys
+
+# Ensure runtime log directory exists
+os.makedirs("logs", exist_ok=True)
+wall_log_file = "logs/simulation_wall_times.csv"
+if not os.path.isfile(wall_log_file):
+    with open(wall_log_file, "w") as f:
+        f.write("Scenario,Seed,WallClock (s)\n")
+
 
 # Record the start time
 py_start_time = time.time()
 
 # Generate unique random seeds between 1 and 23423
-num_seeds = 5
+num_seeds = 1
 seeds = random.sample(range(1, 23424), num_seeds)
 
 print("Generated random seeds:", seeds)
@@ -236,6 +245,8 @@ for scenario in scenarios:
     for seed in seeds:
         print(f"Running scenario: {scenario}, seed: {seed}")
 
+        wall_start = time.time() 
+
         data, eb_log, collision_log = [], [], []
         detector_entry_log = {detector: set() for detector in lane_detectors}
         slowing_vehicles = {}
@@ -281,6 +292,11 @@ for scenario in scenarios:
         while traci.simulation.getTime() < SIMULATION_END_TIME:
             traci.simulationStep()
             simtime = traci.simulation.getTime()
+
+            # --- Progress tracker (prints in place) ---
+            progress = (simtime / SIMULATION_END_TIME) * 100
+            sys.stdout.write(f"\rSimulation time: {simtime:.0f}s / {SIMULATION_END_TIME} ({progress:.2f}%)")
+            sys.stdout.flush()
 
             # Data collection every second
             if STEP_COUNTER % 10 == 0:
@@ -377,8 +393,11 @@ for scenario in scenarios:
                 ])
 
             STEP_COUNTER += 1
+        print()
 
         traci.close()
+
+        wall_elapsed = time.time() - wall_start  # <-- end wall-clock timer
 
         # Ensure directories exist
         os.makedirs("data", exist_ok=True)
@@ -402,6 +421,13 @@ for scenario in scenarios:
         os.remove(modified_xml)
 
         print(f"Completed scenario: {scenario}, seed: {seed}")
+
+        # NEW: record simulation time per seed
+        with open(wall_log_file, "a") as f:
+            f.write(f"{scenario},{seed},{wall_elapsed}\n")
+
+        print(f"Simulation wall-clock time logged: Scenario={scenario}, Seed={seed}, Time={wall_elapsed:.2f}s")
+
 
 py_end_time = time.time()
 py_elapsed_time = py_end_time - py_start_time

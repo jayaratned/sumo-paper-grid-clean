@@ -1,0 +1,5 @@
+outs:
+- md5: bd028c95ca5b15b460109f766f392f81
+  size: 348
+  hash: md5
+  path: collisions_detailed_seed1001.csv
