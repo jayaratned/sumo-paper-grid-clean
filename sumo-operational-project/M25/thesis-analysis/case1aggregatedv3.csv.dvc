@@ -1,0 +1,5 @@
+outs:
+- md5: 9c0942de27b810139951d7720504d54c
+  size: 59752
+  hash: md5
+  path: case1aggregatedv3.csv

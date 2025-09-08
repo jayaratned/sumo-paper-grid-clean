@@ -1,0 +1,5 @@
+outs:
+- md5: 21714283661d9e497afc3e9af9728de4
+  size: 576
+  hash: md5
+  path: case3_mean_ratios.csv

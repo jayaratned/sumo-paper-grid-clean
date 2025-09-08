@@ -1,0 +1,5 @@
+outs:
+- md5: e25270ee91acd7b66e76409e7ce98bec
+  size: 2480547
+  hash: md5
+  path: case60_per_seed_ratios.csv

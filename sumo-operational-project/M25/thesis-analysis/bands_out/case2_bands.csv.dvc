@@ -1,0 +1,5 @@
+outs:
+- md5: 6a34905e0dbd1df65fc5558717632402
+  size: 1704
+  hash: md5
+  path: case2_bands.csv

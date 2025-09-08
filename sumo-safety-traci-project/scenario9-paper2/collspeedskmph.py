@@ -80,7 +80,7 @@ collision_vehicles_mapping = {
 collision_vehicles = list(collision_vehicles_mapping.keys())
 
 # Increase overall font size
-plt.rcParams.update({'font.size': 14})
+plt.rcParams.update({'font.size': 18})
 
 # Load and filter the data
 filtered_chunks = []

@@ -1,0 +1,5 @@
+outs:
+- md5: 33bae0e26dd0517cd66265c1d8bb62fc
+  size: 1273
+  hash: md5
+  path: sr_fr_means_20.csv

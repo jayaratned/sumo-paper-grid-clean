@@ -1,0 +1,5 @@
+outs:
+- md5: 752906a634c0691a1c8245312c06f9a4
+  size: 1025
+  hash: md5
+  path: means-1250-40.csv

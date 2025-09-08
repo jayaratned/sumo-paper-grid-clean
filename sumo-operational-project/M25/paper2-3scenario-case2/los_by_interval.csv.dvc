@@ -1,0 +1,5 @@
+outs:
+- md5: d45232f10e1e86a7947be6e2259d40fa
+  size: 641
+  hash: md5
+  path: los_by_interval.csv
