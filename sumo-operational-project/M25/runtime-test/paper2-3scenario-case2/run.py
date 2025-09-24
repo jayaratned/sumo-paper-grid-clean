@@ -18,7 +18,7 @@ if not os.path.isfile(wall_log_file):
 py_start_time = time.time()
 
 # Generate unique random seeds between 1 and 23423
-num_seeds = 5
+num_seeds = 1
 seeds = random.sample(range(1, 23424), num_seeds)
 
 print("Generated random seeds:", seeds)
